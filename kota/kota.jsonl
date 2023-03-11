@@ -1,0 +1,514 @@
+{"code":"11.05","district":"12","island":"0","level":"Kabupaten","name":"Aceh Barat","no":"1","province_code":"11","subdistrict":"322","zip_allocation":"236xx","zip_utilization":"23615 - 23685"}
+{"code":"11.12","district":"9","island":"0","level":"Kabupaten","name":"Aceh Barat Daya","no":"2","province_code":"11","subdistrict":"152","zip_allocation":"2376x","zip_utilization":"23760 - 23769"}
+{"code":"11.06","district":"23","island":"37","level":"Kabupaten","name":"Aceh Besar","no":"3","province_code":"11","subdistrict":"604","zip_allocation":"233xx - 239xx","zip_utilization":"23350 - 23952"}
+{"code":"11.14","district":"9","island":"34","level":"Kabupaten","name":"Aceh Jaya","no":"4","province_code":"11","subdistrict":"172","zip_allocation":"2365x","zip_utilization":"23653 - 23659"}
+{"code":"11.01","district":"18","island":"6","level":"Kabupaten","name":"Aceh Selatan","no":"5","province_code":"11","subdistrict":"260","zip_allocation":"237xx","zip_utilization":"23711 - 23779"}
+{"code":"11.10","district":"11","island":"78","level":"Kabupaten","name":"Aceh Singkil","no":"6","province_code":"11","subdistrict":"116","zip_allocation":"247xx","zip_utilization":"24784 - 24794"}
+{"code":"11.16","district":"12","island":"9","level":"Kabupaten","name":"Aceh Tamiang","no":"7","province_code":"11","subdistrict":"213","zip_allocation":"2447x","zip_utilization":"24470 - 24479"}
+{"code":"11.04","district":"14","island":"0","level":"Kabupaten","name":"Aceh Tengah","no":"8","province_code":"11","subdistrict":"295","zip_allocation":"245xx","zip_utilization":"24511 - 24571"}
+{"code":"11.02","district":"16","island":"0","level":"Kabupaten","name":"Aceh Tenggara","no":"9","province_code":"11","subdistrict":"385","zip_allocation":"2466x - 2467x","zip_utilization":"24660 - 24678"}
+{"code":"11.03","district":"24","island":"7","level":"Kabupaten","name":"Aceh Timur","no":"10","province_code":"11","subdistrict":"513","zip_allocation":"2444x - 2446x","zip_utilization":"24440 - 24469"}
+{"code":"11.08","district":"27","island":"0","level":"Kabupaten","name":"Aceh Utara","no":"11","province_code":"11","subdistrict":"852","zip_allocation":"243xx","zip_utilization":"24313 - 24396"}
+{"code":"13.06","district":"16","island":"2","level":"Kabupaten","name":"Agam","no":"12","province_code":"13","subdistrict":"82","zip_allocation":"2615x - 2647x","zip_utilization":"26151 - 26473"}
+{"code":"53.05","district":"17","island":"17","level":"Kabupaten","name":"Alor","no":"13","province_code":"53","subdistrict":"175","zip_allocation":"858xx","zip_utilization":"85811 - 85884"}
+{"code":"81.71","district":"5","island":"1","level":"Kota","name":"Ambon","no":"14","province_code":"81","subdistrict":"50","zip_allocation":"971xx - 972xx","zip_utilization":"97114 - 97237"}
+{"code":"12.09","district":"25","island":"1","level":"Kabupaten","name":"Asahan","no":"15","province_code":"12","subdistrict":"204","zip_allocation":"212xx - 213xx","zip_utilization":"21211 - 21383"}
+{"code":"91.18","district":"19","island":"4","level":"Kabupaten","name":"Asmat","no":"16","province_code":"91","subdistrict":"221","zip_allocation":"9977x - 9979x","zip_utilization":"99771 - 99792"}
+{"code":"51.03","district":"6","island":"0","level":"Kabupaten","name":"Badung","no":"17","province_code":"51","subdistrict":"62","zip_allocation":"803xx","zip_utilization":"80351 - 80363"}
+{"code":"63.11","district":"8","island":"0","level":"Kabupaten","name":"Balangan","no":"18","province_code":"63","subdistrict":"157","zip_allocation":"716xx","zip_utilization":"71611 - 71667"}
+{"code":"64.71","district":"6","island":"5","level":"Kota","name":"Balikpapan","no":"19","province_code":"64","subdistrict":"34","zip_allocation":"761xx","zip_utilization":"76111 - 76136"}
+{"code":"11.71","district":"9","island":"0","level":"Kota","name":"Banda Aceh","no":"20","province_code":"11","subdistrict":"90","zip_allocation":"231xx - 232xx","zip_utilization":"23111 - 23249"}
+{"code":"18.71","district":"20","island":"2","level":"Kota","name":"Bandar Lampung","no":"21","province_code":"18","subdistrict":"126","zip_allocation":"351xx - 352xx","zip_utilization":"35111 - 35246"}
+{"code":"32.73","district":"30","island":"0","level":"Kota","name":"Bandung","no":"22","province_code":"32","subdistrict":"151","zip_allocation":"401xx - 406xx","zip_utilization":"40111 - 40619"}
+{"code":"32.04","district":"31","island":"0","level":"Kabupaten","name":"Bandung","no":"23","province_code":"32","subdistrict":"280","zip_allocation":"401xx - 409xx","zip_utilization":"40191 - 40974"}
+{"code":"32.17","district":"16","island":"0","level":"Kabupaten","name":"Bandung Barat","no":"24","province_code":"32","subdistrict":"165","zip_allocation":"403xx - 405xx","zip_utilization":"40391 - 40567"}
+{"code":"72.01","district":"23","island":"41","level":"Kabupaten","name":"Banggai","no":"25","province_code":"72","subdistrict":"337","zip_allocation":"947xx","zip_utilization":"94711 - 94775"}
+{"code":"72.07","district":"12","island":"224","level":"Kabupaten","name":"Banggai Kepulauan","no":"26","province_code":"72","subdistrict":"144","zip_allocation":"947xx - 948xx","zip_utilization":"94714 - 94889"}
+{"code":"72.11","district":"7","island":"142","level":"Kabupaten","name":"Banggai Laut","no":"27","province_code":"72","subdistrict":"66","zip_allocation":"9489x","zip_utilization":"94890 - 94896"}
+{"code":"19.01","district":"8","island":"48","level":"Kabupaten","name":"Bangka","no":"28","province_code":"19","subdistrict":"81","zip_allocation":"3317x - 332xx","zip_utilization":"33172 - 33255"}
+{"code":"19.05","district":"6","island":"89","level":"Kabupaten","name":"Bangka Barat","no":"29","province_code":"19","subdistrict":"64","zip_allocation":"333xx","zip_utilization":"33311 - 33366"}
+{"code":"19.03","district":"8","island":"59","level":"Kabupaten","name":"Bangka Selatan","no":"30","province_code":"19","subdistrict":"53","zip_allocation":"337xx","zip_utilization":"33777 - 33792"}
+{"code":"19.04","district":"6","island":"20","level":"Kabupaten","name":"Bangka Tengah","no":"31","province_code":"19","subdistrict":"63","zip_allocation":"336xx","zip_utilization":"33674 - 33684"}
+{"code":"35.26","district":"18","island":"0","level":"Kabupaten","name":"Bangkalan","no":"32","province_code":"35","subdistrict":"281","zip_allocation":"691xx","zip_utilization":"69112 - 69175"}
+{"code":"51.06","district":"4","island":"0","level":"Kabupaten","name":"Bangli","no":"33","province_code":"51","subdistrict":"72","zip_allocation":"806xx","zip_utilization":"80611 - 80671"}
+{"code":"32.79","district":"4","island":"0","level":"Kota","name":"Banjar","no":"34","province_code":"32","subdistrict":"25","zip_allocation":"463xx","zip_utilization":"46311 - 46344"}
+{"code":"63.03","district":"20","island":"3","level":"Kabupaten","name":"Banjar","no":"35","province_code":"63","subdistrict":"290","zip_allocation":"706xx - 712xx","zip_utilization":"70611 - 71213"}
+{"code":"63.72","district":"5","island":"0","level":"Kota","name":"Banjarbaru","no":"36","province_code":"63","subdistrict":"20","zip_allocation":"707xx","zip_utilization":"70713 - 70734"}
+{"code":"63.71","district":"5","island":"1","level":"Kota","name":"Banjarmasin","no":"37","province_code":"63","subdistrict":"52","zip_allocation":"701xx - 702xx","zip_utilization":"70111 - 70249"}
+{"code":"33.04","district":"20","island":"0","level":"Kabupaten","name":"Banjarnegara","no":"38","province_code":"33","subdistrict":"278","zip_allocation":"534xx","zip_utilization":"53411 - 53482"}
+{"code":"73.03","district":"8","island":"2","level":"Kabupaten","name":"Bantaeng","no":"39","province_code":"73","subdistrict":"67","zip_allocation":"924xx","zip_utilization":"92411 - 92462"}
+{"code":"34.02","district":"17","island":"0","level":"Kabupaten","name":"Bantul","no":"40","province_code":"34","subdistrict":"75","zip_allocation":"551xx - 557xx","zip_utilization":"55181 - 55792"}
+{"code":"16.07","district":"21","island":"20","level":"Kabupaten","name":"Banyuasin","no":"41","province_code":"16","subdistrict":"305","zip_allocation":"309xx","zip_utilization":"30911 - 30977"}
+{"code":"33.02","district":"27","island":"0","level":"Kabupaten","name":"Banyumas","no":"42","province_code":"33","subdistrict":"331","zip_allocation":"531xx","zip_utilization":"53111 - 53196"}
+{"code":"35.10","district":"25","island":"15","level":"Kabupaten","name":"Banyuwangi","no":"43","province_code":"35","subdistrict":"217","zip_allocation":"684xx","zip_utilization":"68411 - 68489"}
+{"code":"63.04","district":"17","island":"7","level":"Kabupaten","name":"Barito Kuala","no":"44","province_code":"63","subdistrict":"201","zip_allocation":"705xx","zip_utilization":"70511 - 70582"}
+{"code":"62.04","district":"6","island":"8","level":"Kabupaten","name":"Barito Selatan","no":"45","province_code":"62","subdistrict":"93","zip_allocation":"737xx","zip_utilization":"73711 - 73763"}
+{"code":"62.13","district":"10","island":"0","level":"Kabupaten","name":"Barito Timur","no":"46","province_code":"62","subdistrict":"104","zip_allocation":"736xx","zip_utilization":"73612 - 73681"}
+{"code":"62.05","district":"9","island":"0","level":"Kabupaten","name":"Barito Utara","no":"47","province_code":"62","subdistrict":"103","zip_allocation":"738xx","zip_utilization":"73811 - 73881"}
+{"code":"73.11","district":"7","island":"13","level":"Kabupaten","name":"Barru","no":"48","province_code":"73","subdistrict":"55","zip_allocation":"907xx","zip_utilization":"90711 - 90763"}
+{"code":"21.71","district":"12","island":"354","level":"Kota","name":"Batam","no":"49","province_code":"21","subdistrict":"64","zip_allocation":"294xx","zip_utilization":"29411 - 29487"}
+{"code":"33.25","district":"15","island":"0","level":"Kabupaten","name":"Batang","no":"50","province_code":"33","subdistrict":"248","zip_allocation":"512xx","zip_utilization":"51211 - 51281"}
+{"code":"15.04","district":"8","island":"0","level":"Kabupaten","name":"Batang Hari","no":"51","province_code":"15","subdistrict":"124","zip_allocation":"366xx","zip_utilization":"36611 - 36657"}
+{"code":"35.79","district":"3","island":"0","level":"Kota","name":"Batu","no":"52","province_code":"35","subdistrict":"24","zip_allocation":"653xx","zip_utilization":"65311 - 65338"}
+{"code":"12.19","district":"12","island":"2","level":"Kabupaten","name":"Batu Bara","no":"53","province_code":"12","subdistrict":"151","zip_allocation":"2125x","zip_utilization":"21252 - 21258"}
+{"code":"74.72","district":"8","island":"3","level":"Kota","name":"Bau-Bau","no":"54","province_code":"74","subdistrict":"43","zip_allocation":"9371x - 9373x","zip_utilization":"93711 - 93733"}
+{"code":"32.75","district":"12","island":"0","level":"Kota","name":"Bekasi","no":"55","province_code":"32","subdistrict":"56","zip_allocation":"171xx - 174xx","zip_utilization":"17111 - 17435"}
+{"code":"32.16","district":"23","island":"0","level":"Kabupaten","name":"Bekasi","no":"56","province_code":"32","subdistrict":"187","zip_allocation":"172xx - 177xx","zip_utilization":"17211 - 17730"}
+{"code":"19.02","district":"5","island":"108","level":"Kabupaten","name":"Belitung","no":"57","province_code":"19","subdistrict":"49","zip_allocation":"334xx","zip_utilization":"33411 - 33481"}
+{"code":"19.06","district":"7","island":"141","level":"Kabupaten","name":"Belitung Timur","no":"58","province_code":"19","subdistrict":"39","zip_allocation":"335xx","zip_utilization":"33511 - 33572"}
+{"code":"53.04","district":"12","island":"0","level":"Kabupaten","name":"Belu","no":"59","province_code":"53","subdistrict":"81","zip_allocation":"857xx","zip_utilization":"85711 - 85773"}
+{"code":"11.17","district":"10","island":"0","level":"Kabupaten","name":"Bener Meriah","no":"60","province_code":"11","subdistrict":"232","zip_allocation":"245xx","zip_utilization":"24553 - 24586"}
+{"code":"14.03","district":"11","island":"18","level":"Kabupaten","name":"Bengkalis","no":"61","province_code":"14","subdistrict":"155","zip_allocation":"287xx","zip_utilization":"28711 - 28786"}
+{"code":"61.07","district":"17","island":"12","level":"Kabupaten","name":"Bengkayang","no":"62","province_code":"61","subdistrict":"124","zip_allocation":"791xx - 792xx","zip_utilization":"79181 - 79288"}
+{"code":"17.71","district":"9","island":"1","level":"Kota","name":"Bengkulu","no":"63","province_code":"17","subdistrict":"67","zip_allocation":"381xx - 382xx","zip_utilization":"38113 - 38229"}
+{"code":"17.01","district":"11","island":"0","level":"Kabupaten","name":"Bengkulu Selatan","no":"64","province_code":"17","subdistrict":"158","zip_allocation":"385xx","zip_utilization":"38511 - 38573"}
+{"code":"17.09","district":"11","island":"0","level":"Kabupaten","name":"Bengkulu Tengah","no":"65","province_code":"17","subdistrict":"143","zip_allocation":"383xx","zip_utilization":"38370 - 38388"}
+{"code":"17.03","district":"19","island":"9","level":"Kabupaten","name":"Bengkulu Utara","no":"66","province_code":"17","subdistrict":"220","zip_allocation":"383xx - 386xx","zip_utilization":"38325 - 38657"}
+{"code":"64.03","district":"13","island":"68","level":"Kabupaten","name":"Berau","no":"67","province_code":"64","subdistrict":"110","zip_allocation":"773xx","zip_utilization":"77311 - 77381"}
+{"code":"91.06","district":"19","island":"143","level":"Kabupaten","name":"Biak Numfor","no":"68","province_code":"91","subdistrict":"268","zip_allocation":"9851x - 9856x","zip_utilization":"98511 - 98565"}
+{"code":"52.06","district":"18","island":"83","level":"Kabupaten","name":"Bima","no":"69","province_code":"52","subdistrict":"191","zip_allocation":"841xx","zip_utilization":"84111 - 84191"}
+{"code":"52.72","district":"5","island":"0","level":"Kota","name":"Bima","no":"70","province_code":"52","subdistrict":"41","zip_allocation":"841xx","zip_utilization":"84111 - 84119"}
+{"code":"12.75","district":"5","island":"0","level":"Kota","name":"Binjai","no":"71","province_code":"12","subdistrict":"37","zip_allocation":"2071x - 2074x","zip_utilization":"20711 - 20749"}
+{"code":"21.01","district":"10","island":"237","level":"Kabupaten","name":"Bintan","no":"72","province_code":"21","subdistrict":"51","zip_allocation":"2913x - 2919x","zip_utilization":"29132 - 29193"}
+{"code":"11.11","district":"17","island":"1","level":"Kabupaten","name":"Bireuen","no":"73","province_code":"11","subdistrict":"609","zip_allocation":"242xx - 243xx","zip_utilization":"24250 - 24358"}
+{"code":"71.72","district":"8","island":"20","level":"Kota","name":"Bitung","no":"74","province_code":"71","subdistrict":"69","zip_allocation":"955xx","zip_utilization":"95511 - 95559"}
+{"code":"35.05","district":"22","island":"28","level":"Kabupaten","name":"Blitar","no":"75","province_code":"35","subdistrict":"248","zip_allocation":"6615x - 6619x","zip_utilization":"66151 - 66194"}
+{"code":"35.72","district":"3","island":"0","level":"Kota","name":"Blitar","no":"76","province_code":"35","subdistrict":"21","zip_allocation":"6611x - 6613x","zip_utilization":"66113 - 66137"}
+{"code":"33.16","district":"16","island":"0","level":"Kabupaten","name":"Blora","no":"77","province_code":"33","subdistrict":"295","zip_allocation":"582xx - 583xx","zip_utilization":"58211 - 58384"}
+{"code":"75.02","district":"7","island":"24","level":"Kabupaten","name":"Boalemo","no":"78","province_code":"75","subdistrict":"82","zip_allocation":"9626x","zip_utilization":"96260 - 96267"}
+{"code":"32.01","district":"40","island":"0","level":"Kabupaten","name":"Bogor","no":"79","province_code":"32","subdistrict":"435","zip_allocation":"161xx - 169xx","zip_utilization":"16110 - 16969"}
+{"code":"32.71","district":"6","island":"0","level":"Kota","name":"Bogor","no":"80","province_code":"32","subdistrict":"68","zip_allocation":"1611x - 1616x","zip_utilization":"16111 - 16169"}
+{"code":"35.22","district":"28","island":"0","level":"Kabupaten","name":"Bojonegoro","no":"81","province_code":"35","subdistrict":"430","zip_allocation":"621xx","zip_utilization":"62111 - 62195"}
+{"code":"71.01","district":"15","island":"7","level":"Kabupaten","name":"Bolaang Mongondow","no":"82","province_code":"71","subdistrict":"202","zip_allocation":"9573x - 9575x","zip_utilization":"95731 - 95755"}
+{"code":"71.11","district":"7","island":"4","level":"Kabupaten","name":"Bolaang Mongondow Selatan","no":"83","province_code":"71","subdistrict":"81","zip_allocation":"9577x","zip_utilization":"95770 - 95779"}
+{"code":"71.10","district":"7","island":"7","level":"Kabupaten","name":"Bolaang Mongondow Timur","no":"84","province_code":"71","subdistrict":"81","zip_allocation":"9578x","zip_utilization":"95780 - 95786"}
+{"code":"71.08","district":"6","island":"6","level":"Kabupaten","name":"Bolaang Mongondow Utara","no":"85","province_code":"71","subdistrict":"107","zip_allocation":"9576x","zip_utilization":"95762 - 95767"}
+{"code":"74.06","district":"22","island":"25","level":"Kabupaten","name":"Bombana","no":"86","province_code":"74","subdistrict":"143","zip_allocation":"9377x - 9378x","zip_utilization":"93770 - 93789"}
+{"code":"35.11","district":"23","island":"0","level":"Kabupaten","name":"Bondowoso","no":"87","province_code":"35","subdistrict":"219","zip_allocation":"682xx","zip_utilization":"68211 - 68292"}
+{"code":"73.08","district":"27","island":"1","level":"Kabupaten","name":"Bone","no":"88","province_code":"73","subdistrict":"372","zip_allocation":"902xx - 927xx","zip_utilization":"90225 - 92781"}
+{"code":"75.03","district":"18","island":"0","level":"Kabupaten","name":"Bone Bolango","no":"89","province_code":"75","subdistrict":"165","zip_allocation":"9654x - 9657x","zip_utilization":"96541 - 96574"}
+{"code":"64.74","district":"3","island":"12","level":"Kota","name":"Bontang","no":"90","province_code":"64","subdistrict":"15","zip_allocation":"753xx","zip_utilization":"75311 - 75383"}
+{"code":"91.16","district":"20","island":"0","level":"Kabupaten","name":"Boven Digoel","no":"91","province_code":"91","subdistrict":"112","zip_allocation":"9965x - 9969x","zip_utilization":"99651 - 99692"}
+{"code":"33.09","district":"22","island":"0","level":"Kabupaten","name":"Boyolali","no":"92","province_code":"33","subdistrict":"267","zip_allocation":"573xx","zip_utilization":"57311 - 57391"}
+{"code":"33.29","district":"17","island":"0","level":"Kabupaten","name":"Brebes","no":"93","province_code":"33","subdistrict":"297","zip_allocation":"522xx","zip_utilization":"52211 - 52276"}
+{"code":"13.75","district":"3","island":"0","level":"Kota","name":"Bukittinggi","no":"94","province_code":"13","subdistrict":"24","zip_allocation":"2611x - 2613x","zip_utilization":"26111 - 26138"}
+{"code":"51.08","district":"9","island":"2","level":"Kabupaten","name":"Buleleng","no":"95","province_code":"51","subdistrict":"148","zip_allocation":"811xx","zip_utilization":"81111 - 81173"}
+{"code":"73.02","district":"10","island":"5","level":"Kabupaten","name":"Bulukumba","no":"96","province_code":"73","subdistrict":"136","zip_allocation":"925xx","zip_utilization":"92511 - 92574"}
+{"code":"65.01","district":"10","island":"110","level":"Kabupaten","name":"Bulungan","no":"97","province_code":"65","subdistrict":"81","zip_allocation":"772xx","zip_utilization":"77211 - 77281"}
+{"code":"15.08","district":"17","island":"0","level":"Kabupaten","name":"Bungo","no":"98","province_code":"15","subdistrict":"153","zip_allocation":"372xx","zip_utilization":"37210 - 37264"}
+{"code":"72.05","district":"11","island":"13","level":"Kabupaten","name":"Buol","no":"99","province_code":"72","subdistrict":"115","zip_allocation":"9456x - 9457x","zip_utilization":"94563 - 94574"}
+{"code":"81.04","district":"10","island":"3","level":"Kabupaten","name":"Buru","no":"100","province_code":"81","subdistrict":"82","zip_allocation":"9757x","zip_utilization":"97570 - 97579"}
+{"code":"81.09","district":"6","island":"33","level":"Kabupaten","name":"Buru Selatan","no":"101","province_code":"81","subdistrict":"79","zip_allocation":"9754x","zip_utilization":"97541 - 97546"}
+{"code":"74.04","district":"7","island":"12","level":"Kabupaten","name":"Buton","no":"102","province_code":"74","subdistrict":"95","zip_allocation":"9375x","zip_utilization":"93752 - 93758"}
+{"code":"74.15","district":"7","island":"17","level":"Kabupaten","name":"Buton Selatan","no":"103","province_code":"74","subdistrict":"70","zip_allocation":"9374x","zip_utilization":"93741 - 93747"}
+{"code":"74.14","district":"7","island":"20","level":"Kabupaten","name":"Buton Tengah","no":"104","province_code":"74","subdistrict":"77","zip_allocation":"9376x","zip_utilization":"93760 - 93766"}
+{"code":"74.10","district":"6","island":"13","level":"Kabupaten","name":"Buton Utara","no":"105","province_code":"74","subdistrict":"90","zip_allocation":"9367x","zip_utilization":"93670 - 93675"}
+{"code":"32.07","district":"27","island":"7","level":"Kabupaten","name":"Ciamis","no":"106","province_code":"32","subdistrict":"265","zip_allocation":"462xx - 463xx","zip_utilization":"46211 - 46388"}
+{"code":"32.03","district":"32","island":"0","level":"Kabupaten","name":"Cianjur","no":"107","province_code":"32","subdistrict":"360","zip_allocation":"432xx","zip_utilization":"43215 - 43292"}
+{"code":"33.01","district":"24","island":"1","level":"Kabupaten","name":"Cilacap","no":"108","province_code":"33","subdistrict":"284","zip_allocation":"532xx","zip_utilization":"53211 - 53283"}
+{"code":"36.72","district":"8","island":"5","level":"Kota","name":"Cilegon","no":"109","province_code":"36","subdistrict":"43","zip_allocation":"424xx","zip_utilization":"42411 - 42447"}
+{"code":"32.77","district":"3","island":"0","level":"Kota","name":"Cimahi","no":"110","province_code":"32","subdistrict":"15","zip_allocation":"405xx","zip_utilization":"40511 - 40535"}
+{"code":"32.74","district":"5","island":"0","level":"Kota","name":"Cirebon","no":"111","province_code":"32","subdistrict":"22","zip_allocation":"451xx","zip_utilization":"45111 - 45145"}
+{"code":"32.09","district":"40","island":"0","level":"Kabupaten","name":"Cirebon","no":"112","province_code":"32","subdistrict":"424","zip_allocation":"451xx - 456xx","zip_utilization":"45150 - 45652"}
+{"code":"12.11","district":"15","island":"0","level":"Kabupaten","name":"Dairi","no":"113","province_code":"12","subdistrict":"169","zip_allocation":"222xx","zip_utilization":"22211 - 22284"}
+{"code":"91.28","district":"5","island":"0","level":"Kabupaten","name":"Deiyai","no":"114","province_code":"91","subdistrict":"67","zip_allocation":"9875x - 9877x","zip_utilization":"98751 - 98771"}
+{"code":"12.07","district":"22","island":"0","level":"Kabupaten","name":"Deli Serdang","no":"115","province_code":"12","subdistrict":"394","zip_allocation":"203xx - 205xx","zip_utilization":"20351 - 20585"}
+{"code":"33.21","district":"14","island":"0","level":"Kabupaten","name":"Demak","no":"116","province_code":"33","subdistrict":"249","zip_allocation":"595xx","zip_utilization":"59511 - 59584"}
+{"code":"51.71","district":"4","island":"1","level":"Kota","name":"Denpasar","no":"117","province_code":"51","subdistrict":"43","zip_allocation":"801xx - 802xx","zip_utilization":"80111 - 80239"}
+{"code":"32.76","district":"11","island":"0","level":"Kota","name":"Depok","no":"118","province_code":"32","subdistrict":"63","zip_allocation":"164xx - 165xx","zip_utilization":"16411 - 16519"}
+{"code":"13.10","district":"11","island":"0","level":"Kabupaten","name":"Dharmasraya","no":"119","province_code":"13","subdistrict":"52","zip_allocation":"275xx - 276xx","zip_utilization":"27573 - 27687"}
+{"code":"91.26","district":"10","island":"0","level":"Kabupaten","name":"Dogiyai","no":"120","province_code":"91","subdistrict":"79","zip_allocation":"9887x - 9888x","zip_utilization":"98871 - 98885"}
+{"code":"52.05","district":"8","island":"23","level":"Kabupaten","name":"Dompu","no":"121","province_code":"52","subdistrict":"81","zip_allocation":"842xx","zip_utilization":"84211 - 84272"}
+{"code":"72.03","district":"16","island":"31","level":"Kabupaten","name":"Donggala","no":"122","province_code":"72","subdistrict":"167","zip_allocation":"9434x - 9435x","zip_utilization":"94341 - 94359"}
+{"code":"14.72","district":"7","island":"0","level":"Kota","name":"Dumai","no":"123","province_code":"14","subdistrict":"33","zip_allocation":"288xx","zip_utilization":"28811 - 28882"}
+{"code":"16.11","district":"10","island":"0","level":"Kabupaten","name":"Empat Lawang","no":"124","province_code":"16","subdistrict":"156","zip_allocation":"314xx - 315xx","zip_utilization":"31456 - 31599"}
+{"code":"53.08","district":"21","island":"7","level":"Kabupaten","name":"Ende","no":"125","province_code":"53","subdistrict":"278","zip_allocation":"861xx - 863xx","zip_utilization":"86111 - 86382"}
+{"code":"73.16","district":"12","island":"0","level":"Kabupaten","name":"Enrekang","no":"126","province_code":"73","subdistrict":"129","zip_allocation":"917xx","zip_utilization":"91711 - 91761"}
+{"code":"92.03","district":"17","island":"515","level":"Kabupaten","name":"Fakfak","no":"127","province_code":"92","subdistrict":"149","zip_allocation":"9801x - 9803x","zip_utilization":"98011 - 98033"}
+{"code":"53.06","district":"19","island":"20","level":"Kabupaten","name":"Flores Timur","no":"128","province_code":"53","subdistrict":"250","zip_allocation":"862xx","zip_utilization":"86211 - 86273"}
+{"code":"32.05","district":"42","island":"2","level":"Kabupaten","name":"Garut","no":"129","province_code":"32","subdistrict":"442","zip_allocation":"441xx","zip_utilization":"44111 - 44193"}
+{"code":"11.13","district":"11","island":"0","level":"Kabupaten","name":"Gayo Lues","no":"130","province_code":"11","subdistrict":"136","zip_allocation":"2465x","zip_utilization":"24650 - 24659"}
+{"code":"51.04","district":"7","island":"0","level":"Kabupaten","name":"Gianyar","no":"131","province_code":"51","subdistrict":"70","zip_allocation":"805xx","zip_utilization":"80511 - 80582"}
+{"code":"75.01","district":"19","island":"0","level":"Kabupaten","name":"Gorontalo","no":"132","province_code":"75","subdistrict":"205","zip_allocation":"9615x - 9624x","zip_utilization":"96150 - 96246"}
+{"code":"75.71","district":"9","island":"0","level":"Kota","name":"Gorontalo","no":"133","province_code":"75","subdistrict":"50","zip_allocation":"9611x - 9613x","zip_utilization":"96111 - 96139"}
+{"code":"75.05","district":"11","island":"51","level":"Kabupaten","name":"Gorontalo Utara","no":"134","province_code":"75","subdistrict":"123","zip_allocation":"9651x - 9652x","zip_utilization":"96512 - 96526"}
+{"code":"73.06","district":"18","island":"0","level":"Kabupaten","name":"Gowa","no":"135","province_code":"73","subdistrict":"167","zip_allocation":"902xx - 921xx","zip_utilization":"90225 - 92179"}
+{"code":"35.25","district":"18","island":"12","level":"Kabupaten","name":"Gresik","no":"136","province_code":"35","subdistrict":"356","zip_allocation":"611xx","zip_utilization":"61111 - 61182"}
+{"code":"33.15","district":"19","island":"0","level":"Kabupaten","name":"Grobogan","no":"137","province_code":"33","subdistrict":"280","zip_allocation":"581xx","zip_utilization":"58111 - 58193"}
+{"code":"34.03","district":"18","island":"30","level":"Kabupaten","name":"Gunung Kidul","no":"138","province_code":"34","subdistrict":"144","zip_allocation":"558xx","zip_utilization":"55811 - 55893"}
+{"code":"62.10","district":"12","island":"0","level":"Kabupaten","name":"Gunung Mas","no":"139","province_code":"62","subdistrict":"127","zip_allocation":"745xx","zip_utilization":"74511 - 74571"}
+{"code":"12.78","district":"6","island":"0","level":"Kota","name":"Gunungsitoli","no":"140","province_code":"12","subdistrict":"101","zip_allocation":"228xx","zip_utilization":"22810 - 22870"}
+{"code":"82.01","district":"8","island":"139","level":"Kabupaten","name":"Halmahera Barat","no":"141","province_code":"82","subdistrict":"169","zip_allocation":"9775x","zip_utilization":"97751 - 97758"}
+{"code":"82.04","district":"30","island":"355","level":"Kabupaten","name":"Halmahera Selatan","no":"142","province_code":"82","subdistrict":"249","zip_allocation":"9778x - 9779x","zip_utilization":"97780 - 97792"}
+{"code":"82.02","district":"10","island":"43","level":"Kabupaten","name":"Halmahera Tengah","no":"143","province_code":"82","subdistrict":"61","zip_allocation":"9785x","zip_utilization":"97850 - 97859"}
+{"code":"82.06","district":"10","island":"41","level":"Kabupaten","name":"Halmahera Timur","no":"144","province_code":"82","subdistrict":"102","zip_allocation":"9786x","zip_utilization":"97860 - 97869"}
+{"code":"82.03","district":"17","island":"83","level":"Kabupaten","name":"Halmahera Utara","no":"145","province_code":"82","subdistrict":"196","zip_allocation":"9776x","zip_utilization":"97761 - 97769"}
+{"code":"63.06","district":"11","island":"0","level":"Kabupaten","name":"Hulu Sungai Selatan","no":"146","province_code":"63","subdistrict":"148","zip_allocation":"712xx","zip_utilization":"71211 - 71292"}
+{"code":"63.07","district":"11","island":"0","level":"Kabupaten","name":"Hulu Sungai Tengah","no":"147","province_code":"63","subdistrict":"169","zip_allocation":"713xx","zip_utilization":"71311 - 71392"}
+{"code":"63.08","district":"10","island":"0","level":"Kabupaten","name":"Hulu Sungai Utara","no":"148","province_code":"63","subdistrict":"219","zip_allocation":"714xx","zip_utilization":"71412 - 71472"}
+{"code":"12.16","district":"10","island":"1","level":"Kabupaten","name":"Humbang Hasundutan","no":"149","province_code":"12","subdistrict":"154","zip_allocation":"224xx","zip_utilization":"22451 - 22477"}
+{"code":"14.04","district":"20","island":"33","level":"Kabupaten","name":"Indragiri Hilir","no":"150","province_code":"14","subdistrict":"236","zip_allocation":"292xx","zip_utilization":"29211 - 29282"}
+{"code":"14.02","district":"14","island":"1","level":"Kabupaten","name":"Indragiri Hulu","no":"151","province_code":"14","subdistrict":"194","zip_allocation":"293xx","zip_utilization":"29311 - 29371"}
+{"code":"32.12","district":"31","island":"3","level":"Kabupaten","name":"Indramayu","no":"152","province_code":"32","subdistrict":"317","zip_allocation":"452xx","zip_utilization":"45211 - 45285"}
+{"code":"91.27","district":"8","island":"0","level":"Kabupaten","name":"Intan Jaya","no":"153","province_code":"91","subdistrict":"97","zip_allocation":"9878x - 9879x","zip_utilization":"98782 - 98794"}
+{"code":"31.73","district":"8","island":"0","level":"Kota","name":"Jakarta Barat","no":"154","province_code":"31","subdistrict":"56","zip_allocation":"111xx - 118xx","zip_utilization":"11110 - 11850"}
+{"code":"31.71","district":"8","island":"0","level":"Kota","name":"Jakarta Pusat","no":"155","province_code":"31","subdistrict":"44","zip_allocation":"101xx - 107xx","zip_utilization":"10110 - 10750"}
+{"code":"31.74","district":"10","island":"0","level":"Kota","name":"Jakarta Selatan","no":"156","province_code":"31","subdistrict":"65","zip_allocation":"121xx - 129xx","zip_utilization":"12110 - 12980"}
+{"code":"31.75","district":"10","island":"0","level":"Kota","name":"Jakarta Timur","no":"157","province_code":"31","subdistrict":"65","zip_allocation":"131xx - 139xx","zip_utilization":"13110 - 13960"}
+{"code":"31.72","district":"6","island":"1","level":"Kota","name":"Jakarta Utara","no":"158","province_code":"31","subdistrict":"31","zip_allocation":"141xx - 144xx","zip_utilization":"14110 - 14470"}
+{"code":"15.71","district":"11","island":"0","level":"Kota","name":"Jambi","no":"159","province_code":"15","subdistrict":"62","zip_allocation":"361xx - 362xx","zip_utilization":"36111 - 36265"}
+{"code":"91.03","district":"19","island":"23","level":"Kabupaten","name":"Jayapura","no":"160","province_code":"91","subdistrict":"144","zip_allocation":"9935x - 9936x","zip_utilization":"99350 - 99368"}
+{"code":"91.71","district":"5","island":"15","level":"Kota","name":"Jayapura","no":"161","province_code":"91","subdistrict":"39","zip_allocation":"9911x - 9933x","zip_utilization":"99111 - 99334"}
+{"code":"91.02","district":"40","island":"0","level":"Kabupaten","name":"Jayawijaya","no":"162","province_code":"91","subdistrict":"332","zip_allocation":"9950x - 9955x","zip_utilization":"99501 - 99555"}
+{"code":"35.09","district":"31","island":"50","level":"Kabupaten","name":"Jember","no":"163","province_code":"35","subdistrict":"248","zip_allocation":"681xx","zip_utilization":"68111 - 68196"}
+{"code":"51.01","district":"5","island":"2","level":"Kabupaten","name":"Jembrana","no":"164","province_code":"51","subdistrict":"51","zip_allocation":"822xx","zip_utilization":"82211 - 82262"}
+{"code":"73.04","district":"11","island":"1","level":"Kabupaten","name":"Jeneponto","no":"165","province_code":"73","subdistrict":"113","zip_allocation":"923xx - 925xx","zip_utilization":"92311 - 92572"}
+{"code":"33.20","district":"16","island":"29","level":"Kabupaten","name":"Jepara","no":"166","province_code":"33","subdistrict":"195","zip_allocation":"594xx","zip_utilization":"59411 - 59466"}
+{"code":"35.17","district":"21","island":"0","level":"Kabupaten","name":"Jombang","no":"167","province_code":"35","subdistrict":"306","zip_allocation":"614xx","zip_utilization":"61411 - 61485"}
+{"code":"92.08","district":"7","island":"502","level":"Kabupaten","name":"Kaimana","no":"168","province_code":"92","subdistrict":"86","zip_allocation":"9811x - 9812x","zip_utilization":"98111 - 98123"}
+{"code":"14.01","district":"21","island":"0","level":"Kabupaten","name":"Kampar","no":"169","province_code":"14","subdistrict":"250","zip_allocation":"284xx","zip_utilization":"28411 - 28475"}
+{"code":"62.03","district":"17","island":"17","level":"Kabupaten","name":"Kapuas","no":"170","province_code":"62","subdistrict":"231","zip_allocation":"735xx - 745xx","zip_utilization":"73511 - 74581"}
+{"code":"61.06","district":"23","island":"0","level":"Kabupaten","name":"Kapuas Hulu","no":"171","province_code":"61","subdistrict":"282","zip_allocation":"787xx","zip_utilization":"78714 - 78775"}
+{"code":"33.13","district":"17","island":"0","level":"Kabupaten","name":"Karanganyar","no":"172","province_code":"33","subdistrict":"177","zip_allocation":"571xx - 577xx","zip_utilization":"57171 - 57794"}
+{"code":"51.07","district":"8","island":"6","level":"Kabupaten","name":"Karangasem","no":"173","province_code":"51","subdistrict":"78","zip_allocation":"808xx","zip_utilization":"80811 - 80871"}
+{"code":"32.15","district":"30","island":"0","level":"Kabupaten","name":"Karawang","no":"174","province_code":"32","subdistrict":"309","zip_allocation":"413xx","zip_utilization":"41311 - 41386"}
+{"code":"21.02","district":"12","island":"246","level":"Kabupaten","name":"Karimun","no":"175","province_code":"21","subdistrict":"71","zip_allocation":"296xx","zip_utilization":"29660 - 29669"}
+{"code":"12.06","district":"17","island":"0","level":"Kabupaten","name":"Karo","no":"176","province_code":"12","subdistrict":"269","zip_allocation":"221xx","zip_utilization":"22111 - 22173"}
+{"code":"62.06","district":"13","island":"19","level":"Kabupaten","name":"Katingan","no":"177","province_code":"62","subdistrict":"161","zip_allocation":"744xx","zip_utilization":"74413 - 74464"}
+{"code":"17.04","district":"15","island":"0","level":"Kabupaten","name":"Kaur","no":"178","province_code":"17","subdistrict":"195","zip_allocation":"389xx","zip_utilization":"38954 - 38968"}
+{"code":"61.11","district":"6","island":"112","level":"Kabupaten","name":"Kayong Utara","no":"179","province_code":"61","subdistrict":"43","zip_allocation":"788xx","zip_utilization":"78852 - 78858"}
+{"code":"33.05","district":"26","island":"0","level":"Kabupaten","name":"Kebumen","no":"180","province_code":"33","subdistrict":"460","zip_allocation":"543xx - 544xx","zip_utilization":"54311 - 54474"}
+{"code":"35.06","district":"26","island":"0","level":"Kabupaten","name":"Kediri","no":"181","province_code":"35","subdistrict":"344","zip_allocation":"641xx - 642xx","zip_utilization":"64113 - 64294"}
+{"code":"35.71","district":"3","island":"0","level":"Kota","name":"Kediri","no":"182","province_code":"35","subdistrict":"46","zip_allocation":"641xx","zip_utilization":"64111 - 64139"}
+{"code":"91.11","district":"11","island":"0","level":"Kabupaten","name":"Keerom","no":"183","province_code":"91","subdistrict":"91","zip_allocation":"9946x - 9947x","zip_utilization":"99462 - 99473"}
+{"code":"33.24","district":"20","island":"0","level":"Kabupaten","name":"Kendal","no":"184","province_code":"33","subdistrict":"286","zip_allocation":"513xx","zip_utilization":"51311 - 51383"}
+{"code":"74.71","district":"10","island":"1","level":"Kota","name":"Kendari","no":"185","province_code":"74","subdistrict":"64","zip_allocation":"931xx - 932xx","zip_utilization":"93111 - 93238"}
+{"code":"17.08","district":"8","island":"0","level":"Kabupaten","name":"Kepahiang","no":"186","province_code":"17","subdistrict":"117","zip_allocation":"393xx","zip_utilization":"39370 - 39377"}
+{"code":"21.05","district":"9","island":"231","level":"Kabupaten","name":"Kepulauan Anambas","no":"187","province_code":"21","subdistrict":"54","zip_allocation":"2979x","zip_utilization":"29790 - 29796"}
+{"code":"81.07","district":"10","island":"555","level":"Kabupaten","name":"Kepulauan Aru","no":"188","province_code":"81","subdistrict":"119","zip_allocation":"9766x","zip_utilization":"97660 - 97669"}
+{"code":"13.09","district":"10","island":"98","level":"Kabupaten","name":"Kepulauan Mentawai","no":"189","province_code":"13","subdistrict":"43","zip_allocation":"253xx","zip_utilization":"25390 - 25399"}
+{"code":"14.10","district":"9","island":"10","level":"Kabupaten","name":"Kepulauan Meranti","no":"190","province_code":"14","subdistrict":"101","zip_allocation":"2875x","zip_utilization":"28750 - 28758"}
+{"code":"71.03","district":"15","island":"108","level":"Kabupaten","name":"Kepulauan Sangihe","no":"191","province_code":"71","subdistrict":"167","zip_allocation":"9581x - 9585x","zip_utilization":"95811 - 95859"}
+{"code":"73.01","district":"11","island":"133","level":"Kabupaten","name":"Kepulauan Selayar","no":"192","province_code":"73","subdistrict":"88","zip_allocation":"928xx","zip_utilization":"92811 - 92863"}
+{"code":"31.01","district":"2","island":"110","level":"Kabupaten","name":"Kepulauan Seribu","no":"193","province_code":"31","subdistrict":"6","zip_allocation":"145xx","zip_utilization":"14510 - 14540"}
+{"code":"71.09","district":"10","island":"48","level":"Kabupaten","name":"Kepulauan Siau Tagulandang Biaro (Sitaro)","no":"194","province_code":"71","subdistrict":"93","zip_allocation":"9586x","zip_utilization":"95860 - 95869"}
+{"code":"82.05","district":"12","island":"32","level":"Kabupaten","name":"Kepulauan Sula","no":"195","province_code":"82","subdistrict":"78","zip_allocation":"9779x","zip_utilization":"97793 - 97799"}
+{"code":"71.04","district":"19","island":"16","level":"Kabupaten","name":"Kepulauan Talaud","no":"196","province_code":"71","subdistrict":"153","zip_allocation":"9587x - 9588x","zip_utilization":"95870 - 95889"}
+{"code":"81.03","district":"10","island":"99","level":"Kabupaten","name":"Kepulauan Tanimbar (Maluku Tenggara Barat)","no":"197","province_code":"81","subdistrict":"82","zip_allocation":"974xx","zip_utilization":"97461 - 97481"}
+{"code":"91.05","district":"16","island":"142","level":"Kabupaten","name":"Kepulauan Yapen","no":"198","province_code":"91","subdistrict":"165","zip_allocation":"9861x - 9865x","zip_utilization":"98612 - 98655"}
+{"code":"15.01","district":"16","island":"0","level":"Kabupaten","name":"Kerinci","no":"199","province_code":"15","subdistrict":"287","zip_allocation":"3716x - 3717x","zip_utilization":"37160 - 37176"}
+{"code":"61.04","district":"20","island":"44","level":"Kabupaten","name":"Ketapang","no":"200","province_code":"61","subdistrict":"262","zip_allocation":"788xx","zip_utilization":"78810 - 78877"}
+{"code":"33.10","district":"26","island":"0","level":"Kabupaten","name":"Klaten","no":"201","province_code":"33","subdistrict":"401","zip_allocation":"574xx","zip_utilization":"57411 - 57486"}
+{"code":"51.05","district":"4","island":"20","level":"Kabupaten","name":"Klungkung","no":"202","province_code":"51","subdistrict":"59","zip_allocation":"807xx","zip_utilization":"80711 - 80771"}
+{"code":"74.01","district":"12","island":"13","level":"Kabupaten","name":"Kolaka","no":"203","province_code":"74","subdistrict":"135","zip_allocation":"9351x - 9356x","zip_utilization":"93511 - 93566"}
+{"code":"74.11","district":"12","island":"0","level":"Kabupaten","name":"Kolaka Timur","no":"204","province_code":"74","subdistrict":"133","zip_allocation":"9357x - 9358x","zip_utilization":"93570 - 93582"}
+{"code":"74.08","district":"15","island":"13","level":"Kabupaten","name":"Kolaka Utara","no":"205","province_code":"74","subdistrict":"133","zip_allocation":"939xx","zip_utilization":"93911 - 93963"}
+{"code":"74.02","district":"27","island":"6","level":"Kabupaten","name":"Konawe","no":"206","province_code":"74","subdistrict":"348","zip_allocation":"934xx","zip_utilization":"93411 - 93472"}
+{"code":"74.12","district":"7","island":"0","level":"Kabupaten","name":"Konawe Kepulauan","no":"207","province_code":"74","subdistrict":"96","zip_allocation":"9339x","zip_utilization":"93391 - 93398"}
+{"code":"74.05","district":"25","island":"26","level":"Kabupaten","name":"Konawe Selatan","no":"208","province_code":"74","subdistrict":"351","zip_allocation":"938xx","zip_utilization":"93810 - 93895"}
+{"code":"74.09","district":"13","island":"53","level":"Kabupaten","name":"Konawe Utara","no":"209","province_code":"74","subdistrict":"170","zip_allocation":"9334x - 9335x","zip_utilization":"93341 - 93359"}
+{"code":"63.02","district":"21","island":"109","level":"Kabupaten","name":"Kotabaru","no":"210","province_code":"63","subdistrict":"202","zip_allocation":"721xx","zip_utilization":"72111 - 72181"}
+{"code":"71.74","district":"4","island":"0","level":"Kota","name":"Kotamobagu","no":"211","province_code":"71","subdistrict":"33","zip_allocation":"9571x","zip_utilization":"95711 - 95719"}
+{"code":"62.01","district":"6","island":"0","level":"Kabupaten","name":"Kotawaringin Barat","no":"212","province_code":"62","subdistrict":"94","zip_allocation":"741xx","zip_utilization":"74111 - 74184"}
+{"code":"62.02","district":"17","island":"7","level":"Kabupaten","name":"Kotawaringin Timur","no":"213","province_code":"62","subdistrict":"185","zip_allocation":"743xx","zip_utilization":"74311 - 74364"}
+{"code":"14.09","district":"15","island":"0","level":"Kabupaten","name":"Kuantan Singingi","no":"214","province_code":"14","subdistrict":"229","zip_allocation":"295xx","zip_utilization":"29511 - 29569"}
+{"code":"61.12","district":"9","island":"39","level":"Kabupaten","name":"Kubu Raya","no":"215","province_code":"61","subdistrict":"117","zip_allocation":"782xx - 783xx","zip_utilization":"78234 - 78393"}
+{"code":"33.19","district":"9","island":"0","level":"Kabupaten","name":"Kudus","no":"216","province_code":"33","subdistrict":"132","zip_allocation":"593xx","zip_utilization":"59311 - 59382"}
+{"code":"34.01","district":"12","island":"0","level":"Kabupaten","name":"Kulon Progo","no":"217","province_code":"34","subdistrict":"88","zip_allocation":"556xx","zip_utilization":"55651 - 55674"}
+{"code":"32.08","district":"32","island":"0","level":"Kabupaten","name":"Kuningan","no":"218","province_code":"32","subdistrict":"376","zip_allocation":"455xx","zip_utilization":"45511 - 45595"}
+{"code":"53.01","district":"24","island":"23","level":"Kabupaten","name":"Kupang","no":"219","province_code":"53","subdistrict":"177","zip_allocation":"852xx - 853xx","zip_utilization":"85220 - 85390"}
+{"code":"53.71","district":"6","island":"3","level":"Kota","name":"Kupang","no":"220","province_code":"53","subdistrict":"51","zip_allocation":"851xx - 852xx","zip_utilization":"85111 - 85239"}
+{"code":"64.07","district":"16","island":"3","level":"Kabupaten","name":"Kutai Barat","no":"221","province_code":"64","subdistrict":"194","zip_allocation":"755xx - 757xx","zip_utilization":"75576 - 75778"}
+{"code":"64.02","district":"18","island":"57","level":"Kabupaten","name":"Kutai Kartanegara","no":"222","province_code":"64","subdistrict":"237","zip_allocation":"752xx - 761xx","zip_utilization":"75251 - 76131"}
+{"code":"64.08","district":"18","island":"25","level":"Kabupaten","name":"Kutai Timur","no":"223","province_code":"64","subdistrict":"141","zip_allocation":"755xx - 756xx","zip_utilization":"75554 - 75686"}
+{"code":"12.10","district":"9","island":"2","level":"Kabupaten","name":"Labuhanbatu","no":"224","province_code":"12","subdistrict":"98","zip_allocation":"214xx","zip_utilization":"21411 - 21473"}
+{"code":"12.22","district":"5","island":"0","level":"Kabupaten","name":"Labuhanbatu Selatan","no":"225","province_code":"12","subdistrict":"54","zip_allocation":"2146x","zip_utilization":"21461 - 21466"}
+{"code":"12.23","district":"8","island":"6","level":"Kabupaten","name":"Labuhanbatu Utara","no":"226","province_code":"12","subdistrict":"90","zip_allocation":"214xx","zip_utilization":"21452 - 21475"}
+{"code":"16.04","district":"24","island":"0","level":"Kabupaten","name":"Lahat","no":"227","province_code":"16","subdistrict":"378","zip_allocation":"313xx - 315xx","zip_utilization":"31350 - 31591"}
+{"code":"62.09","district":"8","island":"0","level":"Kabupaten","name":"Lamandau","no":"228","province_code":"62","subdistrict":"88","zip_allocation":"741xx - 746xx","zip_utilization":"74162 - 74665"}
+{"code":"35.24","district":"27","island":"0","level":"Kabupaten","name":"Lamongan","no":"229","province_code":"35","subdistrict":"474","zip_allocation":"622xx","zip_utilization":"62211 - 62293"}
+{"code":"18.04","district":"15","island":"0","level":"Kabupaten","name":"Lampung Barat","no":"230","province_code":"18","subdistrict":"136","zip_allocation":"348xx","zip_utilization":"34811 - 34886"}
+{"code":"18.01","district":"17","island":"43","level":"Kabupaten","name":"Lampung Selatan","no":"231","province_code":"18","subdistrict":"260","zip_allocation":"353xx - 355xx","zip_utilization":"35352 - 35597"}
+{"code":"18.02","district":"28","island":"0","level":"Kabupaten","name":"Lampung Tengah","no":"232","province_code":"18","subdistrict":"311","zip_allocation":"341xx - 355xx","zip_utilization":"34152 - 35513"}
+{"code":"18.07","district":"24","island":"5","level":"Kabupaten","name":"Lampung Timur","no":"233","province_code":"18","subdistrict":"264","zip_allocation":"341xx - 343xx","zip_utilization":"34182 - 34396"}
+{"code":"18.03","district":"23","island":"0","level":"Kabupaten","name":"Lampung Utara","no":"234","province_code":"18","subdistrict":"247","zip_allocation":"3451x - 3458x","zip_utilization":"34511 - 34586"}
+{"code":"61.08","district":"13","island":"0","level":"Kabupaten","name":"Landak","no":"235","province_code":"61","subdistrict":"156","zip_allocation":"793xx","zip_utilization":"79354 - 79367"}
+{"code":"12.05","district":"23","island":"5","level":"Kabupaten","name":"Langkat","no":"236","province_code":"12","subdistrict":"277","zip_allocation":"2076x - 2088x","zip_utilization":"20761 - 20881"}
+{"code":"11.74","district":"5","island":"4","level":"Kota","name":"Langsa","no":"237","province_code":"11","subdistrict":"66","zip_allocation":"2441x","zip_utilization":"24410 - 24416"}
+{"code":"91.23","district":"39","island":"0","level":"Kabupaten","name":"Lanny Jaya","no":"238","province_code":"91","subdistrict":"355","zip_allocation":"9956x - 9959x","zip_utilization":"99561 - 99599"}
+{"code":"36.02","district":"28","island":"5","level":"Kabupaten","name":"Lebak","no":"239","province_code":"36","subdistrict":"345","zip_allocation":"423xx","zip_utilization":"42311 - 42398"}
+{"code":"17.07","district":"12","island":"0","level":"Kabupaten","name":"Lebong","no":"240","province_code":"17","subdistrict":"104","zip_allocation":"392xx","zip_utilization":"39258 - 39269"}
+{"code":"53.13","district":"9","island":"4","level":"Kabupaten","name":"Lembata","no":"241","province_code":"53","subdistrict":"151","zip_allocation":"866xx","zip_utilization":"86616 - 86692"}
+{"code":"11.73","district":"4","island":"0","level":"Kota","name":"Lhokseumawe","no":"242","province_code":"11","subdistrict":"68","zip_allocation":"243xx","zip_utilization":"24315 - 24375"}
+{"code":"13.07","district":"13","island":"0","level":"Kabupaten","name":"Lima Puluh Kota","no":"243","province_code":"13","subdistrict":"79","zip_allocation":"2625x - 2627x","zip_utilization":"26250 - 26273"}
+{"code":"21.04","district":"13","island":"509","level":"Kabupaten","name":"Lingga","no":"244","province_code":"21","subdistrict":"82","zip_allocation":"298xx","zip_utilization":"29870 - 29878"}
+{"code":"52.01","district":"10","island":"75","level":"Kabupaten","name":"Lombok Barat","no":"245","province_code":"52","subdistrict":"122","zip_allocation":"833xx","zip_utilization":"83351 - 83371"}
+{"code":"52.02","district":"12","island":"36","level":"Kabupaten","name":"Lombok Tengah","no":"246","province_code":"52","subdistrict":"139","zip_allocation":"835xx","zip_utilization":"83511 - 83582"}
+{"code":"52.03","district":"21","island":"70","level":"Kabupaten","name":"Lombok Timur","no":"247","province_code":"52","subdistrict":"254","zip_allocation":"836xx","zip_utilization":"83611 - 83674"}
+{"code":"52.08","district":"5","island":"5","level":"Kabupaten","name":"Lombok Utara","no":"248","province_code":"52","subdistrict":"43","zip_allocation":"833xx","zip_utilization":"83350 - 83356"}
+{"code":"16.73","district":"8","island":"0","level":"Kota","name":"Lubuk Linggau","no":"249","province_code":"16","subdistrict":"72","zip_allocation":"3161x - 3162x","zip_utilization":"31611 - 31629"}
+{"code":"35.08","district":"21","island":"0","level":"Kabupaten","name":"Lumajang","no":"250","province_code":"35","subdistrict":"205","zip_allocation":"673xx","zip_utilization":"67311 - 67383"}
+{"code":"73.17","district":"22","island":"0","level":"Kabupaten","name":"Luwu","no":"251","province_code":"73","subdistrict":"227","zip_allocation":"919xx","zip_utilization":"91921 - 91999"}
+{"code":"73.24","district":"11","island":"11","level":"Kabupaten","name":"Luwu Timur","no":"252","province_code":"73","subdistrict":"127","zip_allocation":"9297x - 9298x","zip_utilization":"92970 - 92985"}
+{"code":"73.22","district":"15","island":"0","level":"Kabupaten","name":"Luwu Utara","no":"253","province_code":"73","subdistrict":"173","zip_allocation":"9291x - 9296x","zip_utilization":"92912 - 92967"}
+{"code":"35.19","district":"15","island":"0","level":"Kabupaten","name":"Madiun","no":"254","province_code":"35","subdistrict":"206","zip_allocation":"631xx","zip_utilization":"63112 - 63182"}
+{"code":"35.77","district":"3","island":"0","level":"Kota","name":"Madiun","no":"255","province_code":"35","subdistrict":"27","zip_allocation":"631xx","zip_utilization":"63111 - 63139"}
+{"code":"33.08","district":"21","island":"0","level":"Kabupaten","name":"Magelang","no":"256","province_code":"33","subdistrict":"372","zip_allocation":"561xx - 565xx","zip_utilization":"56126 - 56553"}
+{"code":"33.71","district":"3","island":"0","level":"Kota","name":"Magelang","no":"257","province_code":"33","subdistrict":"17","zip_allocation":"561xx","zip_utilization":"56111 - 56127"}
+{"code":"35.20","district":"18","island":"0","level":"Kabupaten","name":"Magetan","no":"258","province_code":"35","subdistrict":"235","zip_allocation":"631xx - 633xx","zip_utilization":"63137 - 63395"}
+{"code":"64.11","district":"5","island":"15","level":"Kabupaten","name":"Mahakam Ulu","no":"259","province_code":"64","subdistrict":"50","zip_allocation":"757xx","zip_utilization":"75767 - 75779"}
+{"code":"32.10","district":"26","island":"0","level":"Kabupaten","name":"Majalengka","no":"260","province_code":"32","subdistrict":"343","zip_allocation":"454xx","zip_utilization":"45411 - 45476"}
+{"code":"76.05","district":"8","island":"3","level":"Kabupaten","name":"Majene","no":"261","province_code":"76","subdistrict":"82","zip_allocation":"9141x - 9145x","zip_utilization":"91411 - 91455"}
+{"code":"73.71","district":"15","island":"12","level":"Kota","name":"Makassar","no":"262","province_code":"73","subdistrict":"153","zip_allocation":"901xx - 902xx","zip_utilization":"90111 - 90245"}
+{"code":"53.21","district":"12","island":"0","level":"Kabupaten","name":"Malaka","no":"263","province_code":"53","subdistrict":"127","zip_allocation":"857xx","zip_utilization":"85718 - 85775"}
+{"code":"35.07","district":"33","island":"94","level":"Kabupaten","name":"Malang","no":"264","province_code":"35","subdistrict":"390","zip_allocation":"6515x - 6539x","zip_utilization":"65151 - 65393"}
+{"code":"35.73","district":"5","island":"0","level":"Kota","name":"Malang","no":"265","province_code":"35","subdistrict":"57","zip_allocation":"6511x - 6514x","zip_utilization":"65111 - 65149"}
+{"code":"65.02","district":"15","island":"0","level":"Kabupaten","name":"Malinau","no":"266","province_code":"65","subdistrict":"109","zip_allocation":"771xx - 775xx","zip_utilization":"77155 - 77574"}
+{"code":"81.08","district":"17","island":"67","level":"Kabupaten","name":"Maluku Barat Daya","no":"267","province_code":"81","subdistrict":"118","zip_allocation":"971xx - 976xx","zip_utilization":"97128 - 97654"}
+{"code":"81.01","district":"18","island":"44","level":"Kabupaten","name":"Maluku Tengah","no":"268","province_code":"81","subdistrict":"192","zip_allocation":"975xx","zip_utilization":"97510 - 97586"}
+{"code":"81.02","district":"11","island":"81","level":"Kabupaten","name":"Maluku Tenggara","no":"269","province_code":"81","subdistrict":"191","zip_allocation":"9762x - 9763x","zip_utilization":"97621 - 97635"}
+{"code":"76.03","district":"17","island":"0","level":"Kabupaten","name":"Mamasa","no":"270","province_code":"76","subdistrict":"181","zip_allocation":"9136x - 9137x","zip_utilization":"91360 - 91376"}
+{"code":"91.20","district":"8","island":"2","level":"Kabupaten","name":"Mamberamo Raya","no":"271","province_code":"91","subdistrict":"60","zip_allocation":"9868x - 9869x","zip_utilization":"98681 - 98695"}
+{"code":"91.21","district":"5","island":"0","level":"Kabupaten","name":"Mamberamo Tengah","no":"272","province_code":"91","subdistrict":"59","zip_allocation":"9907x","zip_utilization":"99071 - 99075"}
+{"code":"76.02","district":"11","island":"29","level":"Kabupaten","name":"Mamuju","no":"273","province_code":"76","subdistrict":"101","zip_allocation":"9151x - 9156x","zip_utilization":"91511 - 91565"}
+{"code":"76.06","district":"5","island":"4","level":"Kabupaten","name":"Mamuju Tengah","no":"274","province_code":"76","subdistrict":"54","zip_allocation":"9146x","zip_utilization":"91460 - 91464"}
+{"code":"71.71","district":"11","island":"3","level":"Kota","name":"Manado","no":"275","province_code":"71","subdistrict":"87","zip_allocation":"951xx - 952xx","zip_utilization":"95111 - 95259"}
+{"code":"12.13","district":"23","island":"24","level":"Kabupaten","name":"Mandailing Natal","no":"276","province_code":"12","subdistrict":"404","zip_allocation":"229xx","zip_utilization":"22911 - 22999"}
+{"code":"53.10","district":"12","island":"1","level":"Kabupaten","name":"Manggarai","no":"277","province_code":"53","subdistrict":"171","zip_allocation":"865xx","zip_utilization":"86511 - 86594"}
+{"code":"53.15","district":"12","island":"155","level":"Kabupaten","name":"Manggarai Barat","no":"278","province_code":"53","subdistrict":"169","zip_allocation":"867xx","zip_utilization":"86750 - 86763"}
+{"code":"53.19","district":"9","island":"0","level":"Kabupaten","name":"Manggarai Timur","no":"279","province_code":"53","subdistrict":"176","zip_allocation":"865xx","zip_utilization":"86570 - 86585"}
+{"code":"92.02","district":"9","island":"7","level":"Kabupaten","name":"Manokwari","no":"280","province_code":"92","subdistrict":"173","zip_allocation":"9831x","zip_utilization":"98311 - 98319"}
+{"code":"92.11","district":"6","island":"0","level":"Kabupaten","name":"Manokwari Selatan","no":"281","province_code":"92","subdistrict":"57","zip_allocation":"9832x","zip_utilization":"98321 - 98326"}
+{"code":"91.17","district":"15","island":"0","level":"Kabupaten","name":"Mappi","no":"282","province_code":"91","subdistrict":"164","zip_allocation":"9985x - 9988x","zip_utilization":"99851 - 99881"}
+{"code":"73.09","district":"14","island":"0","level":"Kabupaten","name":"Maros","no":"283","province_code":"73","subdistrict":"103","zip_allocation":"9051x - 9056x","zip_utilization":"90511 - 90565"}
+{"code":"52.71","district":"6","island":"0","level":"Kota","name":"Mataram","no":"284","province_code":"52","subdistrict":"50","zip_allocation":"831xx - 835xx","zip_utilization":"83115 - 83511"}
+{"code":"92.10","district":"24","island":"0","level":"Kabupaten","name":"Maybrat","no":"285","province_code":"92","subdistrict":"260","zip_allocation":"9824x - 9827x","zip_utilization":"98240 - 98277"}
+{"code":"12.71","district":"21","island":"0","level":"Kota","name":"Medan","no":"286","province_code":"12","subdistrict":"151","zip_allocation":"201xx - 205xx","zip_utilization":"20111 - 20524"}
+{"code":"61.10","district":"11","island":"0","level":"Kabupaten","name":"Melawi","no":"287","province_code":"61","subdistrict":"169","zip_allocation":"796xx","zip_utilization":"79670 - 79682"}
+{"code":"61.02","district":"9","island":"9","level":"Kabupaten","name":"Mempawah","no":"288","province_code":"61","subdistrict":"67","zip_allocation":"783xx - 789xx","zip_utilization":"78351 - 78919"}
+{"code":"15.02","district":"24","island":"0","level":"Kabupaten","name":"Merangin","no":"289","province_code":"15","subdistrict":"215","zip_allocation":"3731x - 3737x","zip_utilization":"37311 - 37374"}
+{"code":"91.01","district":"20","island":"6","level":"Kabupaten","name":"Merauke","no":"290","province_code":"91","subdistrict":"190","zip_allocation":"9960x - 9964x","zip_utilization":"99604 - 99648"}
+{"code":"18.11","district":"7","island":"0","level":"Kabupaten","name":"Mesuji","no":"291","province_code":"18","subdistrict":"105","zip_allocation":"3469x","zip_utilization":"34692 - 34699"}
+{"code":"18.72","district":"5","island":"0","level":"Kota","name":"Metro","no":"292","province_code":"18","subdistrict":"22","zip_allocation":"341xx","zip_utilization":"34111 - 34125"}
+{"code":"91.09","district":"18","island":"6","level":"Kabupaten","name":"Mimika","no":"293","province_code":"91","subdistrict":"152","zip_allocation":"9995x - 9997x","zip_utilization":"99951 - 99976"}
+{"code":"71.02","district":"25","island":"1","level":"Kabupaten","name":"Minahasa","no":"294","province_code":"71","subdistrict":"270","zip_allocation":"956xx","zip_utilization":"95610 - 95699"}
+{"code":"71.05","district":"17","island":"4","level":"Kabupaten","name":"Minahasa Selatan","no":"295","province_code":"71","subdistrict":"177","zip_allocation":"953xx - 959xx","zip_utilization":"95351 - 95959"}
+{"code":"71.07","district":"12","island":"26","level":"Kabupaten","name":"Minahasa Tenggara","no":"296","province_code":"71","subdistrict":"144","zip_allocation":"959xx","zip_utilization":"95981 - 95999"}
+{"code":"71.06","district":"10","island":"46","level":"Kabupaten","name":"Minahasa Utara","no":"297","province_code":"71","subdistrict":"131","zip_allocation":"953xx","zip_utilization":"95370 - 95379"}
+{"code":"35.16","district":"18","island":"0","level":"Kabupaten","name":"Mojokerto","no":"298","province_code":"35","subdistrict":"304","zip_allocation":"6135x - 6138x","zip_utilization":"61351 - 61385"}
+{"code":"35.76","district":"3","island":"0","level":"Kota","name":"Mojokerto","no":"299","province_code":"35","subdistrict":"18","zip_allocation":"6131x - 6132x","zip_utilization":"61311 - 61328"}
+{"code":"72.06","district":"9","island":"117","level":"Kabupaten","name":"Morowali","no":"300","province_code":"72","subdistrict":"133","zip_allocation":"9497x - 9498x","zip_utilization":"94973 - 94981"}
+{"code":"72.12","district":"10","island":"58","level":"Kabupaten","name":"Morowali Utara","no":"301","province_code":"72","subdistrict":"125","zip_allocation":"9496x - 9497x","zip_utilization":"94963 - 94972"}
+{"code":"16.03","district":"22","island":"0","level":"Kabupaten","name":"Muara Enim","no":"302","province_code":"16","subdistrict":"255","zip_allocation":"311xx - 317xx","zip_utilization":"31170 - 31713"}
+{"code":"15.05","district":"11","island":"0","level":"Kabupaten","name":"Muaro Jambi","no":"303","province_code":"15","subdistrict":"155","zip_allocation":"363xx","zip_utilization":"36361 - 36383"}
+{"code":"17.06","district":"15","island":"0","level":"Kabupaten","name":"Muko Muko","no":"304","province_code":"17","subdistrict":"151","zip_allocation":"387xx","zip_utilization":"38711 - 38769"}
+{"code":"74.03","district":"22","island":"150","level":"Kabupaten","name":"Muna","no":"305","province_code":"74","subdistrict":"150","zip_allocation":"936xx","zip_utilization":"93611 - 93685"}
+{"code":"74.13","district":"11","island":"31","level":"Kabupaten","name":"Muna Barat","no":"306","province_code":"74","subdistrict":"86","zip_allocation":"936xx","zip_utilization":"93643 - 93658"}
+{"code":"62.12","district":"10","island":"0","level":"Kabupaten","name":"Murung Raya","no":"307","province_code":"62","subdistrict":"125","zip_allocation":"739xx","zip_utilization":"73911 - 73992"}
+{"code":"16.06","district":"15","island":"0","level":"Kabupaten","name":"Musi Banyuasin","no":"308","province_code":"16","subdistrict":"240","zip_allocation":"3071x - 3075x","zip_utilization":"30711 - 30759"}
+{"code":"16.05","district":"14","island":"0","level":"Kabupaten","name":"Musi Rawas","no":"309","province_code":"16","subdistrict":"199","zip_allocation":"3077x - 3166x","zip_utilization":"30771 - 31668"}
+{"code":"16.13","district":"7","island":"0","level":"Kabupaten","name":"Musi Rawas Utara","no":"310","province_code":"16","subdistrict":"89","zip_allocation":"3165x - 3166x","zip_utilization":"31653 - 31669"}
+{"code":"91.04","district":"15","island":"44","level":"Kabupaten","name":"Nabire","no":"311","province_code":"91","subdistrict":"81","zip_allocation":"9881x - 9886x","zip_utilization":"98811 - 98864"}
+{"code":"11.15","district":"10","island":"1","level":"Kabupaten","name":"Nagan Raya","no":"312","province_code":"11","subdistrict":"222","zip_allocation":"2366x - 2367x","zip_utilization":"23660 - 23674"}
+{"code":"53.16","district":"7","island":"3","level":"Kabupaten","name":"Nagekeo","no":"313","province_code":"53","subdistrict":"113","zip_allocation":"864xx","zip_utilization":"86462 - 86472"}
+{"code":"21.03","district":"15","island":"149","level":"Kabupaten","name":"Natuna","no":"314","province_code":"21","subdistrict":"77","zip_allocation":"2977x - 2978x","zip_utilization":"29775 - 29789"}
+{"code":"91.24","district":"32","island":"0","level":"Kabupaten","name":"Nduga","no":"315","province_code":"91","subdistrict":"248","zip_allocation":"9990x - 9994x","zip_utilization":"99901 - 99942"}
+{"code":"53.09","district":"12","island":"27","level":"Kabupaten","name":"Ngada","no":"316","province_code":"53","subdistrict":"151","zip_allocation":"864xx","zip_utilization":"86411 - 86466"}
+{"code":"35.18","district":"20","island":"0","level":"Kabupaten","name":"Nganjuk","no":"317","province_code":"35","subdistrict":"284","zip_allocation":"643xx - 644xx","zip_utilization":"64311 - 64484"}
+{"code":"35.21","district":"19","island":"0","level":"Kabupaten","name":"Ngawi","no":"318","province_code":"35","subdistrict":"217","zip_allocation":"632xx","zip_utilization":"63211 - 63285"}
+{"code":"12.04","district":"10","island":"6","level":"Kabupaten","name":"Nias","no":"319","province_code":"12","subdistrict":"170","zip_allocation":"228xx","zip_utilization":"22815 - 22876"}
+{"code":"12.25","district":"8","island":"11","level":"Kabupaten","name":"Nias Barat","no":"320","province_code":"12","subdistrict":"105","zip_allocation":"228xx","zip_utilization":"22812 - 22875"}
+{"code":"12.14","district":"35","island":"84","level":"Kabupaten","name":"Nias Selatan","no":"321","province_code":"12","subdistrict":"461","zip_allocation":"228xx","zip_utilization":"22864 - 22887"}
+{"code":"12.24","district":"11","island":"19","level":"Kabupaten","name":"Nias Utara","no":"322","province_code":"12","subdistrict":"113","zip_allocation":"228xx","zip_utilization":"22814 - 22861"}
+{"code":"65.03","district":"19","island":"15","level":"Kabupaten","name":"Nunukan","no":"323","province_code":"65","subdistrict":"240","zip_allocation":"774xx","zip_utilization":"77450 - 77489"}
+{"code":"16.10","district":"16","island":"0","level":"Kabupaten","name":"Ogan Ilir","no":"324","province_code":"16","subdistrict":"241","zip_allocation":"306xx - 308xx","zip_utilization":"30653 - 30869"}
+{"code":"16.02","district":"18","island":"1","level":"Kabupaten","name":"Ogan Komering Ilir","no":"325","province_code":"16","subdistrict":"327","zip_allocation":"306xx","zip_utilization":"30617 - 30684"}
+{"code":"16.01","district":"13","island":"0","level":"Kabupaten","name":"Ogan Komering Ulu","no":"326","province_code":"16","subdistrict":"157","zip_allocation":"321xx","zip_utilization":"32111 - 32193"}
+{"code":"16.09","district":"19","island":"0","level":"Kabupaten","name":"Ogan Komering Ulu Selatan","no":"327","province_code":"16","subdistrict":"259","zip_allocation":"322xx","zip_utilization":"32211 - 32279"}
+{"code":"16.08","district":"20","island":"0","level":"Kabupaten","name":"Ogan Komering Ulu Timur","no":"328","province_code":"16","subdistrict":"312","zip_allocation":"321xx - 323xx","zip_utilization":"32184 - 32388"}
+{"code":"35.01","district":"12","island":"31","level":"Kabupaten","name":"Pacitan","no":"329","province_code":"35","subdistrict":"171","zip_allocation":"635xx","zip_utilization":"63511 - 63584"}
+{"code":"13.71","district":"11","island":"19","level":"Kota","name":"Padang","no":"330","province_code":"13","subdistrict":"104","zip_allocation":"251xx - 252xx","zip_utilization":"25111 - 25237"}
+{"code":"12.21","district":"12","island":"0","level":"Kabupaten","name":"Padang Lawas","no":"331","province_code":"12","subdistrict":"304","zip_allocation":"227xx","zip_utilization":"22742 - 22776"}
+{"code":"12.20","district":"12","island":"0","level":"Kabupaten","name":"Padang Lawas Utara","no":"332","province_code":"12","subdistrict":"388","zip_allocation":"227xx","zip_utilization":"22740 - 22762"}
+{"code":"13.74","district":"2","island":"0","level":"Kota","name":"Padang Panjang","no":"333","province_code":"13","subdistrict":"16","zip_allocation":"2711x - 2712x","zip_utilization":"27111 - 27128"}
+{"code":"13.05","district":"17","island":"2","level":"Kabupaten","name":"Padang Pariaman","no":"334","province_code":"13","subdistrict":"103","zip_allocation":"2555x - 2558x","zip_utilization":"25552 - 25586"}
+{"code":"12.77","district":"6","island":"0","level":"Kota","name":"Padang Sidempuan","no":"335","province_code":"12","subdistrict":"79","zip_allocation":"2270x - 2273x","zip_utilization":"22700 - 22731"}
+{"code":"16.72","district":"5","island":"0","level":"Kota","name":"Pagar Alam","no":"336","province_code":"16","subdistrict":"35","zip_allocation":"315xx","zip_utilization":"31510 - 31551"}
+{"code":"12.15","district":"8","island":"0","level":"Kabupaten","name":"Pakpak Bharat","no":"337","province_code":"12","subdistrict":"52","zip_allocation":"2227x","zip_utilization":"22270 - 22277"}
+{"code":"62.71","district":"5","island":"5","level":"Kota","name":"Palangka Raya","no":"338","province_code":"62","subdistrict":"30","zip_allocation":"731xx - 732xx","zip_utilization":"73111 - 73229"}
+{"code":"16.71","district":"18","island":"2","level":"Kota","name":"Palembang","no":"339","province_code":"16","subdistrict":"107","zip_allocation":"301xx - 302xx","zip_utilization":"30111 - 30268"}
+{"code":"73.73","district":"9","island":"1","level":"Kota","name":"Palopo","no":"340","province_code":"73","subdistrict":"48","zip_allocation":"919xx","zip_utilization":"91911 - 91959"}
+{"code":"72.71","district":"8","island":"0","level":"Kota","name":"Palu","no":"341","province_code":"72","subdistrict":"46","zip_allocation":"941xx - 942xx","zip_utilization":"94111 - 94239"}
+{"code":"35.28","district":"13","island":"0","level":"Kabupaten","name":"Pamekasan","no":"342","province_code":"35","subdistrict":"189","zip_allocation":"693xx","zip_utilization":"69311 - 69383"}
+{"code":"36.01","district":"35","island":"33","level":"Kabupaten","name":"Pandeglang","no":"343","province_code":"36","subdistrict":"339","zip_allocation":"422xx","zip_utilization":"42211 - 42287"}
+{"code":"32.18","district":"10","island":"0","level":"Kabupaten","name":"Pangandaran","no":"344","province_code":"32","subdistrict":"93","zip_allocation":"462xx - 463xx","zip_utilization":"46267 - 46397"}
+{"code":"73.10","district":"13","island":"111","level":"Kabupaten","name":"Pangkajene Kepulauan","no":"345","province_code":"73","subdistrict":"103","zip_allocation":"9056x - 9067x","zip_utilization":"90566 - 90673"}
+{"code":"19.71","district":"7","island":"0","level":"Kota","name":"Pangkal Pinang","no":"346","province_code":"19","subdistrict":"42","zip_allocation":"3311x - 3314x","zip_utilization":"33111 - 33149"}
+{"code":"91.08","district":"23","island":"0","level":"Kabupaten","name":"Paniai","no":"347","province_code":"91","subdistrict":"221","zip_allocation":"9871x - 9874x","zip_utilization":"98711 - 98743"}
+{"code":"73.72","district":"4","island":"0","level":"Kota","name":"Parepare","no":"348","province_code":"73","subdistrict":"22","zip_allocation":"911xx","zip_utilization":"91111 - 91133"}
+{"code":"13.77","district":"4","island":"4","level":"Kota","name":"Pariaman","no":"349","province_code":"13","subdistrict":"71","zip_allocation":"2551x - 2553x","zip_utilization":"25511 - 25539"}
+{"code":"72.08","district":"23","island":"21","level":"Kabupaten","name":"Parigi Moutong","no":"350","province_code":"72","subdistrict":"283","zip_allocation":"944xx","zip_utilization":"94460 - 94483"}
+{"code":"13.08","district":"12","island":"0","level":"Kabupaten","name":"Pasaman","no":"351","province_code":"13","subdistrict":"37","zip_allocation":"263xx","zip_utilization":"26311 - 26382"}
+{"code":"13.12","district":"11","island":"12","level":"Kabupaten","name":"Pasaman Barat","no":"352","province_code":"13","subdistrict":"19","zip_allocation":"263xx - 265xx","zip_utilization":"26366 - 26574"}
+{"code":"76.01","district":"12","island":"0","level":"Kabupaten","name":"Pasangkayu (Mamuju Utara)","no":"353","province_code":"76","subdistrict":"63","zip_allocation":"9157x - 9159x","zip_utilization":"91570 - 91591"}
+{"code":"64.01","district":"10","island":"6","level":"Kabupaten","name":"Paser","no":"354","province_code":"64","subdistrict":"144","zip_allocation":"762xx","zip_utilization":"76250 - 76283"}
+{"code":"35.14","district":"24","island":"0","level":"Kabupaten","name":"Pasuruan","no":"355","province_code":"35","subdistrict":"365","zip_allocation":"671xx","zip_utilization":"67151 - 67186"}
+{"code":"35.75","district":"4","island":"0","level":"Kota","name":"Pasuruan","no":"356","province_code":"35","subdistrict":"34","zip_allocation":"671xx","zip_utilization":"67111 - 67171"}
+{"code":"33.18","district":"21","island":"0","level":"Kabupaten","name":"Pati","no":"357","province_code":"33","subdistrict":"406","zip_allocation":"591xx","zip_utilization":"59111 - 59186"}
+{"code":"13.76","district":"5","island":"0","level":"Kota","name":"Payakumbuh","no":"358","province_code":"13","subdistrict":"47","zip_allocation":"2621x - 2623x","zip_utilization":"26211 - 26237"}
+{"code":"92.12","district":"10","island":"0","level":"Kabupaten","name":"Pegunungan Arfak","no":"359","province_code":"92","subdistrict":"166","zip_allocation":"9835x","zip_utilization":"98350 - 98359"}
+{"code":"91.12","district":"34","island":"0","level":"Kabupaten","name":"Pegunungan Bintang","no":"360","province_code":"91","subdistrict":"277","zip_allocation":"9940x - 9945x","zip_utilization":"99401 - 99454"}
+{"code":"33.26","district":"19","island":"0","level":"Kabupaten","name":"Pekalongan","no":"361","province_code":"33","subdistrict":"285","zip_allocation":"511xx","zip_utilization":"51127 - 51193"}
+{"code":"33.75","district":"4","island":"0","level":"Kota","name":"Pekalongan","no":"362","province_code":"33","subdistrict":"27","zip_allocation":"511xx","zip_utilization":"51111 - 51171"}
+{"code":"14.71","district":"12","island":"0","level":"Kota","name":"Pekanbaru","no":"363","province_code":"14","subdistrict":"83","zip_allocation":"281xx - 282xx","zip_utilization":"28111 - 28299"}
+{"code":"14.05","district":"12","island":"52","level":"Kabupaten","name":"Pelalawan","no":"364","province_code":"14","subdistrict":"118","zip_allocation":"283xx","zip_utilization":"28352 - 28388"}
+{"code":"33.27","district":"14","island":"0","level":"Kabupaten","name":"Pemalang","no":"365","province_code":"33","subdistrict":"222","zip_allocation":"523xx","zip_utilization":"52311 - 52371"}
+{"code":"12.72","district":"8","island":"0","level":"Kota","name":"Pematang Siantar","no":"366","province_code":"12","subdistrict":"53","zip_allocation":"2111x - 2114x","zip_utilization":"21111 - 21147"}
+{"code":"64.09","district":"4","island":"17","level":"Kabupaten","name":"Penajam Paser Utara","no":"367","province_code":"64","subdistrict":"54","zip_allocation":"761xx - 762xx","zip_utilization":"76141 - 76285"}
+{"code":"16.12","district":"5","island":"0","level":"Kabupaten","name":"Penukal Abab Lematang Ilir","no":"368","province_code":"16","subdistrict":"71","zip_allocation":"312xx - 313xx","zip_utilization":"31211 - 31317"}
+{"code":"18.09","district":"11","island":"40","level":"Kabupaten","name":"Pesawaran","no":"369","province_code":"18","subdistrict":"144","zip_allocation":"353xx - 354xx","zip_utilization":"35353 - 35455"}
+{"code":"18.13","district":"11","island":"3","level":"Kabupaten","name":"Pesisir Barat","no":"370","province_code":"18","subdistrict":"118","zip_allocation":"348xx","zip_utilization":"34874 - 34898"}
+{"code":"13.01","district":"15","island":"48","level":"Kabupaten","name":"Pesisir Selatan","no":"371","province_code":"13","subdistrict":"182","zip_allocation":"256xx","zip_utilization":"25651 - 25675"}
+{"code":"11.07","district":"23","island":"1","level":"Kabupaten","name":"Pidie","no":"372","province_code":"11","subdistrict":"730","zip_allocation":"241xx","zip_utilization":"24115 - 24189"}
+{"code":"11.18","district":"8","island":"0","level":"Kabupaten","name":"Pidie Jaya","no":"373","province_code":"11","subdistrict":"222","zip_allocation":"2418x","zip_utilization":"24184 - 24188"}
+{"code":"73.15","district":"12","island":"3","level":"Kabupaten","name":"Pinrang","no":"374","province_code":"73","subdistrict":"108","zip_allocation":"912xx","zip_utilization":"91211 - 91273"}
+{"code":"75.04","district":"13","island":"51","level":"Kabupaten","name":"Pohuwato","no":"375","province_code":"75","subdistrict":"104","zip_allocation":"963xx - 964xx","zip_utilization":"96361 - 96469"}
+{"code":"76.04","district":"16","island":"8","level":"Kabupaten","name":"Polewali Mandar","no":"376","province_code":"76","subdistrict":"167","zip_allocation":"9131x - 9135x","zip_utilization":"91311 - 91359"}
+{"code":"35.02","district":"21","island":"0","level":"Kabupaten","name":"Ponorogo","no":"377","province_code":"35","subdistrict":"307","zip_allocation":"634xx","zip_utilization":"63411 - 63493"}
+{"code":"61.71","district":"6","island":"1","level":"Kota","name":"Pontianak","no":"378","province_code":"61","subdistrict":"29","zip_allocation":"781xx - 782xx","zip_utilization":"78111 - 78244"}
+{"code":"72.02","district":"19","island":"1","level":"Kabupaten","name":"Poso","no":"379","province_code":"72","subdistrict":"170","zip_allocation":"9461x - 9466x","zip_utilization":"94611 - 94667"}
+{"code":"16.74","district":"6","island":"0","level":"Kota","name":"Prabumulih","no":"380","province_code":"16","subdistrict":"37","zip_allocation":"311xx","zip_utilization":"31111 - 31146"}
+{"code":"18.10","district":"9","island":"0","level":"Kabupaten","name":"Pringsewu","no":"381","province_code":"18","subdistrict":"131","zip_allocation":"353xx - 356xx","zip_utilization":"35370 - 35681"}
+{"code":"35.13","district":"24","island":"1","level":"Kabupaten","name":"Probolinggo","no":"382","province_code":"35","subdistrict":"330","zip_allocation":"6725x - 6729x","zip_utilization":"67251 - 67293"}
+{"code":"35.74","district":"5","island":"0","level":"Kota","name":"Probolinggo","no":"383","province_code":"35","subdistrict":"29","zip_allocation":"6721x - 6723x","zip_utilization":"67216 - 67239"}
+{"code":"62.11","district":"8","island":"6","level":"Kabupaten","name":"Pulang Pisau","no":"384","province_code":"62","subdistrict":"99","zip_allocation":"748xx","zip_utilization":"74811 - 74874"}
+{"code":"82.07","district":"5","island":"31","level":"Kabupaten","name":"Pulau Morotai","no":"385","province_code":"82","subdistrict":"88","zip_allocation":"9777x","zip_utilization":"97770 - 97777"}
+{"code":"82.08","district":"8","island":"54","level":"Kabupaten","name":"Pulau Taliabu","no":"386","province_code":"82","subdistrict":"71","zip_allocation":"9779x","zip_utilization":"97794 - 97794"}
+{"code":"91.25","district":"25","island":"0","level":"Kabupaten","name":"Puncak","no":"387","province_code":"91","subdistrict":"206","zip_allocation":"9895x - 9898x","zip_utilization":"98951 - 98982"}
+{"code":"91.07","district":"26","island":"0","level":"Kabupaten","name":"Puncak Jaya","no":"388","province_code":"91","subdistrict":"305","zip_allocation":"9891x - 9894x","zip_utilization":"98911 - 98946"}
+{"code":"33.03","district":"18","island":"0","level":"Kabupaten","name":"Purbalingga","no":"389","province_code":"33","subdistrict":"239","zip_allocation":"533xx","zip_utilization":"53311 - 53393"}
+{"code":"32.14","district":"17","island":"0","level":"Kabupaten","name":"Purwakarta","no":"390","province_code":"32","subdistrict":"192","zip_allocation":"411xx","zip_utilization":"41111 - 41182"}
+{"code":"33.06","district":"16","island":"0","level":"Kabupaten","name":"Purworejo","no":"391","province_code":"33","subdistrict":"494","zip_allocation":"541xx - 542xx","zip_utilization":"54112 - 54265"}
+{"code":"92.05","district":"24","island":"2179","level":"Kabupaten","name":"Raja Ampat","no":"392","province_code":"92","subdistrict":"121","zip_allocation":"9846x - 9849x","zip_utilization":"98461 - 98495"}
+{"code":"17.02","district":"15","island":"0","level":"Kabupaten","name":"Rejang Lebong","no":"393","province_code":"17","subdistrict":"156","zip_allocation":"391xx","zip_utilization":"39111 - 39184"}
+{"code":"33.17","district":"14","island":"3","level":"Kabupaten","name":"Rembang","no":"394","province_code":"33","subdistrict":"294","zip_allocation":"592xx","zip_utilization":"59211 - 59274"}
+{"code":"14.07","district":"18","island":"33","level":"Kabupaten","name":"Rokan Hilir","no":"395","province_code":"14","subdistrict":"184","zip_allocation":"289xx","zip_utilization":"28911 - 28995"}
+{"code":"14.06","district":"16","island":"0","level":"Kabupaten","name":"Rokan Hulu","no":"396","province_code":"14","subdistrict":"145","zip_allocation":"285xx","zip_utilization":"28550 - 28565"}
+{"code":"53.14","district":"10","island":"129","level":"Kabupaten","name":"Rote Ndao","no":"397","province_code":"53","subdistrict":"119","zip_allocation":"859xx","zip_utilization":"85912 - 85983"}
+{"code":"11.72","district":"2","island":"10","level":"Kota","name":"Sabang","no":"398","province_code":"11","subdistrict":"18","zip_allocation":"235xx","zip_utilization":"23517 - 23529"}
+{"code":"53.20","district":"6","island":"6","level":"Kabupaten","name":"Sabu Raijua","no":"399","province_code":"53","subdistrict":"63","zip_allocation":"853xx","zip_utilization":"85391 - 85396"}
+{"code":"33.73","district":"4","island":"0","level":"Kota","name":"Salatiga","no":"400","province_code":"33","subdistrict":"23","zip_allocation":"507xx","zip_utilization":"50711 - 50746"}
+{"code":"64.72","district":"10","island":"0","level":"Kota","name":"Samarinda","no":"401","province_code":"64","subdistrict":"59","zip_allocation":"751xx - 752xx","zip_utilization":"75111 - 75253"}
+{"code":"61.01","district":"19","island":"6","level":"Kabupaten","name":"Sambas","no":"402","province_code":"61","subdistrict":"193","zip_allocation":"791xx - 794xx","zip_utilization":"79154 - 79469"}
+{"code":"12.17","district":"9","island":"5","level":"Kabupaten","name":"Samosir","no":"403","province_code":"12","subdistrict":"134","zip_allocation":"2239x","zip_utilization":"22390 - 22398"}
+{"code":"35.27","district":"14","island":"2","level":"Kabupaten","name":"Sampang","no":"404","province_code":"35","subdistrict":"186","zip_allocation":"692xx","zip_utilization":"69212 - 69291"}
+{"code":"61.03","district":"15","island":"6","level":"Kabupaten","name":"Sanggau","no":"405","province_code":"61","subdistrict":"169","zip_allocation":"785xx","zip_utilization":"78511 - 78591"}
+{"code":"91.10","district":"10","island":"15","level":"Kabupaten","name":"Sarmi","no":"406","province_code":"91","subdistrict":"94","zip_allocation":"9937x - 9938x","zip_utilization":"99370 - 99382"}
+{"code":"15.03","district":"10","island":"0","level":"Kabupaten","name":"Sarolangun","no":"407","province_code":"15","subdistrict":"158","zip_allocation":"3738x - 3749x","zip_utilization":"37381 - 37492"}
+{"code":"13.73","district":"4","island":"0","level":"Kota","name":"Sawah Lunto","no":"408","province_code":"13","subdistrict":"37","zip_allocation":"274xx","zip_utilization":"27411 - 27449"}
+{"code":"61.09","district":"7","island":"0","level":"Kabupaten","name":"Sekadau","no":"409","province_code":"61","subdistrict":"87","zip_allocation":"795xx","zip_utilization":"79511 - 79588"}
+{"code":"17.05","district":"14","island":"0","level":"Kabupaten","name":"Seluma","no":"410","province_code":"17","subdistrict":"202","zip_allocation":"388xx","zip_utilization":"38873 - 38888"}
+{"code":"33.22","district":"19","island":"0","level":"Kabupaten","name":"Semarang","no":"411","province_code":"33","subdistrict":"235","zip_allocation":"501xx - 507xx","zip_utilization":"50123 - 50777"}
+{"code":"33.74","district":"16","island":"0","level":"Kota","name":"Semarang","no":"412","province_code":"33","subdistrict":"177","zip_allocation":"501xx - 506xx","zip_utilization":"50111 - 50614"}
+{"code":"81.06","district":"11","island":"46","level":"Kabupaten","name":"Seram Bagian Barat","no":"413","province_code":"81","subdistrict":"92","zip_allocation":"9755x - 9756x","zip_utilization":"97559 - 97569"}
+{"code":"81.05","district":"15","island":"45","level":"Kabupaten","name":"Seram Bagian Timur","no":"414","province_code":"81","subdistrict":"198","zip_allocation":"975xx","zip_utilization":"97521 - 97599"}
+{"code":"36.73","district":"6","island":"0","level":"Kota","name":"Serang","no":"415","province_code":"36","subdistrict":"66","zip_allocation":"421xx","zip_utilization":"42111 - 42191"}
+{"code":"36.04","district":"29","island":"18","level":"Kabupaten","name":"Serang","no":"416","province_code":"36","subdistrict":"326","zip_allocation":"421xx - 424xx","zip_utilization":"42160 - 42455"}
+{"code":"12.18","district":"17","island":"2","level":"Kabupaten","name":"Serdang Bedagai","no":"417","province_code":"12","subdistrict":"243","zip_allocation":"209xx","zip_utilization":"20982 - 20999"}
+{"code":"62.07","district":"10","island":"0","level":"Kabupaten","name":"Seruyan","no":"418","province_code":"62","subdistrict":"100","zip_allocation":"742xx","zip_utilization":"74213 - 74291"}
+{"code":"14.08","district":"14","island":"2","level":"Kabupaten","name":"Siak","no":"419","province_code":"14","subdistrict":"131","zip_allocation":"286xx - 287xx","zip_utilization":"28654 - 28773"}
+{"code":"12.73","district":"4","island":"5","level":"Kota","name":"Sibolga","no":"420","province_code":"12","subdistrict":"17","zip_allocation":"2251x - 2253x","zip_utilization":"22511 - 22538"}
+{"code":"73.14","district":"11","island":"0","level":"Kabupaten","name":"Sidenreng Rappang","no":"421","province_code":"73","subdistrict":"106","zip_allocation":"916xx","zip_utilization":"91611 - 91691"}
+{"code":"35.15","district":"18","island":"4","level":"Kabupaten","name":"Sidoarjo","no":"422","province_code":"35","subdistrict":"353","zip_allocation":"612xx","zip_utilization":"61212 - 61276"}
+{"code":"72.10","district":"15","island":"1","level":"Kabupaten","name":"Sigi","no":"423","province_code":"72","subdistrict":"176","zip_allocation":"9436x - 9437x","zip_utilization":"94360 - 94374"}
+{"code":"13.03","district":"8","island":"0","level":"Kabupaten","name":"Sijunjung","no":"424","province_code":"13","subdistrict":"61","zip_allocation":"275xx","zip_utilization":"27553 - 27572"}
+{"code":"53.07","district":"21","island":"22","level":"Kabupaten","name":"Sikka","no":"425","province_code":"53","subdistrict":"160","zip_allocation":"861xx - 862xx","zip_utilization":"86110 - 86215"}
+{"code":"12.08","district":"32","island":"1","level":"Kabupaten","name":"Simalungun","no":"426","province_code":"12","subdistrict":"413","zip_allocation":"2115x - 2118x","zip_utilization":"21151 - 21188"}
+{"code":"11.09","district":"10","island":"62","level":"Kabupaten","name":"Simeulue","no":"427","province_code":"11","subdistrict":"138","zip_allocation":"238xx","zip_utilization":"23890 - 23899"}
+{"code":"61.72","district":"5","island":"1","level":"Kota","name":"Singkawang","no":"428","province_code":"61","subdistrict":"26","zip_allocation":"791xx - 792xx","zip_utilization":"79111 - 79251"}
+{"code":"73.07","district":"9","island":"11","level":"Kabupaten","name":"Sinjai","no":"429","province_code":"73","subdistrict":"80","zip_allocation":"926xx","zip_utilization":"92611 - 92681"}
+{"code":"61.05","district":"14","island":"0","level":"Kabupaten","name":"Sintang","no":"430","province_code":"61","subdistrict":"406","zip_allocation":"786xx","zip_utilization":"78611 - 78694"}
+{"code":"35.12","district":"17","island":"5","level":"Kabupaten","name":"Situbondo","no":"431","province_code":"35","subdistrict":"136","zip_allocation":"683xx","zip_utilization":"68311 - 68374"}
+{"code":"34.04","district":"17","island":"0","level":"Kabupaten","name":"Sleman","no":"432","province_code":"34","subdistrict":"86","zip_allocation":"552xx - 555xx","zip_utilization":"55264 - 55592"}
+{"code":"13.02","district":"14","island":"0","level":"Kabupaten","name":"Solok","no":"433","province_code":"13","subdistrict":"74","zip_allocation":"2735x - 2738x","zip_utilization":"27355 - 27389"}
+{"code":"13.72","district":"2","island":"0","level":"Kota","name":"Solok","no":"434","province_code":"13","subdistrict":"13","zip_allocation":"2731x - 2732x","zip_utilization":"27311 - 27326"}
+{"code":"13.11","district":"7","island":"0","level":"Kabupaten","name":"Solok Selatan","no":"435","province_code":"13","subdistrict":"39","zip_allocation":"277xx","zip_utilization":"27773 - 27779"}
+{"code":"73.12","district":"8","island":"0","level":"Kabupaten","name":"Soppeng","no":"436","province_code":"73","subdistrict":"70","zip_allocation":"908xx","zip_utilization":"90811 - 90871"}
+{"code":"92.01","district":"30","island":"108","level":"Kabupaten","name":"Sorong","no":"437","province_code":"92","subdistrict":"252","zip_allocation":"9842x - 9845x","zip_utilization":"98421 - 98459"}
+{"code":"92.71","district":"10","island":"25","level":"Kota","name":"Sorong","no":"438","province_code":"92","subdistrict":"41","zip_allocation":"9841x","zip_utilization":"98410 - 98419"}
+{"code":"92.04","district":"15","island":"0","level":"Kabupaten","name":"Sorong Selatan","no":"439","province_code":"92","subdistrict":"123","zip_allocation":"9821x - 9823x","zip_utilization":"98211 - 98233"}
+{"code":"33.14","district":"20","island":"0","level":"Kabupaten","name":"Sragen","no":"440","province_code":"33","subdistrict":"208","zip_allocation":"572xx","zip_utilization":"57211 - 57293"}
+{"code":"32.13","district":"30","island":"0","level":"Kabupaten","name":"Subang","no":"441","province_code":"32","subdistrict":"253","zip_allocation":"412xx","zip_utilization":"41211 - 41288"}
+{"code":"11.75","district":"5","island":"8","level":"Kota","name":"Subulussalam","no":"442","province_code":"11","subdistrict":"82","zip_allocation":"247xx","zip_utilization":"24779 - 24783"}
+{"code":"32.72","district":"7","island":"0","level":"Kota","name":"Sukabumi","no":"443","province_code":"32","subdistrict":"33","zip_allocation":"431xx","zip_utilization":"43111 - 43169"}
+{"code":"32.02","district":"47","island":"5","level":"Kabupaten","name":"Sukabumi","no":"444","province_code":"32","subdistrict":"386","zip_allocation":"431xx - 433xx","zip_utilization":"43132 - 43368"}
+{"code":"62.08","district":"5","island":"4","level":"Kabupaten","name":"Sukamara","no":"445","province_code":"62","subdistrict":"32","zip_allocation":"7417x","zip_utilization":"74170 - 74174"}
+{"code":"33.11","district":"12","island":"0","level":"Kabupaten","name":"Sukoharjo","no":"446","province_code":"33","subdistrict":"167","zip_allocation":"571xx - 575xx","zip_utilization":"57161 - 57571"}
+{"code":"53.12","district":"6","island":"27","level":"Kabupaten","name":"Sumba Barat","no":"447","province_code":"53","subdistrict":"74","zip_allocation":"872xx","zip_utilization":"87211 - 87284"}
+{"code":"53.18","district":"11","island":"0","level":"Kabupaten","name":"Sumba Barat Daya","no":"448","province_code":"53","subdistrict":"175","zip_allocation":"872xx","zip_utilization":"87250 - 87264"}
+{"code":"53.17","district":"5","island":"8","level":"Kabupaten","name":"Sumba Tengah","no":"449","province_code":"53","subdistrict":"65","zip_allocation":"872xx","zip_utilization":"87258 - 87283"}
+{"code":"53.11","district":"22","island":"30","level":"Kabupaten","name":"Sumba Timur","no":"450","province_code":"53","subdistrict":"156","zip_allocation":"871xx","zip_utilization":"87111 - 87183"}
+{"code":"52.04","district":"24","island":"64","level":"Kabupaten","name":"Sumbawa","no":"451","province_code":"52","subdistrict":"165","zip_allocation":"843xx","zip_utilization":"84310 - 84388"}
+{"code":"52.07","district":"8","island":"15","level":"Kabupaten","name":"Sumbawa Barat","no":"452","province_code":"52","subdistrict":"64","zip_allocation":"844xx","zip_utilization":"84452 - 84459"}
+{"code":"32.11","district":"26","island":"0","level":"Kabupaten","name":"Sumedang","no":"453","province_code":"32","subdistrict":"277","zip_allocation":"453xx","zip_utilization":"45311 - 45393"}
+{"code":"35.29","district":"27","island":"121","level":"Kabupaten","name":"Sumenep","no":"454","province_code":"35","subdistrict":"334","zip_allocation":"694xx","zip_utilization":"69412 - 69493"}
+{"code":"15.72","district":"8","island":"0","level":"Kota","name":"Sungaipenuh","no":"455","province_code":"15","subdistrict":"69","zip_allocation":"3711x - 3715x","zip_utilization":"37111 - 37152"}
+{"code":"91.19","district":"5","island":"212","level":"Kabupaten","name":"Supiori","no":"456","province_code":"91","subdistrict":"38","zip_allocation":"9857x - 9858x","zip_utilization":"98571 - 98582"}
+{"code":"35.78","district":"31","island":"0","level":"Kota","name":"Surabaya","no":"457","province_code":"35","subdistrict":"154","zip_allocation":"601xx - 602xx","zip_utilization":"60111 - 60299"}
+{"code":"33.72","district":"5","island":"0","level":"Kota","name":"Surakarta","no":"458","province_code":"33","subdistrict":"54","zip_allocation":"571xx","zip_utilization":"57116 - 57199"}
+{"code":"63.09","district":"12","island":"0","level":"Kabupaten","name":"Tabalong","no":"459","province_code":"63","subdistrict":"131","zip_allocation":"715xx - 721xx","zip_utilization":"71512 - 72167"}
+{"code":"51.02","district":"10","island":"0","level":"Kabupaten","name":"Tabanan","no":"460","province_code":"51","subdistrict":"133","zip_allocation":"821xx","zip_utilization":"82111 - 82191"}
+{"code":"73.05","district":"10","island":"9","level":"Kabupaten","name":"Takalar","no":"461","province_code":"73","subdistrict":"100","zip_allocation":"922xx","zip_utilization":"92211 - 92261"}
+{"code":"92.09","district":"29","island":"2","level":"Kabupaten","name":"Tambrauw","no":"462","province_code":"92","subdistrict":"216","zip_allocation":"9836x - 9839x","zip_utilization":"98361 - 98396"}
+{"code":"65.04","district":"5","island":"39","level":"Kabupaten","name":"Tana Tidung","no":"463","province_code":"65","subdistrict":"32","zip_allocation":"771xx - 774xx","zip_utilization":"77151 - 77451"}
+{"code":"73.18","district":"19","island":"0","level":"Kabupaten","name":"Tana Toraja","no":"464","province_code":"73","subdistrict":"159","zip_allocation":"918xx","zip_utilization":"91811 - 91896"}
+{"code":"63.10","district":"10","island":"6","level":"Kabupaten","name":"Tanah Bumbu","no":"465","province_code":"63","subdistrict":"149","zip_allocation":"722xx","zip_utilization":"72210 - 72276"}
+{"code":"13.04","district":"14","island":"0","level":"Kabupaten","name":"Tanah Datar","no":"466","province_code":"13","subdistrict":"75","zip_allocation":"2715x - 2729x","zip_utilization":"27151 - 27294"}
+{"code":"63.01","district":"11","island":"14","level":"Kabupaten","name":"Tanah Laut","no":"467","province_code":"63","subdistrict":"135","zip_allocation":"708xx","zip_utilization":"70812 - 70883"}
+{"code":"36.71","district":"13","island":"0","level":"Kota","name":"Tangerang","no":"468","province_code":"36","subdistrict":"104","zip_allocation":"1511x - 1515x","zip_utilization":"15111 - 15159"}
+{"code":"36.03","district":"29","island":"1","level":"Kabupaten","name":"Tangerang","no":"469","province_code":"36","subdistrict":"274","zip_allocation":"1515x - 158xx","zip_utilization":"15157 - 15820"}
+{"code":"36.74","district":"7","island":"1","level":"Kota","name":"Tangerang Selatan","no":"470","province_code":"36","subdistrict":"54","zip_allocation":"152xx - 154xx","zip_utilization":"15220 - 15419"}
+{"code":"18.06","district":"20","island":"44","level":"Kabupaten","name":"Tanggamus","no":"471","province_code":"18","subdistrict":"302","zip_allocation":"353xx - 356xx","zip_utilization":"35374 - 35686"}
+{"code":"12.74","district":"6","island":"1","level":"Kota","name":"Tanjung Balai","no":"472","province_code":"12","subdistrict":"31","zip_allocation":"213xx","zip_utilization":"21311 - 21369"}
+{"code":"15.06","district":"13","island":"0","level":"Kabupaten","name":"Tanjung Jabung Barat","no":"473","province_code":"15","subdistrict":"134","zip_allocation":"365xx","zip_utilization":"36511 - 36559"}
+{"code":"15.07","district":"11","island":"20","level":"Kabupaten","name":"Tanjung Jabung Timur","no":"474","province_code":"15","subdistrict":"93","zip_allocation":"367xx","zip_utilization":"36751 - 36773"}
+{"code":"21.72","district":"4","island":"7","level":"Kota","name":"Tanjung Pinang","no":"475","province_code":"21","subdistrict":"18","zip_allocation":"2911x - 2912x","zip_utilization":"29111 - 29125"}
+{"code":"12.03","district":"15","island":"0","level":"Kabupaten","name":"Tapanuli Selatan","no":"476","province_code":"12","subdistrict":"248","zip_allocation":"227xx","zip_utilization":"22732 - 22775"}
+{"code":"12.01","district":"20","island":"32","level":"Kabupaten","name":"Tapanuli Tengah","no":"477","province_code":"12","subdistrict":"215","zip_allocation":"2256x - 2265x","zip_utilization":"22560 - 22656"}
+{"code":"12.02","district":"15","island":"1","level":"Kabupaten","name":"Tapanuli Utara","no":"478","province_code":"12","subdistrict":"252","zip_allocation":"224xx","zip_utilization":"22411 - 22476"}
+{"code":"63.05","district":"12","island":"0","level":"Kabupaten","name":"Tapin","no":"479","province_code":"63","subdistrict":"135","zip_allocation":"711xx","zip_utilization":"71111 - 71191"}
+{"code":"65.71","district":"4","island":"2","level":"Kota","name":"Tarakan","no":"480","province_code":"65","subdistrict":"20","zip_allocation":"771xx","zip_utilization":"77111 - 77126"}
+{"code":"32.78","district":"10","island":"0","level":"Kota","name":"Tasikmalaya","no":"481","province_code":"32","subdistrict":"69","zip_allocation":"461xx - 464xx","zip_utilization":"46111 - 46416"}
+{"code":"32.06","district":"39","island":"2","level":"Kabupaten","name":"Tasikmalaya","no":"482","province_code":"32","subdistrict":"351","zip_allocation":"461xx - 464xx","zip_utilization":"46153 - 46476"}
+{"code":"12.76","district":"5","island":"0","level":"Kota","name":"Tebing Tinggi","no":"483","province_code":"12","subdistrict":"35","zip_allocation":"206xx","zip_utilization":"20611 - 20636"}
+{"code":"15.09","district":"12","island":"0","level":"Kabupaten","name":"Tebo","no":"484","province_code":"15","subdistrict":"112","zip_allocation":"375xx","zip_utilization":"37551 - 37574"}
+{"code":"33.28","district":"18","island":"0","level":"Kabupaten","name":"Tegal","no":"485","province_code":"33","subdistrict":"287","zip_allocation":"521xx - 524xx","zip_utilization":"52121 - 52473"}
+{"code":"33.76","district":"4","island":"0","level":"Kota","name":"Tegal","no":"486","province_code":"33","subdistrict":"27","zip_allocation":"521xx","zip_utilization":"52111 - 52147"}
+{"code":"92.06","district":"24","island":"15","level":"Kabupaten","name":"Teluk Bintuni","no":"487","province_code":"92","subdistrict":"117","zip_allocation":"9813x - 9816x","zip_utilization":"98131 - 98165"}
+{"code":"92.07","district":"13","island":"324","level":"Kabupaten","name":"Teluk Wondama","no":"488","province_code":"92","subdistrict":"76","zip_allocation":"9833x - 9834x","zip_utilization":"98331 - 98347"}
+{"code":"33.23","district":"20","island":"0","level":"Kabupaten","name":"Temanggung","no":"489","province_code":"33","subdistrict":"289","zip_allocation":"562xx","zip_utilization":"56211 - 56283"}
+{"code":"82.71","district":"8","island":"10","level":"Kota","name":"Ternate","no":"490","province_code":"82","subdistrict":"78","zip_allocation":"9771x - 9774x","zip_utilization":"97711 - 97747"}
+{"code":"82.72","district":"8","island":"11","level":"Kota","name":"Tidore Kepulauan","no":"491","province_code":"82","subdistrict":"89","zip_allocation":"9781x - 9782x","zip_utilization":"97811 - 97827"}
+{"code":"53.02","district":"32","island":"0","level":"Kabupaten","name":"Timor Tengah Selatan","no":"492","province_code":"53","subdistrict":"278","zip_allocation":"855xx","zip_utilization":"85511 - 85587"}
+{"code":"53.03","district":"24","island":"0","level":"Kabupaten","name":"Timor Tengah Utara","no":"493","province_code":"53","subdistrict":"193","zip_allocation":"856xx","zip_utilization":"85611 - 85684"}
+{"code":"12.12","district":"16","island":"0","level":"Kabupaten","name":"Toba Samosir","no":"494","province_code":"12","subdistrict":"244","zip_allocation":"2231x - 2238x","zip_utilization":"22312 - 22388"}
+{"code":"72.09","district":"12","island":"471","level":"Kabupaten","name":"Tojo Una-Una","no":"495","province_code":"72","subdistrict":"146","zip_allocation":"9468x - 9469x","zip_utilization":"94680 - 94694"}
+{"code":"72.04","district":"10","island":"47","level":"Kabupaten","name":"Toli-Toli","no":"496","province_code":"72","subdistrict":"109","zip_allocation":"9451x - 9456x","zip_utilization":"94511 - 94562"}
+{"code":"91.14","district":"46","island":"0","level":"Kabupaten","name":"Tolikara","no":"497","province_code":"91","subdistrict":"545","zip_allocation":"9901x - 9906x","zip_utilization":"99011 - 99064"}
+{"code":"71.73","district":"5","island":"0","level":"Kota","name":"Tomohon","no":"498","province_code":"71","subdistrict":"44","zip_allocation":"954xx","zip_utilization":"95411 - 95449"}
+{"code":"73.26","district":"21","island":"0","level":"Kabupaten","name":"Toraja Utara","no":"499","province_code":"73","subdistrict":"151","zip_allocation":"918xx","zip_utilization":"91822 - 91857"}
+{"code":"35.03","district":"14","island":"57","level":"Kabupaten","name":"Trenggalek","no":"500","province_code":"35","subdistrict":"157","zip_allocation":"663xx","zip_utilization":"66311 - 66382"}
+{"code":"81.72","district":"5","island":"66","level":"Kota","name":"Tual","no":"501","province_code":"81","subdistrict":"30","zip_allocation":"9761x","zip_utilization":"97611 - 97615"}
+{"code":"35.23","district":"20","island":"0","level":"Kabupaten","name":"Tuban","no":"502","province_code":"35","subdistrict":"328","zip_allocation":"623xx","zip_utilization":"62311 - 62391"}
+{"code":"18.05","district":"15","island":"0","level":"Kabupaten","name":"Tulang Bawang","no":"503","province_code":"18","subdistrict":"151","zip_allocation":"3459x - 3468x","zip_utilization":"34590 - 34685"}
+{"code":"18.12","district":"9","island":"0","level":"Kabupaten","name":"Tulang Bawang Barat","no":"504","province_code":"18","subdistrict":"96","zip_allocation":"3478x - 3479x","zip_utilization":"34783 - 34794"}
+{"code":"35.04","district":"19","island":"19","level":"Kabupaten","name":"Tulungagung","no":"505","province_code":"35","subdistrict":"271","zip_allocation":"662xx","zip_utilization":"66212 - 66293"}
+{"code":"73.13","district":"14","island":"0","level":"Kabupaten","name":"Wajo","no":"506","province_code":"73","subdistrict":"190","zip_allocation":"909xx","zip_utilization":"90911 - 90993"}
+{"code":"74.07","district":"8","island":"150","level":"Kabupaten","name":"Wakatobi","no":"507","province_code":"74","subdistrict":"101","zip_allocation":"9379x","zip_utilization":"93790 - 93797"}
+{"code":"91.15","district":"11","island":"1","level":"Kabupaten","name":"Waropen","no":"508","province_code":"91","subdistrict":"100","zip_allocation":"9866x - 9867x","zip_utilization":"98661 - 98676"}
+{"code":"18.08","district":"14","island":"0","level":"Kabupaten","name":"Way Kanan","no":"509","province_code":"18","subdistrict":"227","zip_allocation":"3476x - 3477x","zip_utilization":"34760 - 34774"}
+{"code":"33.12","district":"25","island":"0","level":"Kabupaten","name":"Wonogiri","no":"510","province_code":"33","subdistrict":"294","zip_allocation":"576xx","zip_utilization":"57611 - 57698"}
+{"code":"33.07","district":"15","island":"0","level":"Kabupaten","name":"Wonosobo","no":"511","province_code":"33","subdistrict":"265","zip_allocation":"563xx","zip_utilization":"56311 - 56375"}
+{"code":"91.13","district":"51","island":"0","level":"Kabupaten","name":"Yahukimo","no":"512","province_code":"91","subdistrict":"511","zip_allocation":"9970x - 9976x","zip_utilization":"99701 - 99765"}
+{"code":"91.22","district":"5","island":"0","level":"Kabupaten","name":"Yalimo","no":"513","province_code":"91","subdistrict":"300","zip_allocation":"9908x","zip_utilization":"99081 - 99085"}
+{"code":"34.71","district":"14","island":"0","level":"Kota","name":"Yogyakarta","no":"514","province_code":"34","subdistrict":"45","zip_allocation":"551xx - 552xx","zip_utilization":"55111 - 55272"}

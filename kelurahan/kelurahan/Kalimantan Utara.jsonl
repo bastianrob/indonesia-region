@@ -1,0 +1,482 @@
+{"city_code":"Nunukan","code":"65.03.14.2012","district_code":"Tulin Onsoi","level":"Kabupaten","name":"Balatikon (Blatikon / Belatikan)","no":"1","province_code":"Kalimantan Utara","zip_code":"77485"}
+{"city_code":"Nunukan","code":"65.03.14.2005","district_code":"Tulin Onsoi","level":"Kabupaten","name":"Kalunsayan (Kulunsayan / Kalun Sayan)","no":"2","province_code":"Kalimantan Utara","zip_code":"77485"}
+{"city_code":"Nunukan","code":"65.03.14.2010","district_code":"Tulin Onsoi","level":"Kabupaten","name":"Naputi","no":"3","province_code":"Kalimantan Utara","zip_code":"77485"}
+{"city_code":"Nunukan","code":"65.03.14.2007","district_code":"Tulin Onsoi","level":"Kabupaten","name":"Salang","no":"4","province_code":"Kalimantan Utara","zip_code":"77485"}
+{"city_code":"Nunukan","code":"65.03.14.2001","district_code":"Tulin Onsoi","level":"Kabupaten","name":"Sebuku I (Sanur)","no":"5","province_code":"Kalimantan Utara","zip_code":"77485"}
+{"city_code":"Nunukan","code":"65.03.14.2002","district_code":"Tulin Onsoi","level":"Kabupaten","name":"Sebuku II (Makmur)","no":"6","province_code":"Kalimantan Utara","zip_code":"77485"}
+{"city_code":"Nunukan","code":"65.03.14.2004","district_code":"Tulin Onsoi","level":"Kabupaten","name":"Sekikilan","no":"7","province_code":"Kalimantan Utara","zip_code":"77485"}
+{"city_code":"Nunukan","code":"65.03.14.2003","district_code":"Tulin Onsoi","level":"Kabupaten","name":"Semunad","no":"8","province_code":"Kalimantan Utara","zip_code":"77485"}
+{"city_code":"Nunukan","code":"65.03.14.2011","district_code":"Tulin Onsoi","level":"Kabupaten","name":"Tau Baru","no":"9","province_code":"Kalimantan Utara","zip_code":"77485"}
+{"city_code":"Nunukan","code":"65.03.14.2006","district_code":"Tulin Onsoi","level":"Kabupaten","name":"Tembalang","no":"10","province_code":"Kalimantan Utara","zip_code":"77485"}
+{"city_code":"Nunukan","code":"65.03.14.2008","district_code":"Tulin Onsoi","level":"Kabupaten","name":"Tinampak I","no":"11","province_code":"Kalimantan Utara","zip_code":"77485"}
+{"city_code":"Nunukan","code":"65.03.14.2009","district_code":"Tulin Onsoi","level":"Kabupaten","name":"Tinampak II","no":"12","province_code":"Kalimantan Utara","zip_code":"77485"}
+{"city_code":"Tarakan","code":"65.71.04.1003","district_code":"Tarakan Utara","level":"Kota","name":"Juata Krikil/Kerikil","no":"13","province_code":"Kalimantan Utara","zip_code":"77116"}
+{"city_code":"Tarakan","code":"65.71.04.1001","district_code":"Tarakan Utara","level":"Kota","name":"Juata Laut","no":"14","province_code":"Kalimantan Utara","zip_code":"77116"}
+{"city_code":"Tarakan","code":"65.71.04.1002","district_code":"Tarakan Utara","level":"Kota","name":"Juata Permai","no":"15","province_code":"Kalimantan Utara","zip_code":"77116"}
+{"city_code":"Tarakan","code":"65.71.03.1002","district_code":"Tarakan Timur","level":"Kota","name":"Gunung Lingkas","no":"16","province_code":"Kalimantan Utara","zip_code":"77115"}
+{"city_code":"Tarakan","code":"65.71.03.1003","district_code":"Tarakan Timur","level":"Kota","name":"Kampung Empat","no":"17","province_code":"Kalimantan Utara","zip_code":"77124"}
+{"city_code":"Tarakan","code":"65.71.03.1004","district_code":"Tarakan Timur","level":"Kota","name":"Kampung Enam","no":"18","province_code":"Kalimantan Utara","zip_code":"77123"}
+{"city_code":"Tarakan","code":"65.71.03.1001","district_code":"Tarakan Timur","level":"Kota","name":"Lingkas Ujung","no":"19","province_code":"Kalimantan Utara","zip_code":"77126"}
+{"city_code":"Tarakan","code":"65.71.03.1005","district_code":"Tarakan Timur","level":"Kota","name":"Mamburungan","no":"20","province_code":"Kalimantan Utara","zip_code":"77125"}
+{"city_code":"Tarakan","code":"65.71.03.1007","district_code":"Tarakan Timur","level":"Kota","name":"Mamburungan Timur","no":"21","province_code":"Kalimantan Utara","zip_code":"77115"}
+{"city_code":"Tarakan","code":"65.71.03.1006","district_code":"Tarakan Timur","level":"Kota","name":"Pantai Amal","no":"22","province_code":"Kalimantan Utara","zip_code":"77115"}
+{"city_code":"Tarakan","code":"65.71.02.1001","district_code":"Tarakan Tengah","level":"Kota","name":"Kampung I Skip (Kampung Satu / Skip)","no":"23","province_code":"Kalimantan Utara","zip_code":"77113"}
+{"city_code":"Tarakan","code":"65.71.02.1002","district_code":"Tarakan Tengah","level":"Kota","name":"Pamusian","no":"24","province_code":"Kalimantan Utara","zip_code":"77113"}
+{"city_code":"Tarakan","code":"65.71.02.1003","district_code":"Tarakan Tengah","level":"Kota","name":"Sebengkok","no":"25","province_code":"Kalimantan Utara","zip_code":"77114"}
+{"city_code":"Tarakan","code":"65.71.02.1004","district_code":"Tarakan Tengah","level":"Kota","name":"Selumit","no":"26","province_code":"Kalimantan Utara","zip_code":"77113"}
+{"city_code":"Tarakan","code":"65.71.02.1005","district_code":"Tarakan Tengah","level":"Kota","name":"Selumit Pantai","no":"27","province_code":"Kalimantan Utara","zip_code":"77113"}
+{"city_code":"Tarakan","code":"65.71.01.1001","district_code":"Tarakan Barat","level":"Kota","name":"Karang Anyar","no":"28","province_code":"Kalimantan Utara","zip_code":"77111"}
+{"city_code":"Tarakan","code":"65.71.01.1003","district_code":"Tarakan Barat","level":"Kota","name":"Karang Anyar Pantai","no":"29","province_code":"Kalimantan Utara","zip_code":"77111"}
+{"city_code":"Tarakan","code":"65.71.01.1004","district_code":"Tarakan Barat","level":"Kota","name":"Karang Balik","no":"30","province_code":"Kalimantan Utara","zip_code":"77112"}
+{"city_code":"Tarakan","code":"65.71.01.1005","district_code":"Tarakan Barat","level":"Kota","name":"Karang Harapan","no":"31","province_code":"Kalimantan Utara","zip_code":"77111"}
+{"city_code":"Tarakan","code":"65.71.01.1002","district_code":"Tarakan Barat","level":"Kota","name":"Karang Rejo","no":"32","province_code":"Kalimantan Utara","zip_code":"77112"}
+{"city_code":"Bulungan","code":"65.01.05.2007","district_code":"Tanjung Selor","level":"Kabupaten","name":"Apung","no":"33","province_code":"Kalimantan Utara","zip_code":"77212"}
+{"city_code":"Bulungan","code":"65.01.05.2005","district_code":"Tanjung Selor","level":"Kabupaten","name":"Bumi Rahayu","no":"34","province_code":"Kalimantan Utara","zip_code":"77212"}
+{"city_code":"Bulungan","code":"65.01.05.2006","district_code":"Tanjung Selor","level":"Kabupaten","name":"Gunung Sari","no":"35","province_code":"Kalimantan Utara","zip_code":"77212"}
+{"city_code":"Bulungan","code":"65.01.05.2004","district_code":"Tanjung Selor","level":"Kabupaten","name":"Gunung Seriang","no":"36","province_code":"Kalimantan Utara","zip_code":"77212"}
+{"city_code":"Bulungan","code":"65.01.05.2003","district_code":"Tanjung Selor","level":"Kabupaten","name":"Jelarai Selor","no":"37","province_code":"Kalimantan Utara","zip_code":"77212"}
+{"city_code":"Bulungan","code":"65.01.05.1002","district_code":"Tanjung Selor","level":"Kabupaten","name":"Tanjung Selor Ilir/Hilir","no":"38","province_code":"Kalimantan Utara","zip_code":"77212"}
+{"city_code":"Bulungan","code":"65.01.05.1008","district_code":"Tanjung Selor","level":"Kabupaten","name":"Tanjung Selor Timur","no":"39","province_code":"Kalimantan Utara","zip_code":"77212"}
+{"city_code":"Bulungan","code":"65.01.05.1001","district_code":"Tanjung Selor","level":"Kabupaten","name":"Tanjung Selor Ulu/Hulu","no":"40","province_code":"Kalimantan Utara","zip_code":"77211"}
+{"city_code":"Bulungan","code":"65.01.05.2009","district_code":"Tanjung Selor","level":"Kabupaten","name":"Tengkapak","no":"41","province_code":"Kalimantan Utara","zip_code":"77212"}
+{"city_code":"Bulungan","code":"65.01.03.2005","district_code":"Tanjung Palas Utara","level":"Kabupaten","name":"Ardi Mulyo (Ardi Mulya)","no":"42","province_code":"Kalimantan Utara","zip_code":"77218"}
+{"city_code":"Bulungan","code":"65.01.03.2001","district_code":"Tanjung Palas Utara","level":"Kabupaten","name":"Karang Agung","no":"43","province_code":"Kalimantan Utara","zip_code":"77218"}
+{"city_code":"Bulungan","code":"65.01.03.2006","district_code":"Tanjung Palas Utara","level":"Kabupaten","name":"Kelubir","no":"44","province_code":"Kalimantan Utara","zip_code":"77218"}
+{"city_code":"Bulungan","code":"65.01.03.2003","district_code":"Tanjung Palas Utara","level":"Kabupaten","name":"Panca Agung","no":"45","province_code":"Kalimantan Utara","zip_code":"77218"}
+{"city_code":"Bulungan","code":"65.01.03.2002","district_code":"Tanjung Palas Utara","level":"Kabupaten","name":"Pimping","no":"46","province_code":"Kalimantan Utara","zip_code":"77218"}
+{"city_code":"Bulungan","code":"65.01.03.2004","district_code":"Tanjung Palas Utara","level":"Kabupaten","name":"Ruhui Rahayu","no":"47","province_code":"Kalimantan Utara","zip_code":"77218"}
+{"city_code":"Bulungan","code":"65.01.04.2006","district_code":"Tanjung Palas Timur","level":"Kabupaten","name":"Binai","no":"48","province_code":"Kalimantan Utara","zip_code":"77215"}
+{"city_code":"Bulungan","code":"65.01.04.2002","district_code":"Tanjung Palas Timur","level":"Kabupaten","name":"Mangkupadi","no":"49","province_code":"Kalimantan Utara","zip_code":"77215"}
+{"city_code":"Bulungan","code":"65.01.04.2008","district_code":"Tanjung Palas Timur","level":"Kabupaten","name":"Pura Sajau","no":"50","province_code":"Kalimantan Utara","zip_code":"77215"}
+{"city_code":"Bulungan","code":"65.01.04.2003","district_code":"Tanjung Palas Timur","level":"Kabupaten","name":"Sajau","no":"51","province_code":"Kalimantan Utara","zip_code":"77215"}
+{"city_code":"Bulungan","code":"65.01.04.2007","district_code":"Tanjung Palas Timur","level":"Kabupaten","name":"Sajau Hilir (Sajau Timur)","no":"52","province_code":"Kalimantan Utara","zip_code":"77215"}
+{"city_code":"Bulungan","code":"65.01.04.2001","district_code":"Tanjung Palas Timur","level":"Kabupaten","name":"Tanah Kuning","no":"53","province_code":"Kalimantan Utara","zip_code":"77215"}
+{"city_code":"Bulungan","code":"65.01.04.2005","district_code":"Tanjung Palas Timur","level":"Kabupaten","name":"Tanjung Agung","no":"54","province_code":"Kalimantan Utara","zip_code":"77215"}
+{"city_code":"Bulungan","code":"65.01.04.2004","district_code":"Tanjung Palas Timur","level":"Kabupaten","name":"Wonomulyo (Wono Mulyo)","no":"55","province_code":"Kalimantan Utara","zip_code":"77215"}
+{"city_code":"Bulungan","code":"65.01.06.2001","district_code":"Tanjung Palas Tengah","level":"Kabupaten","name":"Salimbatu (Salim Batu)","no":"56","province_code":"Kalimantan Utara","zip_code":"77216"}
+{"city_code":"Bulungan","code":"65.01.06.2002","district_code":"Tanjung Palas Tengah","level":"Kabupaten","name":"Silva Rahayu","no":"57","province_code":"Kalimantan Utara","zip_code":"77216"}
+{"city_code":"Bulungan","code":"65.01.06.2003","district_code":"Tanjung Palas Tengah","level":"Kabupaten","name":"Tanjung Buka","no":"58","province_code":"Kalimantan Utara","zip_code":"77216"}
+{"city_code":"Bulungan","code":"65.01.02.2001","district_code":"Tanjung Palas Barat","level":"Kabupaten","name":"Long Beluah","no":"59","province_code":"Kalimantan Utara","zip_code":"77217"}
+{"city_code":"Bulungan","code":"65.01.02.2005","district_code":"Tanjung Palas Barat","level":"Kabupaten","name":"Long Pari","no":"60","province_code":"Kalimantan Utara","zip_code":"77217"}
+{"city_code":"Bulungan","code":"65.01.02.2002","district_code":"Tanjung Palas Barat","level":"Kabupaten","name":"Long Sam","no":"61","province_code":"Kalimantan Utara","zip_code":"77217"}
+{"city_code":"Bulungan","code":"65.01.02.2004","district_code":"Tanjung Palas Barat","level":"Kabupaten","name":"Mara Hilir","no":"62","province_code":"Kalimantan Utara","zip_code":"77217"}
+{"city_code":"Bulungan","code":"65.01.02.2003","district_code":"Tanjung Palas Barat","level":"Kabupaten","name":"Mara I (Mara Satu)","no":"63","province_code":"Kalimantan Utara","zip_code":"77217"}
+{"city_code":"Bulungan","code":"65.01.01.2007","district_code":"Tanjung Palas","level":"Kabupaten","name":"Antutan","no":"64","province_code":"Kalimantan Utara","zip_code":"77211"}
+{"city_code":"Bulungan","code":"65.01.01.2005","district_code":"Tanjung Palas","level":"Kabupaten","name":"Gunung Putih","no":"65","province_code":"Kalimantan Utara","zip_code":"77211"}
+{"city_code":"Bulungan","code":"65.01.01.1004","district_code":"Tanjung Palas","level":"Kabupaten","name":"Karang Anyar","no":"66","province_code":"Kalimantan Utara","zip_code":"77214"}
+{"city_code":"Bulungan","code":"65.01.01.2006","district_code":"Tanjung Palas","level":"Kabupaten","name":"Pejalin","no":"67","province_code":"Kalimantan Utara","zip_code":"77211"}
+{"city_code":"Bulungan","code":"65.01.01.1003","district_code":"Tanjung Palas","level":"Kabupaten","name":"Tanjung Palas Ilir/Hilir","no":"68","province_code":"Kalimantan Utara","zip_code":"77211"}
+{"city_code":"Bulungan","code":"65.01.01.1002","district_code":"Tanjung Palas","level":"Kabupaten","name":"Tanjung Palas Tengah","no":"69","province_code":"Kalimantan Utara","zip_code":"77216"}
+{"city_code":"Bulungan","code":"65.01.01.1001","district_code":"Tanjung Palas","level":"Kabupaten","name":"Tanjung Palas Ulu/Hulu","no":"70","province_code":"Kalimantan Utara","zip_code":"77215"}
+{"city_code":"Bulungan","code":"65.01.01.2008","district_code":"Tanjung Palas","level":"Kabupaten","name":"Teras Baru","no":"71","province_code":"Kalimantan Utara","zip_code":"77214"}
+{"city_code":"Bulungan","code":"65.01.01.2009","district_code":"Tanjung Palas","level":"Kabupaten","name":"Teras Nawang","no":"72","province_code":"Kalimantan Utara","zip_code":"77214"}
+{"city_code":"Tana Tidung","code":"65.04.03.2003","district_code":"Tana Lia","level":"Kabupaten","name":"Sambungan","no":"73","province_code":"Kalimantan Utara","zip_code":"77451"}
+{"city_code":"Tana Tidung","code":"65.04.03.2005","district_code":"Tana Lia","level":"Kabupaten","name":"Sambungan Selatan","no":"74","province_code":"Kalimantan Utara","zip_code":"77451"}
+{"city_code":"Tana Tidung","code":"65.04.03.2001","district_code":"Tana Lia","level":"Kabupaten","name":"Tanah Merah","no":"75","province_code":"Kalimantan Utara","zip_code":"77451"}
+{"city_code":"Tana Tidung","code":"65.04.03.2004","district_code":"Tana Lia","level":"Kabupaten","name":"Tanah Merah Barat","no":"76","province_code":"Kalimantan Utara","zip_code":"77451"}
+{"city_code":"Tana Tidung","code":"65.04.03.2002","district_code":"Tana Lia","level":"Kabupaten","name":"Tengku Dacing","no":"77","province_code":"Kalimantan Utara","zip_code":"77451"}
+{"city_code":"Malinau","code":"65.02.15.2001","district_code":"Sungai Tubu","level":"Kabupaten","name":"Long Nyau","no":"78","province_code":"Kalimantan Utara","zip_code":"77556"}
+{"city_code":"Malinau","code":"65.02.15.2005","district_code":"Sungai Tubu","level":"Kabupaten","name":"Long Pada","no":"79","province_code":"Kalimantan Utara","zip_code":"77556"}
+{"city_code":"Malinau","code":"65.02.15.2003","district_code":"Sungai Tubu","level":"Kabupaten","name":"Long Ranau","no":"80","province_code":"Kalimantan Utara","zip_code":"77556"}
+{"city_code":"Malinau","code":"65.02.15.2002","district_code":"Sungai Tubu","level":"Kabupaten","name":"Long Titi","no":"81","province_code":"Kalimantan Utara","zip_code":"77556"}
+{"city_code":"Malinau","code":"65.02.15.2004","district_code":"Sungai Tubu","level":"Kabupaten","name":"Rian Tubu","no":"82","province_code":"Kalimantan Utara","zip_code":"77556"}
+{"city_code":"Malinau","code":"65.02.09.2005","district_code":"Sungai Boh","level":"Kabupaten","name":"Agung Baru","no":"83","province_code":"Kalimantan Utara","zip_code":"77574"}
+{"city_code":"Malinau","code":"65.02.09.2006","district_code":"Sungai Boh","level":"Kabupaten","name":"Data Baru","no":"84","province_code":"Kalimantan Utara","zip_code":"77574"}
+{"city_code":"Malinau","code":"65.02.09.2001","district_code":"Sungai Boh","level":"Kabupaten","name":"Dumu Mahak","no":"85","province_code":"Kalimantan Utara","zip_code":"77574"}
+{"city_code":"Malinau","code":"65.02.09.2002","district_code":"Sungai Boh","level":"Kabupaten","name":"Long Lebusan","no":"86","province_code":"Kalimantan Utara","zip_code":"77574"}
+{"city_code":"Malinau","code":"65.02.09.2004","district_code":"Sungai Boh","level":"Kabupaten","name":"Long Top","no":"87","province_code":"Kalimantan Utara","zip_code":"77574"}
+{"city_code":"Malinau","code":"65.02.09.2003","district_code":"Sungai Boh","level":"Kabupaten","name":"Mahak Baru","no":"88","province_code":"Kalimantan Utara","zip_code":"77574"}
+{"city_code":"Tana Tidung","code":"65.04.02.2004","district_code":"Sesayap Hilir","level":"Kabupaten","name":"Badan Bikis","no":"89","province_code":"Kalimantan Utara","zip_code":"77153"}
+{"city_code":"Tana Tidung","code":"65.04.02.2003","district_code":"Sesayap Hilir","level":"Kabupaten","name":"Bebatu","no":"90","province_code":"Kalimantan Utara","zip_code":"77153"}
+{"city_code":"Tana Tidung","code":"65.04.02.2007","district_code":"Sesayap Hilir","level":"Kabupaten","name":"Menjelutung","no":"91","province_code":"Kalimantan Utara","zip_code":"77153"}
+{"city_code":"Tana Tidung","code":"65.04.02.2006","district_code":"Sesayap Hilir","level":"Kabupaten","name":"Seludau","no":"92","province_code":"Kalimantan Utara","zip_code":"77153"}
+{"city_code":"Tana Tidung","code":"65.04.02.2002","district_code":"Sesayap Hilir","level":"Kabupaten","name":"Sengkong","no":"93","province_code":"Kalimantan Utara","zip_code":"77153"}
+{"city_code":"Tana Tidung","code":"65.04.02.2005","district_code":"Sesayap Hilir","level":"Kabupaten","name":"Sepala Dalung","no":"94","province_code":"Kalimantan Utara","zip_code":"77153"}
+{"city_code":"Tana Tidung","code":"65.04.02.2001","district_code":"Sesayap Hilir","level":"Kabupaten","name":"Sesayap","no":"95","province_code":"Kalimantan Utara","zip_code":"77153"}
+{"city_code":"Tana Tidung","code":"65.04.02.2008","district_code":"Sesayap Hilir","level":"Kabupaten","name":"Sesayap Selor","no":"96","province_code":"Kalimantan Utara","zip_code":"77153"}
+{"city_code":"Tana Tidung","code":"65.04.01.2006","district_code":"Sesayap","level":"Kabupaten","name":"Gunawan","no":"97","province_code":"Kalimantan Utara","zip_code":"77151"}
+{"city_code":"Tana Tidung","code":"65.04.01.2002","district_code":"Sesayap","level":"Kabupaten","name":"Limbu Sedulun","no":"98","province_code":"Kalimantan Utara","zip_code":"77151"}
+{"city_code":"Tana Tidung","code":"65.04.01.2007","district_code":"Sesayap","level":"Kabupaten","name":"Sebawang","no":"99","province_code":"Kalimantan Utara","zip_code":"77151"}
+{"city_code":"Tana Tidung","code":"65.04.01.2003","district_code":"Sesayap","level":"Kabupaten","name":"Sebidai","no":"100","province_code":"Kalimantan Utara","zip_code":"77151"}
+{"city_code":"Tana Tidung","code":"65.04.01.2004","district_code":"Sesayap","level":"Kabupaten","name":"Sedulun","no":"101","province_code":"Kalimantan Utara","zip_code":"77151"}
+{"city_code":"Tana Tidung","code":"65.04.01.2001","district_code":"Sesayap","level":"Kabupaten","name":"Tideng Pale","no":"102","province_code":"Kalimantan Utara","zip_code":"77151"}
+{"city_code":"Tana Tidung","code":"65.04.01.2005","district_code":"Sesayap","level":"Kabupaten","name":"Tideng Pale Timur","no":"103","province_code":"Kalimantan Utara","zip_code":"77151"}
+{"city_code":"Nunukan","code":"65.03.16.2010","district_code":"Sembakung Atulai","level":"Kabupaten","name":"Binanun","no":"104","province_code":"Kalimantan Utara","zip_code":"77452"}
+{"city_code":"Nunukan","code":"65.03.16.2002","district_code":"Sembakung Atulai","level":"Kabupaten","name":"Katul","no":"105","province_code":"Kalimantan Utara","zip_code":"77452"}
+{"city_code":"Nunukan","code":"65.03.16.2009","district_code":"Sembakung Atulai","level":"Kabupaten","name":"Liuk Bulu","no":"106","province_code":"Kalimantan Utara","zip_code":"77452"}
+{"city_code":"Nunukan","code":"65.03.16.2001","district_code":"Sembakung Atulai","level":"Kabupaten","name":"Lubok Buat","no":"107","province_code":"Kalimantan Utara","zip_code":"77452"}
+{"city_code":"Nunukan","code":"65.03.16.2003","district_code":"Sembakung Atulai","level":"Kabupaten","name":"Mambulu","no":"108","province_code":"Kalimantan Utara","zip_code":"77452"}
+{"city_code":"Nunukan","code":"65.03.16.2004","district_code":"Sembakung Atulai","level":"Kabupaten","name":"Pagaluyon","no":"109","province_code":"Kalimantan Utara","zip_code":"77452"}
+{"city_code":"Nunukan","code":"65.03.16.2008","district_code":"Sembakung Atulai","level":"Kabupaten","name":"Pulau Keras","no":"110","province_code":"Kalimantan Utara","zip_code":"77452"}
+{"city_code":"Nunukan","code":"65.03.16.2007","district_code":"Sembakung Atulai","level":"Kabupaten","name":"Sabuluan","no":"111","province_code":"Kalimantan Utara","zip_code":"77452"}
+{"city_code":"Nunukan","code":"65.03.16.2005","district_code":"Sembakung Atulai","level":"Kabupaten","name":"Saduman","no":"112","province_code":"Kalimantan Utara","zip_code":"77452"}
+{"city_code":"Nunukan","code":"65.03.16.2006","district_code":"Sembakung Atulai","level":"Kabupaten","name":"Tulang","no":"113","province_code":"Kalimantan Utara","zip_code":"77452"}
+{"city_code":"Nunukan","code":"65.03.03.2003","district_code":"Sembakung","level":"Kabupaten","name":"Atap","no":"114","province_code":"Kalimantan Utara","zip_code":"77453"}
+{"city_code":"Nunukan","code":"65.03.03.2008","district_code":"Sembakung","level":"Kabupaten","name":"Butas Bagu","no":"115","province_code":"Kalimantan Utara","zip_code":"77453"}
+{"city_code":"Nunukan","code":"65.03.03.2007","district_code":"Sembakung","level":"Kabupaten","name":"Labuk","no":"116","province_code":"Kalimantan Utara","zip_code":"77453"}
+{"city_code":"Nunukan","code":"65.03.03.2002","district_code":"Sembakung","level":"Kabupaten","name":"Lubakan","no":"117","province_code":"Kalimantan Utara","zip_code":"77453"}
+{"city_code":"Nunukan","code":"65.03.03.2004","district_code":"Sembakung","level":"Kabupaten","name":"Manuk Bungkul","no":"118","province_code":"Kalimantan Utara","zip_code":"77453"}
+{"city_code":"Nunukan","code":"65.03.03.2006","district_code":"Sembakung","level":"Kabupaten","name":"Pagar","no":"119","province_code":"Kalimantan Utara","zip_code":"77453"}
+{"city_code":"Nunukan","code":"65.03.03.2009","district_code":"Sembakung","level":"Kabupaten","name":"Pelaju","no":"120","province_code":"Kalimantan Utara","zip_code":"77453"}
+{"city_code":"Nunukan","code":"65.03.03.2001","district_code":"Sembakung","level":"Kabupaten","name":"Tagul","no":"121","province_code":"Kalimantan Utara","zip_code":"77453"}
+{"city_code":"Nunukan","code":"65.03.03.2010","district_code":"Sembakung","level":"Kabupaten","name":"Tepian","no":"122","province_code":"Kalimantan Utara","zip_code":"77453"}
+{"city_code":"Nunukan","code":"65.03.03.2005","district_code":"Sembakung","level":"Kabupaten","name":"Tujung","no":"123","province_code":"Kalimantan Utara","zip_code":"77453"}
+{"city_code":"Bulungan","code":"65.01.09.2010","district_code":"Sekatak","level":"Kabupaten","name":"Ambalat","no":"124","province_code":"Kalimantan Utara","zip_code":"77263"}
+{"city_code":"Bulungan","code":"65.01.09.2021","district_code":"Sekatak","level":"Kabupaten","name":"Anjar Arip (Anjararef)","no":"125","province_code":"Kalimantan Utara","zip_code":"77263"}
+{"city_code":"Bulungan","code":"65.01.09.2013","district_code":"Sekatak","level":"Kabupaten","name":"Bambang","no":"126","province_code":"Kalimantan Utara","zip_code":"77263"}
+{"city_code":"Bulungan","code":"65.01.09.2018","district_code":"Sekatak","level":"Kabupaten","name":"Bekiliu","no":"127","province_code":"Kalimantan Utara","zip_code":"77263"}
+{"city_code":"Bulungan","code":"65.01.09.2003","district_code":"Sekatak","level":"Kabupaten","name":"Bunau","no":"128","province_code":"Kalimantan Utara","zip_code":"77263"}
+{"city_code":"Bulungan","code":"65.01.09.2017","district_code":"Sekatak","level":"Kabupaten","name":"Kelincauan (Kelincawan)","no":"129","province_code":"Kalimantan Utara","zip_code":"77263"}
+{"city_code":"Bulungan","code":"65.01.09.2009","district_code":"Sekatak","level":"Kabupaten","name":"Kelising (Keliising)","no":"130","province_code":"Kalimantan Utara","zip_code":"77263"}
+{"city_code":"Bulungan","code":"65.01.09.2006","district_code":"Sekatak","level":"Kabupaten","name":"Kelumbunan (Kelembunan)","no":"131","province_code":"Kalimantan Utara","zip_code":"77263"}
+{"city_code":"Bulungan","code":"65.01.09.2012","district_code":"Sekatak","level":"Kabupaten","name":"Kendari","no":"132","province_code":"Kalimantan Utara","zip_code":"77263"}
+{"city_code":"Bulungan","code":"65.01.09.2011","district_code":"Sekatak","level":"Kabupaten","name":"Keriting","no":"133","province_code":"Kalimantan Utara","zip_code":"77263"}
+{"city_code":"Bulungan","code":"65.01.09.2022","district_code":"Sekatak","level":"Kabupaten","name":"Liu Agu (Liagu)","no":"134","province_code":"Kalimantan Utara","zip_code":"77263"}
+{"city_code":"Bulungan","code":"65.01.09.2014","district_code":"Sekatak","level":"Kabupaten","name":"Maritam","no":"135","province_code":"Kalimantan Utara","zip_code":"77263"}
+{"city_code":"Bulungan","code":"65.01.09.2002","district_code":"Sekatak","level":"Kabupaten","name":"Paru Abang","no":"136","province_code":"Kalimantan Utara","zip_code":"77263"}
+{"city_code":"Bulungan","code":"65.01.09.2015","district_code":"Sekatak","level":"Kabupaten","name":"Pentian","no":"137","province_code":"Kalimantan Utara","zip_code":"77263"}
+{"city_code":"Bulungan","code":"65.01.09.2016","district_code":"Sekatak","level":"Kabupaten","name":"Punan Dulau","no":"138","province_code":"Kalimantan Utara","zip_code":"77263"}
+{"city_code":"Bulungan","code":"65.01.09.2020","district_code":"Sekatak","level":"Kabupaten","name":"Pungit","no":"139","province_code":"Kalimantan Utara","zip_code":"77263"}
+{"city_code":"Bulungan","code":"65.01.09.2019","district_code":"Sekatak","level":"Kabupaten","name":"Sekatak Bengara","no":"140","province_code":"Kalimantan Utara","zip_code":"77263"}
+{"city_code":"Bulungan","code":"65.01.09.2001","district_code":"Sekatak","level":"Kabupaten","name":"Sekatak Buji","no":"141","province_code":"Kalimantan Utara","zip_code":"77263"}
+{"city_code":"Bulungan","code":"65.01.09.2005","district_code":"Sekatak","level":"Kabupaten","name":"Tenggiling","no":"142","province_code":"Kalimantan Utara","zip_code":"77263"}
+{"city_code":"Bulungan","code":"65.01.09.2008","district_code":"Sekatak","level":"Kabupaten","name":"Terindak","no":"143","province_code":"Kalimantan Utara","zip_code":"77263"}
+{"city_code":"Bulungan","code":"65.01.09.2007","district_code":"Sekatak","level":"Kabupaten","name":"Turung","no":"144","province_code":"Kalimantan Utara","zip_code":"77263"}
+{"city_code":"Bulungan","code":"65.01.09.2004","district_code":"Sekatak","level":"Kabupaten","name":"Ujang","no":"145","province_code":"Kalimantan Utara","zip_code":"77263"}
+{"city_code":"Nunukan","code":"65.03.13.2003","district_code":"Sei Menggaris","level":"Kabupaten","name":"Samaenre Semaja","no":"146","province_code":"Kalimantan Utara","zip_code":"77484"}
+{"city_code":"Nunukan","code":"65.03.13.2004","district_code":"Sei Menggaris","level":"Kabupaten","name":"Sekaduyan Taka","no":"147","province_code":"Kalimantan Utara","zip_code":"77484"}
+{"city_code":"Nunukan","code":"65.03.13.2001","district_code":"Sei Menggaris","level":"Kabupaten","name":"Srinanti","no":"148","province_code":"Kalimantan Utara","zip_code":"77484"}
+{"city_code":"Nunukan","code":"65.03.13.2002","district_code":"Sei Menggaris","level":"Kabupaten","name":"Tabur Lestari","no":"149","province_code":"Kalimantan Utara","zip_code":"77484"}
+{"city_code":"Nunukan","code":"65.03.06.2002","district_code":"Sebuku","level":"Kabupaten","name":"Apas","no":"150","province_code":"Kalimantan Utara","zip_code":"77481"}
+{"city_code":"Nunukan","code":"65.03.06.2006","district_code":"Sebuku","level":"Kabupaten","name":"Bebanas","no":"151","province_code":"Kalimantan Utara","zip_code":"77481"}
+{"city_code":"Nunukan","code":"65.03.06.2010","district_code":"Sebuku","level":"Kabupaten","name":"Harapan","no":"152","province_code":"Kalimantan Utara","zip_code":"77481"}
+{"city_code":"Nunukan","code":"65.03.06.2005","district_code":"Sebuku","level":"Kabupaten","name":"Kekayap","no":"153","province_code":"Kalimantan Utara","zip_code":"77481"}
+{"city_code":"Nunukan","code":"65.03.06.2003","district_code":"Sebuku","level":"Kabupaten","name":"Kunyit","no":"154","province_code":"Kalimantan Utara","zip_code":"77481"}
+{"city_code":"Nunukan","code":"65.03.06.2007","district_code":"Sebuku","level":"Kabupaten","name":"Lulu","no":"155","province_code":"Kalimantan Utara","zip_code":"77481"}
+{"city_code":"Nunukan","code":"65.03.06.2009","district_code":"Sebuku","level":"Kabupaten","name":"Melasu Baru","no":"156","province_code":"Kalimantan Utara","zip_code":"77481"}
+{"city_code":"Nunukan","code":"65.03.06.2001","district_code":"Sebuku","level":"Kabupaten","name":"Pembeliangan","no":"157","province_code":"Kalimantan Utara","zip_code":"77481"}
+{"city_code":"Nunukan","code":"65.03.06.2008","district_code":"Sebuku","level":"Kabupaten","name":"Sujau","no":"158","province_code":"Kalimantan Utara","zip_code":"77481"}
+{"city_code":"Nunukan","code":"65.03.06.2004","district_code":"Sebuku","level":"Kabupaten","name":"Tetaban","no":"159","province_code":"Kalimantan Utara","zip_code":"77481"}
+{"city_code":"Nunukan","code":"65.03.11.2002","district_code":"Sebatik Utara","level":"Kabupaten","name":"Lapri","no":"160","province_code":"Kalimantan Utara","zip_code":"77489"}
+{"city_code":"Nunukan","code":"65.03.11.2003","district_code":"Sebatik Utara","level":"Kabupaten","name":"Seberang","no":"161","province_code":"Kalimantan Utara","zip_code":"77489"}
+{"city_code":"Nunukan","code":"65.03.11.2001","district_code":"Sebatik Utara","level":"Kabupaten","name":"Sei/Sungai Pancang","no":"162","province_code":"Kalimantan Utara","zip_code":"77489"}
+{"city_code":"Nunukan","code":"65.03.10.2003","district_code":"Sebatik Timur","level":"Kabupaten","name":"Bukit Aru Indah","no":"163","province_code":"Kalimantan Utara","zip_code":"77488"}
+{"city_code":"Nunukan","code":"65.03.10.2001","district_code":"Sebatik Timur","level":"Kabupaten","name":"Sei/Sungai Nyamuk","no":"164","province_code":"Kalimantan Utara","zip_code":"77488"}
+{"city_code":"Nunukan","code":"65.03.10.2004","district_code":"Sebatik Timur","level":"Kabupaten","name":"Tanjung Aru","no":"165","province_code":"Kalimantan Utara","zip_code":"77488"}
+{"city_code":"Nunukan","code":"65.03.10.2002","district_code":"Sebatik Timur","level":"Kabupaten","name":"Tanjung Harapan","no":"166","province_code":"Kalimantan Utara","zip_code":"77488"}
+{"city_code":"Nunukan","code":"65.03.12.2003","district_code":"Sebatik Tengah","level":"Kabupaten","name":"Aji Kuning","no":"167","province_code":"Kalimantan Utara","zip_code":"77487"}
+{"city_code":"Nunukan","code":"65.03.12.2004","district_code":"Sebatik Tengah","level":"Kabupaten","name":"Bukit Harapan","no":"168","province_code":"Kalimantan Utara","zip_code":"77487"}
+{"city_code":"Nunukan","code":"65.03.12.2002","district_code":"Sebatik Tengah","level":"Kabupaten","name":"Maspul","no":"169","province_code":"Kalimantan Utara","zip_code":"77487"}
+{"city_code":"Nunukan","code":"65.03.12.2001","district_code":"Sebatik Tengah","level":"Kabupaten","name":"Sungai Limau (Sei Limau)","no":"170","province_code":"Kalimantan Utara","zip_code":"77487"}
+{"city_code":"Nunukan","code":"65.03.08.2004","district_code":"Sebatik Barat","level":"Kabupaten","name":"Bambangan","no":"171","province_code":"Kalimantan Utara","zip_code":"77486"}
+{"city_code":"Nunukan","code":"65.03.08.2002","district_code":"Sebatik Barat","level":"Kabupaten","name":"Binalawan","no":"172","province_code":"Kalimantan Utara","zip_code":"77486"}
+{"city_code":"Nunukan","code":"65.03.08.2001","district_code":"Sebatik Barat","level":"Kabupaten","name":"Liang Bunyu","no":"173","province_code":"Kalimantan Utara","zip_code":"77486"}
+{"city_code":"Nunukan","code":"65.03.08.2003","district_code":"Sebatik Barat","level":"Kabupaten","name":"Setabu","no":"174","province_code":"Kalimantan Utara","zip_code":"77486"}
+{"city_code":"Nunukan","code":"65.03.01.2002","district_code":"Sebatik","level":"Kabupaten","name":"Balansiku","no":"175","province_code":"Kalimantan Utara","zip_code":"77483"}
+{"city_code":"Nunukan","code":"65.03.01.2004","district_code":"Sebatik","level":"Kabupaten","name":"Padaidi","no":"176","province_code":"Kalimantan Utara","zip_code":"77483"}
+{"city_code":"Nunukan","code":"65.03.01.2003","district_code":"Sebatik","level":"Kabupaten","name":"Sungai Manurung","no":"177","province_code":"Kalimantan Utara","zip_code":"77483"}
+{"city_code":"Nunukan","code":"65.03.01.2001","district_code":"Sebatik","level":"Kabupaten","name":"Tanjungkarang (Tanjung Karang)","no":"178","province_code":"Kalimantan Utara","zip_code":"77483"}
+{"city_code":"Malinau","code":"65.02.03.2006","district_code":"Pujungan","level":"Kabupaten","name":"Long Aran","no":"179","province_code":"Kalimantan Utara","zip_code":"77563"}
+{"city_code":"Malinau","code":"65.02.03.2009","district_code":"Pujungan","level":"Kabupaten","name":"Long Belaka Pitau","no":"180","province_code":"Kalimantan Utara","zip_code":"77563"}
+{"city_code":"Malinau","code":"65.02.03.2008","district_code":"Pujungan","level":"Kabupaten","name":"Long Bena","no":"181","province_code":"Kalimantan Utara","zip_code":"77563"}
+{"city_code":"Malinau","code":"65.02.03.2005","district_code":"Pujungan","level":"Kabupaten","name":"Long Jelet","no":"182","province_code":"Kalimantan Utara","zip_code":"77563"}
+{"city_code":"Malinau","code":"65.02.03.2002","district_code":"Pujungan","level":"Kabupaten","name":"Long Ketaman","no":"183","province_code":"Kalimantan Utara","zip_code":"77563"}
+{"city_code":"Malinau","code":"65.02.03.2004","district_code":"Pujungan","level":"Kabupaten","name":"Long Lame (Lame)","no":"184","province_code":"Kalimantan Utara","zip_code":"77563"}
+{"city_code":"Malinau","code":"65.02.03.2007","district_code":"Pujungan","level":"Kabupaten","name":"Long Paliran","no":"185","province_code":"Kalimantan Utara","zip_code":"77563"}
+{"city_code":"Malinau","code":"65.02.03.2003","district_code":"Pujungan","level":"Kabupaten","name":"Long Pua","no":"186","province_code":"Kalimantan Utara","zip_code":"77563"}
+{"city_code":"Malinau","code":"65.02.03.2001","district_code":"Pujungan","level":"Kabupaten","name":"Long Pujungan","no":"187","province_code":"Kalimantan Utara","zip_code":"77563"}
+{"city_code":"Bulungan","code":"65.01.08.2002","district_code":"Peso Hilir/Ilir","level":"Kabupaten","name":"Long Bang","no":"188","province_code":"Kalimantan Utara","zip_code":"77262"}
+{"city_code":"Bulungan","code":"65.01.08.2006","district_code":"Peso Hilir/Ilir","level":"Kabupaten","name":"Long Bang Hulu","no":"189","province_code":"Kalimantan Utara","zip_code":"77262"}
+{"city_code":"Bulungan","code":"65.01.08.2005","district_code":"Peso Hilir/Ilir","level":"Kabupaten","name":"Long Lembu","no":"190","province_code":"Kalimantan Utara","zip_code":"77262"}
+{"city_code":"Bulungan","code":"65.01.08.2003","district_code":"Peso Hilir/Ilir","level":"Kabupaten","name":"Long Telenjau","no":"191","province_code":"Kalimantan Utara","zip_code":"77262"}
+{"city_code":"Bulungan","code":"65.01.08.2001","district_code":"Peso Hilir/Ilir","level":"Kabupaten","name":"Long Tungu","no":"192","province_code":"Kalimantan Utara","zip_code":"77262"}
+{"city_code":"Bulungan","code":"65.01.08.2004","district_code":"Peso Hilir/Ilir","level":"Kabupaten","name":"Naha Aya","no":"193","province_code":"Kalimantan Utara","zip_code":"77262"}
+{"city_code":"Bulungan","code":"65.01.07.2001","district_code":"Peso","level":"Kabupaten","name":"Lepak Aru","no":"194","province_code":"Kalimantan Utara","zip_code":"77261"}
+{"city_code":"Bulungan","code":"65.01.07.2004","district_code":"Peso","level":"Kabupaten","name":"Long Bia","no":"195","province_code":"Kalimantan Utara","zip_code":"77261"}
+{"city_code":"Bulungan","code":"65.01.07.2010","district_code":"Peso","level":"Kabupaten","name":"Long Buang","no":"196","province_code":"Kalimantan Utara","zip_code":"77261"}
+{"city_code":"Bulungan","code":"65.01.07.2002","district_code":"Peso","level":"Kabupaten","name":"Long Lasan","no":"197","province_code":"Kalimantan Utara","zip_code":"77261"}
+{"city_code":"Bulungan","code":"65.01.07.2008","district_code":"Peso","level":"Kabupaten","name":"Long Lejuh (Long Leju)","no":"198","province_code":"Kalimantan Utara","zip_code":"77261"}
+{"city_code":"Bulungan","code":"65.01.07.2006","district_code":"Peso","level":"Kabupaten","name":"Long Lian","no":"199","province_code":"Kalimantan Utara","zip_code":"77261"}
+{"city_code":"Bulungan","code":"65.01.07.2009","district_code":"Peso","level":"Kabupaten","name":"Long Pelban (Long Peleban)","no":"200","province_code":"Kalimantan Utara","zip_code":"77261"}
+{"city_code":"Bulungan","code":"65.01.07.2003","district_code":"Peso","level":"Kabupaten","name":"Long Peso","no":"201","province_code":"Kalimantan Utara","zip_code":"77261"}
+{"city_code":"Bulungan","code":"65.01.07.2007","district_code":"Peso","level":"Kabupaten","name":"Long Yiin/Pelaah","no":"202","province_code":"Kalimantan Utara","zip_code":"77261"}
+{"city_code":"Bulungan","code":"65.01.07.2005","district_code":"Peso","level":"Kabupaten","name":"Muara Pengean","no":"203","province_code":"Kalimantan Utara","zip_code":"77261"}
+{"city_code":"Nunukan","code":"65.03.09.1003","district_code":"Nunukan Selatan","level":"Kabupaten","name":"Mansapa","no":"204","province_code":"Kalimantan Utara","zip_code":"77480"}
+{"city_code":"Nunukan","code":"65.03.09.1002","district_code":"Nunukan Selatan","level":"Kabupaten","name":"Nunukan Selatan","no":"205","province_code":"Kalimantan Utara","zip_code":"77480"}
+{"city_code":"Nunukan","code":"65.03.09.1001","district_code":"Nunukan Selatan","level":"Kabupaten","name":"Selisun","no":"206","province_code":"Kalimantan Utara","zip_code":"77480"}
+{"city_code":"Nunukan","code":"65.03.09.1004","district_code":"Nunukan Selatan","level":"Kabupaten","name":"Tanjung Harapan","no":"207","province_code":"Kalimantan Utara","zip_code":"77480"}
+{"city_code":"Nunukan","code":"65.03.02.2004","district_code":"Nunukan","level":"Kabupaten","name":"Binusan","no":"208","province_code":"Kalimantan Utara","zip_code":"77482"}
+{"city_code":"Nunukan","code":"65.03.02.1002","district_code":"Nunukan","level":"Kabupaten","name":"Nunukan Barat","no":"209","province_code":"Kalimantan Utara","zip_code":"77482"}
+{"city_code":"Nunukan","code":"65.03.02.1005","district_code":"Nunukan","level":"Kabupaten","name":"Nunukan Tengah","no":"210","province_code":"Kalimantan Utara","zip_code":"77482"}
+{"city_code":"Nunukan","code":"65.03.02.1001","district_code":"Nunukan","level":"Kabupaten","name":"Nunukan Timur","no":"211","province_code":"Kalimantan Utara","zip_code":"77482"}
+{"city_code":"Nunukan","code":"65.03.02.1003","district_code":"Nunukan","level":"Kabupaten","name":"Nunukan Utara","no":"212","province_code":"Kalimantan Utara","zip_code":"77482"}
+{"city_code":"Tana Tidung","code":"65.04.05.2003","district_code":"Muruk Rian","level":"Kabupaten","name":"Balayan Ari","no":"213","province_code":"Kalimantan Utara","zip_code":"77154"}
+{"city_code":"Tana Tidung","code":"65.04.05.2005","district_code":"Muruk Rian","level":"Kabupaten","name":"Kapuak","no":"214","province_code":"Kalimantan Utara","zip_code":"77154"}
+{"city_code":"Tana Tidung","code":"65.04.05.2002","district_code":"Muruk Rian","level":"Kabupaten","name":"Rian","no":"215","province_code":"Kalimantan Utara","zip_code":"77154"}
+{"city_code":"Tana Tidung","code":"65.04.05.2004","district_code":"Muruk Rian","level":"Kabupaten","name":"Rian Rayo","no":"216","province_code":"Kalimantan Utara","zip_code":"77154"}
+{"city_code":"Tana Tidung","code":"65.04.05.2006","district_code":"Muruk Rian","level":"Kabupaten","name":"Sapari","no":"217","province_code":"Kalimantan Utara","zip_code":"77154"}
+{"city_code":"Tana Tidung","code":"65.04.05.2001","district_code":"Muruk Rian","level":"Kabupaten","name":"Seputuk","no":"218","province_code":"Kalimantan Utara","zip_code":"77154"}
+{"city_code":"Malinau","code":"65.02.12.2005","district_code":"Mentarang Hulu","level":"Kabupaten","name":"Lung Barang (Long Berang)","no":"219","province_code":"Kalimantan Utara","zip_code":"77155"}
+{"city_code":"Malinau","code":"65.02.12.2001","district_code":"Mentarang Hulu","level":"Kabupaten","name":"Lung Fala (Long Pala)","no":"220","province_code":"Kalimantan Utara","zip_code":"77155"}
+{"city_code":"Malinau","code":"65.02.12.2002","district_code":"Mentarang Hulu","level":"Kabupaten","name":"Lung Kebinu (Long Kebinu)","no":"221","province_code":"Kalimantan Utara","zip_code":"77155"}
+{"city_code":"Malinau","code":"65.02.12.2003","district_code":"Mentarang Hulu","level":"Kabupaten","name":"Lung Mekatip (Long Mekatif)","no":"222","province_code":"Kalimantan Utara","zip_code":"77155"}
+{"city_code":"Malinau","code":"65.02.12.2007","district_code":"Mentarang Hulu","level":"Kabupaten","name":"Lung Semamu (Long Semamu)","no":"223","province_code":"Kalimantan Utara","zip_code":"77155"}
+{"city_code":"Malinau","code":"65.02.12.2004","district_code":"Mentarang Hulu","level":"Kabupaten","name":"Lung Simau (Long Simau)","no":"224","province_code":"Kalimantan Utara","zip_code":"77155"}
+{"city_code":"Malinau","code":"65.02.12.2006","district_code":"Mentarang Hulu","level":"Kabupaten","name":"Lung Sulit (Long Sulit)","no":"225","province_code":"Kalimantan Utara","zip_code":"77155"}
+{"city_code":"Malinau","code":"65.02.01.2009","district_code":"Mentarang","level":"Kabupaten","name":"Harapan Maju","no":"226","province_code":"Kalimantan Utara","zip_code":"77555"}
+{"city_code":"Malinau","code":"65.02.01.2007","district_code":"Mentarang","level":"Kabupaten","name":"Lidung Kemenci","no":"227","province_code":"Kalimantan Utara","zip_code":"77555"}
+{"city_code":"Malinau","code":"65.02.01.2002","district_code":"Mentarang","level":"Kabupaten","name":"Long Bisai","no":"228","province_code":"Kalimantan Utara","zip_code":"77555"}
+{"city_code":"Malinau","code":"65.02.01.2001","district_code":"Mentarang","level":"Kabupaten","name":"Long Gafid","no":"229","province_code":"Kalimantan Utara","zip_code":"77555"}
+{"city_code":"Malinau","code":"65.02.01.2004","district_code":"Mentarang","level":"Kabupaten","name":"Long Liku","no":"230","province_code":"Kalimantan Utara","zip_code":"77555"}
+{"city_code":"Malinau","code":"65.02.01.2008","district_code":"Mentarang","level":"Kabupaten","name":"Mentarang Baru","no":"231","province_code":"Kalimantan Utara","zip_code":"77555"}
+{"city_code":"Malinau","code":"65.02.01.2006","district_code":"Mentarang","level":"Kabupaten","name":"Paking","no":"232","province_code":"Kalimantan Utara","zip_code":"77555"}
+{"city_code":"Malinau","code":"65.02.01.2005","district_code":"Mentarang","level":"Kabupaten","name":"Pulau Sapi","no":"233","province_code":"Kalimantan Utara","zip_code":"77555"}
+{"city_code":"Malinau","code":"65.02.01.2003","district_code":"Mentarang","level":"Kabupaten","name":"Temalang","no":"234","province_code":"Kalimantan Utara","zip_code":"77555"}
+{"city_code":"Malinau","code":"65.02.07.2008","district_code":"Malinau Utara","level":"Kabupaten","name":"Belayan","no":"235","province_code":"Kalimantan Utara","zip_code":"77557"}
+{"city_code":"Malinau","code":"65.02.07.2001","district_code":"Malinau Utara","level":"Kabupaten","name":"Kaliamok","no":"236","province_code":"Kalimantan Utara","zip_code":"77557"}
+{"city_code":"Malinau","code":"65.02.07.2011","district_code":"Malinau Utara","level":"Kabupaten","name":"Kelapis","no":"237","province_code":"Kalimantan Utara","zip_code":"77557"}
+{"city_code":"Malinau","code":"65.02.07.2010","district_code":"Malinau Utara","level":"Kabupaten","name":"Lubak Manis (Lubok Manis)","no":"238","province_code":"Kalimantan Utara","zip_code":"77557"}
+{"city_code":"Malinau","code":"65.02.07.2002","district_code":"Malinau Utara","level":"Kabupaten","name":"Luso","no":"239","province_code":"Kalimantan Utara","zip_code":"77557"}
+{"city_code":"Malinau","code":"65.02.07.2003","district_code":"Malinau Utara","level":"Kabupaten","name":"Malinau Seberang","no":"240","province_code":"Kalimantan Utara","zip_code":"77557"}
+{"city_code":"Malinau","code":"65.02.07.2004","district_code":"Malinau Utara","level":"Kabupaten","name":"Putat","no":"241","province_code":"Kalimantan Utara","zip_code":"77557"}
+{"city_code":"Malinau","code":"65.02.07.2007","district_code":"Malinau Utara","level":"Kabupaten","name":"Respen Tubu","no":"242","province_code":"Kalimantan Utara","zip_code":"77557"}
+{"city_code":"Malinau","code":"65.02.07.2005","district_code":"Malinau Utara","level":"Kabupaten","name":"Salap","no":"243","province_code":"Kalimantan Utara","zip_code":"77557"}
+{"city_code":"Malinau","code":"65.02.07.2009","district_code":"Malinau Utara","level":"Kabupaten","name":"Sembuak Warot/Warod","no":"244","province_code":"Kalimantan Utara","zip_code":"77557"}
+{"city_code":"Malinau","code":"65.02.07.2012","district_code":"Malinau Utara","level":"Kabupaten","name":"Semengaris (Semanggaris)","no":"245","province_code":"Kalimantan Utara","zip_code":"77557"}
+{"city_code":"Malinau","code":"65.02.07.2006","district_code":"Malinau Utara","level":"Kabupaten","name":"Seruyung","no":"246","province_code":"Kalimantan Utara","zip_code":"77557"}
+{"city_code":"Malinau","code":"65.02.14.2004","district_code":"Malinau Selatan Hulu","level":"Kabupaten","name":"Halanga","no":"247","province_code":"Kalimantan Utara","zip_code":"77553"}
+{"city_code":"Malinau","code":"65.02.14.2006","district_code":"Malinau Selatan Hulu","level":"Kabupaten","name":"Long Jalan","no":"248","province_code":"Kalimantan Utara","zip_code":"77553"}
+{"city_code":"Malinau","code":"65.02.14.2001","district_code":"Malinau Selatan Hulu","level":"Kabupaten","name":"Long Lake","no":"249","province_code":"Kalimantan Utara","zip_code":"77553"}
+{"city_code":"Malinau","code":"65.02.14.2003","district_code":"Malinau Selatan Hulu","level":"Kabupaten","name":"Long Rat","no":"250","province_code":"Kalimantan Utara","zip_code":"77553"}
+{"city_code":"Malinau","code":"65.02.14.2005","district_code":"Malinau Selatan Hulu","level":"Kabupaten","name":"Metut","no":"251","province_code":"Kalimantan Utara","zip_code":"77553"}
+{"city_code":"Malinau","code":"65.02.14.2007","district_code":"Malinau Selatan Hulu","level":"Kabupaten","name":"Nahakramo (Nahakramo Baru)","no":"252","province_code":"Kalimantan Utara","zip_code":"77553"}
+{"city_code":"Malinau","code":"65.02.14.2002","district_code":"Malinau Selatan Hulu","level":"Kabupaten","name":"Punan Mirau","no":"253","province_code":"Kalimantan Utara","zip_code":"77553"}
+{"city_code":"Malinau","code":"65.02.14.2008","district_code":"Malinau Selatan Hulu","level":"Kabupaten","name":"Tanjung Nanga","no":"254","province_code":"Kalimantan Utara","zip_code":"77553"}
+{"city_code":"Malinau","code":"65.02.13.2004","district_code":"Malinau Selatan Hilir","level":"Kabupaten","name":"Batu Kajang","no":"255","province_code":"Kalimantan Utara","zip_code":"77552"}
+{"city_code":"Malinau","code":"65.02.13.2005","district_code":"Malinau Selatan Hilir","level":"Kabupaten","name":"Gong Solok","no":"256","province_code":"Kalimantan Utara","zip_code":"77552"}
+{"city_code":"Malinau","code":"65.02.13.2007","district_code":"Malinau Selatan Hilir","level":"Kabupaten","name":"Long Adiu","no":"257","province_code":"Kalimantan Utara","zip_code":"77552"}
+{"city_code":"Malinau","code":"65.02.13.2006","district_code":"Malinau Selatan Hilir","level":"Kabupaten","name":"Punan Gong Solok","no":"258","province_code":"Kalimantan Utara","zip_code":"77552"}
+{"city_code":"Malinau","code":"65.02.13.2008","district_code":"Malinau Selatan Hilir","level":"Kabupaten","name":"Punan Long Adiu","no":"259","province_code":"Kalimantan Utara","zip_code":"77552"}
+{"city_code":"Malinau","code":"65.02.13.2003","district_code":"Malinau Selatan Hilir","level":"Kabupaten","name":"Punan Setarap","no":"260","province_code":"Kalimantan Utara","zip_code":"77552"}
+{"city_code":"Malinau","code":"65.02.13.2002","district_code":"Malinau Selatan Hilir","level":"Kabupaten","name":"Setarap","no":"261","province_code":"Kalimantan Utara","zip_code":"77552"}
+{"city_code":"Malinau","code":"65.02.13.2001","district_code":"Malinau Selatan Hilir","level":"Kabupaten","name":"Setulang","no":"262","province_code":"Kalimantan Utara","zip_code":"77552"}
+{"city_code":"Malinau","code":"65.02.06.2001","district_code":"Malinau Selatan","level":"Kabupaten","name":"Bila Bekayuk","no":"263","province_code":"Kalimantan Utara","zip_code":"77551"}
+{"city_code":"Malinau","code":"65.02.06.2004","district_code":"Malinau Selatan","level":"Kabupaten","name":"Laban Nyarit","no":"264","province_code":"Kalimantan Utara","zip_code":"77551"}
+{"city_code":"Malinau","code":"65.02.06.2003","district_code":"Malinau Selatan","level":"Kabupaten","name":"Langap","no":"265","province_code":"Kalimantan Utara","zip_code":"77551"}
+{"city_code":"Malinau","code":"65.02.06.2002","district_code":"Malinau Selatan","level":"Kabupaten","name":"Long Loreh","no":"266","province_code":"Kalimantan Utara","zip_code":"77551"}
+{"city_code":"Malinau","code":"65.02.06.2005","district_code":"Malinau Selatan","level":"Kabupaten","name":"Nunuk Tanah Kibang","no":"267","province_code":"Kalimantan Utara","zip_code":"77551"}
+{"city_code":"Malinau","code":"65.02.06.2007","district_code":"Malinau Selatan","level":"Kabupaten","name":"Paya Seturan","no":"268","province_code":"Kalimantan Utara","zip_code":"77551"}
+{"city_code":"Malinau","code":"65.02.06.2006","district_code":"Malinau Selatan","level":"Kabupaten","name":"Pelencau","no":"269","province_code":"Kalimantan Utara","zip_code":"77551"}
+{"city_code":"Malinau","code":"65.02.06.2008","district_code":"Malinau Selatan","level":"Kabupaten","name":"Punan Rian","no":"270","province_code":"Kalimantan Utara","zip_code":"77551"}
+{"city_code":"Malinau","code":"65.02.06.2009","district_code":"Malinau Selatan","level":"Kabupaten","name":"Sengayan","no":"271","province_code":"Kalimantan Utara","zip_code":"77551"}
+{"city_code":"Malinau","code":"65.02.02.2001","district_code":"Malinau Kota","level":"Kabupaten","name":"Batu Lidung","no":"272","province_code":"Kalimantan Utara","zip_code":"77550"}
+{"city_code":"Malinau","code":"65.02.02.2005","district_code":"Malinau Kota","level":"Kabupaten","name":"Malinau Hilir","no":"273","province_code":"Kalimantan Utara","zip_code":"77550"}
+{"city_code":"Malinau","code":"65.02.02.2004","district_code":"Malinau Kota","level":"Kabupaten","name":"Malinau Hulu","no":"274","province_code":"Kalimantan Utara","zip_code":"77550"}
+{"city_code":"Malinau","code":"65.02.02.2002","district_code":"Malinau Kota","level":"Kabupaten","name":"Malinau Kota","no":"275","province_code":"Kalimantan Utara","zip_code":"77550"}
+{"city_code":"Malinau","code":"65.02.02.2003","district_code":"Malinau Kota","level":"Kabupaten","name":"Pelita Kanaan","no":"276","province_code":"Kalimantan Utara","zip_code":"77550"}
+{"city_code":"Malinau","code":"65.02.02.2006","district_code":"Malinau Kota","level":"Kabupaten","name":"Tanjung Keranjang","no":"277","province_code":"Kalimantan Utara","zip_code":"77550"}
+{"city_code":"Malinau","code":"65.02.08.2008","district_code":"Malinau Barat","level":"Kabupaten","name":"Kuala Lapang","no":"278","province_code":"Kalimantan Utara","zip_code":"77554"}
+{"city_code":"Malinau","code":"65.02.08.2001","district_code":"Malinau Barat","level":"Kabupaten","name":"Long Bila","no":"279","province_code":"Kalimantan Utara","zip_code":"77554"}
+{"city_code":"Malinau","code":"65.02.08.2002","district_code":"Malinau Barat","level":"Kabupaten","name":"Long Kenipe","no":"280","province_code":"Kalimantan Utara","zip_code":"77554"}
+{"city_code":"Malinau","code":"65.02.08.2003","district_code":"Malinau Barat","level":"Kabupaten","name":"Punan Bengalun","no":"281","province_code":"Kalimantan Utara","zip_code":"77554"}
+{"city_code":"Malinau","code":"65.02.08.2009","district_code":"Malinau Barat","level":"Kabupaten","name":"Sempayang","no":"282","province_code":"Kalimantan Utara","zip_code":"77554"}
+{"city_code":"Malinau","code":"65.02.08.2005","district_code":"Malinau Barat","level":"Kabupaten","name":"Sentaban","no":"283","province_code":"Kalimantan Utara","zip_code":"77554"}
+{"city_code":"Malinau","code":"65.02.08.2004","district_code":"Malinau Barat","level":"Kabupaten","name":"Sesua","no":"284","province_code":"Kalimantan Utara","zip_code":"77554"}
+{"city_code":"Malinau","code":"65.02.08.2006","district_code":"Malinau Barat","level":"Kabupaten","name":"Tanjung Lapang","no":"285","province_code":"Kalimantan Utara","zip_code":"77554"}
+{"city_code":"Malinau","code":"65.02.08.2007","district_code":"Malinau Barat","level":"Kabupaten","name":"Taras","no":"286","province_code":"Kalimantan Utara","zip_code":"77554"}
+{"city_code":"Nunukan","code":"65.03.15.2006","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Batung","no":"287","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2038","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Bokok","no":"288","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2003","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Bulu Mengolom (Bulu Mengelom)","no":"289","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2032","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Bululaun Hilir (Bulu Laun Hilir)","no":"290","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2040","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Bululaun Hulu (Bulu Laun Hulu)","no":"291","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2044","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Duyan","no":"292","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2020","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Jukup","no":"293","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2047","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Kabungolor (Kabungalor)","no":"294","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2019","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Kalambuku (Kalam Buku)","no":"295","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2041","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Kalisun","no":"296","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2037","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Kuyo","no":"297","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2029","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Labang","no":"298","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2027","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Labuk","no":"299","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2033","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Lagas","no":"300","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2035","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Langgason","no":"301","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2026","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Limpakon","no":"302","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2023","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Linsayung","no":"303","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2048","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Lipaga (Lepaga)","no":"304","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2021","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Long Bulu","no":"305","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2042","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Mamasin (Mamanis)","no":"306","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2008","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Nansapan (Nan Sapan)","no":"307","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2028","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Nantukidan","no":"308","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2031","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Ngawol","no":"309","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2014","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Paluan","no":"310","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2034","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Panas","no":"311","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2001","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Payang","no":"312","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2012","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Salan","no":"313","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2009","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Samunti","no":"314","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2025","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Sanal","no":"315","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2015","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Sedalit","no":"316","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2010","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Semata","no":"317","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2043","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Sibalu","no":"318","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2013","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Sinampila I (Sinampala Satu)","no":"319","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2018","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Sinampila II (Sinampala Dua)","no":"320","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2030","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Sumantipal","no":"321","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2022","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Sumentobol","no":"322","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2011","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Sungoi","no":"323","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2002","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Suyadon","no":"324","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2017","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Tadungus","no":"325","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2016","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Tambalang Hilir","no":"326","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2036","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Tambalang Hulu (Tambalang Ulu)","no":"327","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2049","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Tantalujuk","no":"328","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2039","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Tau Lumbis","no":"329","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2046","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Tetagas","no":"330","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2004","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Tukulen (Tukulon)","no":"331","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2024","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Tumantalas (Tumatalas)","no":"332","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2045","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Tuntulibing (Tantu Libing)","no":"333","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2007","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Ubol Alung (Tubel Alung / Ubel Alung)","no":"334","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.15.2005","district_code":"Lumbis Ogong","level":"Kabupaten","name":"Ubol Sulok (Ubel Sulok)","no":"335","province_code":"Kalimantan Utara","zip_code":"77450"}
+{"city_code":"Nunukan","code":"65.03.04.2025","district_code":"Lumbis","level":"Kabupaten","name":"Bulan Bulan","no":"336","province_code":"Kalimantan Utara","zip_code":"77457"}
+{"city_code":"Nunukan","code":"65.03.04.2003","district_code":"Lumbis","level":"Kabupaten","name":"Dabulon (Dubulon)","no":"337","province_code":"Kalimantan Utara","zip_code":"77457"}
+{"city_code":"Nunukan","code":"65.03.04.2001","district_code":"Lumbis","level":"Kabupaten","name":"Deralon","no":"338","province_code":"Kalimantan Utara","zip_code":"77457"}
+{"city_code":"Nunukan","code":"65.03.04.2026","district_code":"Lumbis","level":"Kabupaten","name":"Kalampising","no":"339","province_code":"Kalimantan Utara","zip_code":"77457"}
+{"city_code":"Nunukan","code":"65.03.04.2002","district_code":"Lumbis","level":"Kabupaten","name":"Liang","no":"340","province_code":"Kalimantan Utara","zip_code":"77457"}
+{"city_code":"Nunukan","code":"65.03.04.2013","district_code":"Lumbis","level":"Kabupaten","name":"Libang","no":"341","province_code":"Kalimantan Utara","zip_code":"77457"}
+{"city_code":"Nunukan","code":"65.03.04.2024","district_code":"Lumbis","level":"Kabupaten","name":"Likos","no":"342","province_code":"Kalimantan Utara","zip_code":"77457"}
+{"city_code":"Nunukan","code":"65.03.04.2017","district_code":"Lumbis","level":"Kabupaten","name":"Lintong","no":"343","province_code":"Kalimantan Utara","zip_code":"77457"}
+{"city_code":"Nunukan","code":"65.03.04.2028","district_code":"Lumbis","level":"Kabupaten","name":"Mansalong","no":"344","province_code":"Kalimantan Utara","zip_code":"77457"}
+{"city_code":"Nunukan","code":"65.03.04.2009","district_code":"Lumbis","level":"Kabupaten","name":"Nainsid","no":"345","province_code":"Kalimantan Utara","zip_code":"77457"}
+{"city_code":"Nunukan","code":"65.03.04.2027","district_code":"Lumbis","level":"Kabupaten","name":"Pa'lemumut (Pa Lemumut)","no":"346","province_code":"Kalimantan Utara","zip_code":"77457"}
+{"city_code":"Nunukan","code":"65.03.04.2021","district_code":"Lumbis","level":"Kabupaten","name":"Pa'loo (Pa Loo)","no":"347","province_code":"Kalimantan Utara","zip_code":"77457"}
+{"city_code":"Nunukan","code":"65.03.04.2006","district_code":"Lumbis","level":"Kabupaten","name":"Patal I (Satu)","no":"348","province_code":"Kalimantan Utara","zip_code":"77457"}
+{"city_code":"Nunukan","code":"65.03.04.2020","district_code":"Lumbis","level":"Kabupaten","name":"Patal II (Dua)","no":"349","province_code":"Kalimantan Utara","zip_code":"77457"}
+{"city_code":"Nunukan","code":"65.03.04.2005","district_code":"Lumbis","level":"Kabupaten","name":"Podong","no":"350","province_code":"Kalimantan Utara","zip_code":"77457"}
+{"city_code":"Nunukan","code":"65.03.04.2018","district_code":"Lumbis","level":"Kabupaten","name":"Pulu Bulawan","no":"351","province_code":"Kalimantan Utara","zip_code":"77457"}
+{"city_code":"Nunukan","code":"65.03.04.2011","district_code":"Lumbis","level":"Kabupaten","name":"Saludan","no":"352","province_code":"Kalimantan Utara","zip_code":"77457"}
+{"city_code":"Nunukan","code":"65.03.04.2022","district_code":"Lumbis","level":"Kabupaten","name":"Sangkub (Sangkup)","no":"353","province_code":"Kalimantan Utara","zip_code":"77457"}
+{"city_code":"Nunukan","code":"65.03.04.2008","district_code":"Lumbis","level":"Kabupaten","name":"Sapuyan","no":"354","province_code":"Kalimantan Utara","zip_code":"77457"}
+{"city_code":"Nunukan","code":"65.03.04.2010","district_code":"Lumbis","level":"Kabupaten","name":"Sasibu","no":"355","province_code":"Kalimantan Utara","zip_code":"77457"}
+{"city_code":"Nunukan","code":"65.03.04.2014","district_code":"Lumbis","level":"Kabupaten","name":"Sedongon","no":"356","province_code":"Kalimantan Utara","zip_code":"77457"}
+{"city_code":"Nunukan","code":"65.03.04.2012","district_code":"Lumbis","level":"Kabupaten","name":"Semalat","no":"357","province_code":"Kalimantan Utara","zip_code":"77457"}
+{"city_code":"Nunukan","code":"65.03.04.2007","district_code":"Lumbis","level":"Kabupaten","name":"Siawang","no":"358","province_code":"Kalimantan Utara","zip_code":"77457"}
+{"city_code":"Nunukan","code":"65.03.04.2016","district_code":"Lumbis","level":"Kabupaten","name":"Sumalumung","no":"359","province_code":"Kalimantan Utara","zip_code":"77457"}
+{"city_code":"Nunukan","code":"65.03.04.2004","district_code":"Lumbis","level":"Kabupaten","name":"Taluan","no":"360","province_code":"Kalimantan Utara","zip_code":"77457"}
+{"city_code":"Nunukan","code":"65.03.04.2015","district_code":"Lumbis","level":"Kabupaten","name":"Tanjung Hilir","no":"361","province_code":"Kalimantan Utara","zip_code":"77457"}
+{"city_code":"Nunukan","code":"65.03.04.2019","district_code":"Lumbis","level":"Kabupaten","name":"Tanjung Hulu","no":"362","province_code":"Kalimantan Utara","zip_code":"77457"}
+{"city_code":"Nunukan","code":"65.03.04.2023","district_code":"Lumbis","level":"Kabupaten","name":"Tubus","no":"363","province_code":"Kalimantan Utara","zip_code":"77457"}
+{"city_code":"Nunukan","code":"65.03.18.2015","district_code":"Krayan Timur","level":"Kabupaten","name":"Bungayan","no":"364","province_code":"Kalimantan Utara","zip_code":"77459"}
+{"city_code":"Nunukan","code":"65.03.18.2017","district_code":"Krayan Timur","level":"Kabupaten","name":"Kampung Baru","no":"365","province_code":"Kalimantan Utara","zip_code":"77459"}
+{"city_code":"Nunukan","code":"65.03.18.2010","district_code":"Krayan Timur","level":"Kabupaten","name":"Long Nuat","no":"366","province_code":"Kalimantan Utara","zip_code":"77459"}
+{"city_code":"Nunukan","code":"65.03.18.2002","district_code":"Krayan Timur","level":"Kabupaten","name":"Long Sepayang","no":"367","province_code":"Kalimantan Utara","zip_code":"77459"}
+{"city_code":"Nunukan","code":"65.03.18.2009","district_code":"Krayan Timur","level":"Kabupaten","name":"Long Tenem","no":"368","province_code":"Kalimantan Utara","zip_code":"77459"}
+{"city_code":"Nunukan","code":"65.03.18.2008","district_code":"Krayan Timur","level":"Kabupaten","name":"Long Umung","no":"369","province_code":"Kalimantan Utara","zip_code":"77459"}
+{"city_code":"Nunukan","code":"65.03.18.2001","district_code":"Krayan Timur","level":"Kabupaten","name":"Pa' Betung (Pa Betung)","no":"370","province_code":"Kalimantan Utara","zip_code":"77459"}
+{"city_code":"Nunukan","code":"65.03.18.2005","district_code":"Krayan Timur","level":"Kabupaten","name":"Pa' Kebuan (Pa Kebuan)","no":"371","province_code":"Kalimantan Utara","zip_code":"77459"}
+{"city_code":"Nunukan","code":"65.03.18.2013","district_code":"Krayan Timur","level":"Kabupaten","name":"Pa' Lidung (Pa Lidung)","no":"372","province_code":"Kalimantan Utara","zip_code":"77459"}
+{"city_code":"Nunukan","code":"65.03.18.2004","district_code":"Krayan Timur","level":"Kabupaten","name":"Pa' Melade (Pa Melade)","no":"373","province_code":"Kalimantan Utara","zip_code":"77459"}
+{"city_code":"Nunukan","code":"65.03.18.2011","district_code":"Krayan Timur","level":"Kabupaten","name":"Pa' Pala (Pa Pala)","no":"374","province_code":"Kalimantan Utara","zip_code":"77459"}
+{"city_code":"Nunukan","code":"65.03.18.2003","district_code":"Krayan Timur","level":"Kabupaten","name":"Pa' Pawan (Pa Pawan)","no":"375","province_code":"Kalimantan Utara","zip_code":"77459"}
+{"city_code":"Nunukan","code":"65.03.18.2007","district_code":"Krayan Timur","level":"Kabupaten","name":"Pa' Rangeb (Pa Rangeb)","no":"376","province_code":"Kalimantan Utara","zip_code":"77459"}
+{"city_code":"Nunukan","code":"65.03.18.2014","district_code":"Krayan Timur","level":"Kabupaten","name":"Pa' Raye (Pa Raye)","no":"377","province_code":"Kalimantan Utara","zip_code":"77459"}
+{"city_code":"Nunukan","code":"65.03.18.2006","district_code":"Krayan Timur","level":"Kabupaten","name":"Pa' Umung (Pa Umung)","no":"378","province_code":"Kalimantan Utara","zip_code":"77459"}
+{"city_code":"Nunukan","code":"65.03.18.2012","district_code":"Krayan Timur","level":"Kabupaten","name":"Sinar Baru","no":"379","province_code":"Kalimantan Utara","zip_code":"77459"}
+{"city_code":"Nunukan","code":"65.03.18.2016","district_code":"Krayan Timur","level":"Kabupaten","name":"Wa' Yagung (Wa Yagung)","no":"380","province_code":"Kalimantan Utara","zip_code":"77459"}
+{"city_code":"Nunukan","code":"65.03.17.2009","district_code":"Krayan Tengah","level":"Kabupaten","name":"Ba' Liku (Ba Liku)","no":"381","province_code":"Kalimantan Utara","zip_code":"77458"}
+{"city_code":"Nunukan","code":"65.03.17.2006","district_code":"Krayan Tengah","level":"Kabupaten","name":"Binuang","no":"382","province_code":"Kalimantan Utara","zip_code":"77458"}
+{"city_code":"Nunukan","code":"65.03.17.2003","district_code":"Krayan Tengah","level":"Kabupaten","name":"Long Kelupan","no":"383","province_code":"Kalimantan Utara","zip_code":"77458"}
+{"city_code":"Nunukan","code":"65.03.17.2007","district_code":"Krayan Tengah","level":"Kabupaten","name":"Long Mutan","no":"384","province_code":"Kalimantan Utara","zip_code":"77458"}
+{"city_code":"Nunukan","code":"65.03.17.2004","district_code":"Krayan Tengah","level":"Kabupaten","name":"Long Padi","no":"385","province_code":"Kalimantan Utara","zip_code":"77458"}
+{"city_code":"Nunukan","code":"65.03.17.2010","district_code":"Krayan Tengah","level":"Kabupaten","name":"Long Rian","no":"386","province_code":"Kalimantan Utara","zip_code":"77458"}
+{"city_code":"Nunukan","code":"65.03.17.2002","district_code":"Krayan Tengah","level":"Kabupaten","name":"Long Rungan","no":"387","province_code":"Kalimantan Utara","zip_code":"77458"}
+{"city_code":"Nunukan","code":"65.03.17.2008","district_code":"Krayan Tengah","level":"Kabupaten","name":"Pa' Milau (Pa Milau)","no":"388","province_code":"Kalimantan Utara","zip_code":"77458"}
+{"city_code":"Nunukan","code":"65.03.17.2011","district_code":"Krayan Tengah","level":"Kabupaten","name":"Pa' Yalau (Pa Yalau)","no":"389","province_code":"Kalimantan Utara","zip_code":"77458"}
+{"city_code":"Nunukan","code":"65.03.17.2005","district_code":"Krayan Tengah","level":"Kabupaten","name":"Tang Badui","no":"390","province_code":"Kalimantan Utara","zip_code":"77458"}
+{"city_code":"Nunukan","code":"65.03.17.2001","district_code":"Krayan Tengah","level":"Kabupaten","name":"Tang Paye","no":"391","province_code":"Kalimantan Utara","zip_code":"77458"}
+{"city_code":"Nunukan","code":"65.03.07.2002","district_code":"Krayan Selatan","level":"Kabupaten","name":"Liang Lunuk","no":"392","province_code":"Kalimantan Utara","zip_code":"77454"}
+{"city_code":"Nunukan","code":"65.03.07.2010","district_code":"Krayan Selatan","level":"Kabupaten","name":"Long Birar","no":"393","province_code":"Kalimantan Utara","zip_code":"77454"}
+{"city_code":"Nunukan","code":"65.03.07.2016","district_code":"Krayan Selatan","level":"Kabupaten","name":"Long Budung","no":"394","province_code":"Kalimantan Utara","zip_code":"77454"}
+{"city_code":"Nunukan","code":"65.03.07.2001","district_code":"Krayan Selatan","level":"Kabupaten","name":"Long Pasia","no":"395","province_code":"Kalimantan Utara","zip_code":"77454"}
+{"city_code":"Nunukan","code":"65.03.07.2018","district_code":"Krayan Selatan","level":"Kabupaten","name":"Long Pupung","no":"396","province_code":"Kalimantan Utara","zip_code":"77454"}
+{"city_code":"Nunukan","code":"65.03.07.2004","district_code":"Krayan Selatan","level":"Kabupaten","name":"Pa' Amai (Pa Amai)","no":"397","province_code":"Kalimantan Utara","zip_code":"77454"}
+{"city_code":"Nunukan","code":"65.03.07.2009","district_code":"Krayan Selatan","level":"Kabupaten","name":"Pa' Dalan (Pa Dalan)","no":"398","province_code":"Kalimantan Utara","zip_code":"77454"}
+{"city_code":"Nunukan","code":"65.03.07.2003","district_code":"Krayan Selatan","level":"Kabupaten","name":"Pa' Ibang (Pa Ibang)","no":"399","province_code":"Kalimantan Utara","zip_code":"77454"}
+{"city_code":"Nunukan","code":"65.03.07.2005","district_code":"Krayan Selatan","level":"Kabupaten","name":"Pa' Kaber (Pa Kaber)","no":"400","province_code":"Kalimantan Utara","zip_code":"77454"}
+{"city_code":"Nunukan","code":"65.03.07.2007","district_code":"Krayan Selatan","level":"Kabupaten","name":"Pa' Sing (Pa Sing)","no":"401","province_code":"Kalimantan Utara","zip_code":"77454"}
+{"city_code":"Nunukan","code":"65.03.07.2006","district_code":"Krayan Selatan","level":"Kabupaten","name":"Pa' Tera (Pa Tera)","no":"402","province_code":"Kalimantan Utara","zip_code":"77454"}
+{"city_code":"Nunukan","code":"65.03.07.2011","district_code":"Krayan Selatan","level":"Kabupaten","name":"Pa' Upan (Pa Upan)","no":"403","province_code":"Kalimantan Utara","zip_code":"77454"}
+{"city_code":"Nunukan","code":"65.03.07.2020","district_code":"Krayan Selatan","level":"Kabupaten","name":"Pa' Urang (Pa Urang)","no":"404","province_code":"Kalimantan Utara","zip_code":"77454"}
+{"city_code":"Nunukan","code":"65.03.19.2004","district_code":"Krayan Barat","level":"Kabupaten","name":"Buduk Kubul","no":"405","province_code":"Kalimantan Utara","zip_code":"77455"}
+{"city_code":"Nunukan","code":"65.03.19.2014","district_code":"Krayan Barat","level":"Kabupaten","name":"Lembada","no":"406","province_code":"Kalimantan Utara","zip_code":"77455"}
+{"city_code":"Nunukan","code":"65.03.19.2007","district_code":"Krayan Barat","level":"Kabupaten","name":"Lembudud","no":"407","province_code":"Kalimantan Utara","zip_code":"77455"}
+{"city_code":"Nunukan","code":"65.03.19.2021","district_code":"Krayan Barat","level":"Kabupaten","name":"Lepatar","no":"408","province_code":"Kalimantan Utara","zip_code":"77455"}
+{"city_code":"Nunukan","code":"65.03.19.2017","district_code":"Krayan Barat","level":"Kabupaten","name":"Liang Aliq (Liang Alig)","no":"409","province_code":"Kalimantan Utara","zip_code":"77455"}
+{"city_code":"Nunukan","code":"65.03.19.2020","district_code":"Krayan Barat","level":"Kabupaten","name":"Liang Bua","no":"410","province_code":"Kalimantan Utara","zip_code":"77455"}
+{"city_code":"Nunukan","code":"65.03.19.2019","district_code":"Krayan Barat","level":"Kabupaten","name":"Liang Turan","no":"411","province_code":"Kalimantan Utara","zip_code":"77455"}
+{"city_code":"Nunukan","code":"65.03.19.2005","district_code":"Krayan Barat","level":"Kabupaten","name":"Long Kabid","no":"412","province_code":"Kalimantan Utara","zip_code":"77455"}
+{"city_code":"Nunukan","code":"65.03.19.2003","district_code":"Krayan Barat","level":"Kabupaten","name":"Long Mangan","no":"413","province_code":"Kalimantan Utara","zip_code":"77455"}
+{"city_code":"Nunukan","code":"65.03.19.2002","district_code":"Krayan Barat","level":"Kabupaten","name":"Long Puak","no":"414","province_code":"Kalimantan Utara","zip_code":"77455"}
+{"city_code":"Nunukan","code":"65.03.19.2008","district_code":"Krayan Barat","level":"Kabupaten","name":"Long Tugul","no":"415","province_code":"Kalimantan Utara","zip_code":"77455"}
+{"city_code":"Nunukan","code":"65.03.19.2025","district_code":"Krayan Barat","level":"Kabupaten","name":"Ma' Libu (Ma Libu)","no":"416","province_code":"Kalimantan Utara","zip_code":"77455"}
+{"city_code":"Nunukan","code":"65.03.19.2009","district_code":"Krayan Barat","level":"Kabupaten","name":"Pa' Butal (Pa Butal)","no":"417","province_code":"Kalimantan Utara","zip_code":"77455"}
+{"city_code":"Nunukan","code":"65.03.19.2010","district_code":"Krayan Barat","level":"Kabupaten","name":"Pa' Delung (Pa Delung)","no":"418","province_code":"Kalimantan Utara","zip_code":"77455"}
+{"city_code":"Nunukan","code":"65.03.19.2006","district_code":"Krayan Barat","level":"Kabupaten","name":"Pa' Inan (Pa Inan)","no":"419","province_code":"Kalimantan Utara","zip_code":"77455"}
+{"city_code":"Nunukan","code":"65.03.19.2012","district_code":"Krayan Barat","level":"Kabupaten","name":"Pa' Kemut (Pa Kemut)","no":"420","province_code":"Kalimantan Utara","zip_code":"77455"}
+{"city_code":"Nunukan","code":"65.03.19.2013","district_code":"Krayan Barat","level":"Kabupaten","name":"Pa' Kidang (Pa Kidang)","no":"421","province_code":"Kalimantan Utara","zip_code":"77455"}
+{"city_code":"Nunukan","code":"65.03.19.2024","district_code":"Krayan Barat","level":"Kabupaten","name":"Pa' Lutut (Pa Lutut)","no":"422","province_code":"Kalimantan Utara","zip_code":"77455"}
+{"city_code":"Nunukan","code":"65.03.19.2022","district_code":"Krayan Barat","level":"Kabupaten","name":"Pa' Mering (Pa Mering)","no":"423","province_code":"Kalimantan Utara","zip_code":"77455"}
+{"city_code":"Nunukan","code":"65.03.19.2001","district_code":"Krayan Barat","level":"Kabupaten","name":"Pa' Mulak (Pa Mulak)","no":"424","province_code":"Kalimantan Utara","zip_code":"77455"}
+{"city_code":"Nunukan","code":"65.03.19.2023","district_code":"Krayan Barat","level":"Kabupaten","name":"Pa' Pani (Pa Pani)","no":"425","province_code":"Kalimantan Utara","zip_code":"77455"}
+{"city_code":"Nunukan","code":"65.03.19.2015","district_code":"Krayan Barat","level":"Kabupaten","name":"Pa' Payak (Pa Payak)","no":"426","province_code":"Kalimantan Utara","zip_code":"77455"}
+{"city_code":"Nunukan","code":"65.03.19.2016","district_code":"Krayan Barat","level":"Kabupaten","name":"Pa' Pirit (Pa Pirit)","no":"427","province_code":"Kalimantan Utara","zip_code":"77455"}
+{"city_code":"Nunukan","code":"65.03.19.2011","district_code":"Krayan Barat","level":"Kabupaten","name":"Pa' Urud (Pa Urud)","no":"428","province_code":"Kalimantan Utara","zip_code":"77455"}
+{"city_code":"Nunukan","code":"65.03.19.2018","district_code":"Krayan Barat","level":"Kabupaten","name":"Sembudud","no":"429","province_code":"Kalimantan Utara","zip_code":"77455"}
+{"city_code":"Nunukan","code":"65.03.05.2030","district_code":"Krayan","level":"Kabupaten","name":"Ba Sikor","no":"430","province_code":"Kalimantan Utara","zip_code":"77456"}
+{"city_code":"Nunukan","code":"65.03.05.2032","district_code":"Krayan","level":"Kabupaten","name":"Buduk Kinangan","no":"431","province_code":"Kalimantan Utara","zip_code":"77456"}
+{"city_code":"Nunukan","code":"65.03.05.2034","district_code":"Krayan","level":"Kabupaten","name":"Buduk Tumu","no":"432","province_code":"Kalimantan Utara","zip_code":"77456"}
+{"city_code":"Nunukan","code":"65.03.05.2003","district_code":"Krayan","level":"Kabupaten","name":"Cinglat","no":"433","province_code":"Kalimantan Utara","zip_code":"77456"}
+{"city_code":"Nunukan","code":"65.03.05.2046","district_code":"Krayan","level":"Kabupaten","name":"Liang Biadung (Long Bia Dung)","no":"434","province_code":"Kalimantan Utara","zip_code":"77456"}
+{"city_code":"Nunukan","code":"65.03.05.2022","district_code":"Krayan","level":"Kabupaten","name":"Liang Butan","no":"435","province_code":"Kalimantan Utara","zip_code":"77456"}
+{"city_code":"Nunukan","code":"65.03.05.2033","district_code":"Krayan","level":"Kabupaten","name":"Liang Tuer","no":"436","province_code":"Kalimantan Utara","zip_code":"77456"}
+{"city_code":"Nunukan","code":"65.03.05.2041","district_code":"Krayan","level":"Kabupaten","name":"Long Bawan","no":"437","province_code":"Kalimantan Utara","zip_code":"77456"}
+{"city_code":"Nunukan","code":"65.03.05.2035","district_code":"Krayan","level":"Kabupaten","name":"Long Berayang","no":"438","province_code":"Kalimantan Utara","zip_code":"77456"}
+{"city_code":"Nunukan","code":"65.03.05.2040","district_code":"Krayan","level":"Kabupaten","name":"Long Katung","no":"439","province_code":"Kalimantan Utara","zip_code":"77456"}
+{"city_code":"Nunukan","code":"65.03.05.2044","district_code":"Krayan","level":"Kabupaten","name":"Long Matung","no":"440","province_code":"Kalimantan Utara","zip_code":"77456"}
+{"city_code":"Nunukan","code":"65.03.05.2039","district_code":"Krayan","level":"Kabupaten","name":"Long Nawan (Long Nawang)","no":"441","province_code":"Kalimantan Utara","zip_code":"77456"}
+{"city_code":"Nunukan","code":"65.03.05.2045","district_code":"Krayan","level":"Kabupaten","name":"Long Rupan","no":"442","province_code":"Kalimantan Utara","zip_code":"77456"}
+{"city_code":"Nunukan","code":"65.03.05.2036","district_code":"Krayan","level":"Kabupaten","name":"Pa' Api (Pa Api)","no":"443","province_code":"Kalimantan Utara","zip_code":"77456"}
+{"city_code":"Nunukan","code":"65.03.05.2048","district_code":"Krayan","level":"Kabupaten","name":"Pa' Matung (Pa Matung)","no":"444","province_code":"Kalimantan Utara","zip_code":"77456"}
+{"city_code":"Nunukan","code":"65.03.05.2031","district_code":"Krayan","level":"Kabupaten","name":"Pa' Nado (Pa Nado)","no":"445","province_code":"Kalimantan Utara","zip_code":"77456"}
+{"city_code":"Nunukan","code":"65.03.05.2002","district_code":"Krayan","level":"Kabupaten","name":"Pa' Padi (Pa Padi)","no":"446","province_code":"Kalimantan Utara","zip_code":"77456"}
+{"city_code":"Nunukan","code":"65.03.05.2065","district_code":"Krayan","level":"Kabupaten","name":"Pa' Putuk (Pa Putuk)","no":"447","province_code":"Kalimantan Utara","zip_code":"77456"}
+{"city_code":"Nunukan","code":"65.03.05.2029","district_code":"Krayan","level":"Kabupaten","name":"Pa' Rupai (Pa Rupai)","no":"448","province_code":"Kalimantan Utara","zip_code":"77456"}
+{"city_code":"Nunukan","code":"65.03.05.2037","district_code":"Krayan","level":"Kabupaten","name":"Pa' Sire (Pa Sire)","no":"449","province_code":"Kalimantan Utara","zip_code":"77456"}
+{"city_code":"Nunukan","code":"65.03.05.2049","district_code":"Krayan","level":"Kabupaten","name":"Pa' Terutun (Pa Terutun)","no":"450","province_code":"Kalimantan Utara","zip_code":"77456"}
+{"city_code":"Nunukan","code":"65.03.05.2047","district_code":"Krayan","level":"Kabupaten","name":"Wa' Laya (Wa Laya)","no":"451","province_code":"Kalimantan Utara","zip_code":"77456"}
+{"city_code":"Nunukan","code":"65.03.05.2038","district_code":"Krayan","level":"Kabupaten","name":"Wa' Yanud (Wa Yanud)","no":"452","province_code":"Kalimantan Utara","zip_code":"77456"}
+{"city_code":"Malinau","code":"65.02.10.2003","district_code":"Kayan Selatan","level":"Kabupaten","name":"Lidung Payau","no":"453","province_code":"Kalimantan Utara","zip_code":"77573"}
+{"city_code":"Malinau","code":"65.02.10.2001","district_code":"Kayan Selatan","level":"Kabupaten","name":"Long Ampung","no":"454","province_code":"Kalimantan Utara","zip_code":"77573"}
+{"city_code":"Malinau","code":"65.02.10.2002","district_code":"Kayan Selatan","level":"Kabupaten","name":"Long Uro","no":"455","province_code":"Kalimantan Utara","zip_code":"77573"}
+{"city_code":"Malinau","code":"65.02.10.2005","district_code":"Kayan Selatan","level":"Kabupaten","name":"Metulang","no":"456","province_code":"Kalimantan Utara","zip_code":"77573"}
+{"city_code":"Malinau","code":"65.02.10.2004","district_code":"Kayan Selatan","level":"Kabupaten","name":"Sungai Barang","no":"457","province_code":"Kalimantan Utara","zip_code":"77573"}
+{"city_code":"Malinau","code":"65.02.05.2004","district_code":"Kayan Hulu","level":"Kabupaten","name":"Long Betaoh","no":"458","province_code":"Kalimantan Utara","zip_code":"77572"}
+{"city_code":"Malinau","code":"65.02.05.2001","district_code":"Kayan Hulu","level":"Kabupaten","name":"Long Nawang","no":"459","province_code":"Kalimantan Utara","zip_code":"77572"}
+{"city_code":"Malinau","code":"65.02.05.2005","district_code":"Kayan Hulu","level":"Kabupaten","name":"Long Payau","no":"460","province_code":"Kalimantan Utara","zip_code":"77572"}
+{"city_code":"Malinau","code":"65.02.05.2003","district_code":"Kayan Hulu","level":"Kabupaten","name":"Long Temunyat/Temuyat","no":"461","province_code":"Kalimantan Utara","zip_code":"77572"}
+{"city_code":"Malinau","code":"65.02.05.2002","district_code":"Kayan Hulu","level":"Kabupaten","name":"Nawang Baru","no":"462","province_code":"Kalimantan Utara","zip_code":"77572"}
+{"city_code":"Malinau","code":"65.02.04.2001","district_code":"Kayan Hilir","level":"Kabupaten","name":"Data Dian","no":"463","province_code":"Kalimantan Utara","zip_code":"77571"}
+{"city_code":"Malinau","code":"65.02.04.2005","district_code":"Kayan Hilir","level":"Kabupaten","name":"Long Metun (Long Metun II)","no":"464","province_code":"Kalimantan Utara","zip_code":"77571"}
+{"city_code":"Malinau","code":"65.02.04.2002","district_code":"Kayan Hilir","level":"Kabupaten","name":"Long Pipa","no":"465","province_code":"Kalimantan Utara","zip_code":"77571"}
+{"city_code":"Malinau","code":"65.02.04.2003","district_code":"Kayan Hilir","level":"Kabupaten","name":"Long Sule","no":"466","province_code":"Kalimantan Utara","zip_code":"77571"}
+{"city_code":"Malinau","code":"65.02.04.2004","district_code":"Kayan Hilir","level":"Kabupaten","name":"Sei/Sungai Anai","no":"467","province_code":"Kalimantan Utara","zip_code":"77571"}
+{"city_code":"Bulungan","code":"65.01.10.2001","district_code":"Bunyu (Pulau Bunyu)","level":"Kabupaten","name":"Bunyu Barat (Pulau Bunyu Barat)","no":"468","province_code":"Kalimantan Utara","zip_code":"77281"}
+{"city_code":"Bulungan","code":"65.01.10.2002","district_code":"Bunyu (Pulau Bunyu)","level":"Kabupaten","name":"Bunyu Selatan (Pulau Bunyu Selatan)","no":"469","province_code":"Kalimantan Utara","zip_code":"77281"}
+{"city_code":"Bulungan","code":"65.01.10.2003","district_code":"Bunyu (Pulau Bunyu)","level":"Kabupaten","name":"Bunyu Timur (Pulau Bunyu Timur)","no":"470","province_code":"Kalimantan Utara","zip_code":"77281"}
+{"city_code":"Tana Tidung","code":"65.04.04.2002","district_code":"Betayau","level":"Kabupaten","name":"Bebakung","no":"471","province_code":"Kalimantan Utara","zip_code":"77152"}
+{"city_code":"Tana Tidung","code":"65.04.04.2001","district_code":"Betayau","level":"Kabupaten","name":"Buong Baru","no":"472","province_code":"Kalimantan Utara","zip_code":"77152"}
+{"city_code":"Tana Tidung","code":"65.04.04.2003","district_code":"Betayau","level":"Kabupaten","name":"Kujau","no":"473","province_code":"Kalimantan Utara","zip_code":"77152"}
+{"city_code":"Tana Tidung","code":"65.04.04.2005","district_code":"Betayau","level":"Kabupaten","name":"Maning","no":"474","province_code":"Kalimantan Utara","zip_code":"77152"}
+{"city_code":"Tana Tidung","code":"65.04.04.2004","district_code":"Betayau","level":"Kabupaten","name":"Mendupo","no":"475","province_code":"Kalimantan Utara","zip_code":"77152"}
+{"city_code":"Tana Tidung","code":"65.04.04.2006","district_code":"Betayau","level":"Kabupaten","name":"Periuk","no":"476","province_code":"Kalimantan Utara","zip_code":"77152"}
+{"city_code":"Malinau","code":"65.02.11.2005","district_code":"Bahau Hulu","level":"Kabupaten","name":"Apau Ping (Apau Ping Mading)","no":"477","province_code":"Kalimantan Utara","zip_code":"77562"}
+{"city_code":"Malinau","code":"65.02.11.2002","district_code":"Bahau Hulu","level":"Kabupaten","name":"Long Alango","no":"478","province_code":"Kalimantan Utara","zip_code":"77562"}
+{"city_code":"Malinau","code":"65.02.11.2006","district_code":"Bahau Hulu","level":"Kabupaten","name":"Long Atua/Long Kemuat","no":"479","province_code":"Kalimantan Utara","zip_code":"77562"}
+{"city_code":"Malinau","code":"65.02.11.2003","district_code":"Bahau Hulu","level":"Kabupaten","name":"Long Berini (Long Berini Mararian)","no":"480","province_code":"Kalimantan Utara","zip_code":"77562"}
+{"city_code":"Malinau","code":"65.02.11.2004","district_code":"Bahau Hulu","level":"Kabupaten","name":"Long Tabulo/Tebulo","no":"481","province_code":"Kalimantan Utara","zip_code":"77562"}
+{"city_code":"Malinau","code":"65.02.11.2001","district_code":"Bahau Hulu","level":"Kabupaten","name":"Long Uli","no":"482","province_code":"Kalimantan Utara","zip_code":"77562"}
